@@ -1,0 +1,10 @@
+baseURL = "https://farzy.org/"
+languageCode = "fr-FR"
+languageName= "Français"
+title = "Farzad FARID"
+
+theme = "ananke"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableGitInfo = true
