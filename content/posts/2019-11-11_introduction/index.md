@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Introduction"
 author: "Farzad FARID"
 date: 2019-11-11T15:18:22.914Z
 lastmod: 2020-05-21T00:14:36+02:00
@@ -13,7 +13,7 @@ tags:
  - Bande Dessinée
  - Livre
 
-featured_image: "/posts/2019-11-11_introduction/images/1.jpeg" 
+image: "/posts/2019-11-11_introduction/images/1.jpeg" 
 images:
  - "/posts/2019-11-11_introduction/images/1.jpeg"
 
@@ -23,6 +23,7 @@ aliases:
 
 ---
 
+![image](/posts/2019-11-11_introduction/images/1.jpeg#layoutOutsetCenter)
 
 Je vais parler ici de lectures que j’aime, revues, livres, bandes dessinées…, présenter mes coups de cœur et, peut-être, donner envie à d’autres personnes de les lire.
 
