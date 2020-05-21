@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Livres"
 author: "Farzad FARID"
 date: 2019-11-11T15:18:22.914Z
 lastmod: 2020-05-21T00:14:36+02:00
@@ -18,11 +18,7 @@ images:
  - "/images/home-library.jpg"
 ---
 
-Here I'm going to talk about readings that I liked, magazines, books, comic books…, present
-my favourites and, maybe, make you want to read them :smile
 
-I started writing these texts a long time ago, in a private Slack channel at work,
-and I felt like gathering them here.
+Je vais parler ici de lectures que j’aime, revues, livres, bandes dessinées…, présenter mes coups de cœur et, peut-être, donner envie à d’autres personnes de les lire.
 
-**Note**: As of today, most articles are in French! That's why you may not see many content in
-English here.
+J’ai commencé à écrire ces petits textes il y a longtemps, dans un cercle privé, et j’ai eu envie de les regrouper ici. C’est pourquoi certaines publications seront en rafale.

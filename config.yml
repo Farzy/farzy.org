@@ -11,8 +11,6 @@ enableGitInfo: true
 
 SectionPagesMenu: "main"
 
-DefaultContentLanguage: "fr"
-
 params:
   favicon: ""
   description: "On books, comics, SRE, Kubernetes…"
@@ -30,5 +28,14 @@ params:
   background_color_class: "bg-navy"
   featured_image: "/images/taira-nami-teapot.jpg"
   recent_posts_number: 4
-
   show_reading_time: true
+
+DefaultContentLanguage: "en"
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2
+    description: "Des livres, des bandes dessinées, de l'infrastructure, du Kubernetes…"
