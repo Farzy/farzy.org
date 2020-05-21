@@ -2,7 +2,7 @@
 title: "About"
 date: 2020-05-21T17:05:20+02:00
 tags: []
-featured_image: ""
+featured_image: "/images/taira-nami-teapot.jpg"
 description: "Who I am? Why this site? What do I publish here?"
 draft: false
 ---
