@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2019-12-07_science-foot-de-pierre-la-police/images/1.jpeg" 
+image: "/posts/science-foot-de-pierre-la-police/images/1.jpeg" 
 images:
- - "/posts/2019-12-07_science-foot-de-pierre-la-police/images/1.jpeg"
+ - "/posts/science-foot-de-pierre-la-police/images/1.jpeg"
 
 
 aliases:
@@ -30,4 +30,4 @@ Je crois qu’il est peu connu mais il ne passe pas inaperçu. Cette BD regroupe
 
 
 
-![image](/posts/2019-12-07_science-foot-de-pierre-la-police/images/1.jpeg#layoutTextWidth)
+![image](/posts/science-foot-de-pierre-la-police/images/1.jpeg#layoutTextWidth)

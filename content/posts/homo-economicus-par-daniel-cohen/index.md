@@ -13,11 +13,11 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/1.jpeg" 
+image: "/posts/homo-economicus-par-daniel-cohen/images/1.jpeg" 
 images:
- - "/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/1.jpeg"
- - "/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/2.jpeg"
- - "/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/3.jpeg"
+ - "/posts/homo-economicus-par-daniel-cohen/images/1.jpeg"
+ - "/posts/homo-economicus-par-daniel-cohen/images/2.jpeg"
+ - "/posts/homo-economicus-par-daniel-cohen/images/3.jpeg"
 
 
 aliases:
@@ -30,7 +30,7 @@ Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux»
 
 
 
-![image](/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/1.jpeg#layoutTextWidth)
+![image](/posts/homo-economicus-par-daniel-cohen/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -39,7 +39,7 @@ Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux»
 
 
 
-![image](/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/2.jpeg#layoutTextWidth)
+![image](/posts/homo-economicus-par-daniel-cohen/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -64,7 +64,7 @@ Autre chapitre qui m’a marqué, c’est celui sur l’économie numérique. Il
 
 
 
-![image](/posts/2020-02-15_homo-economicus-par-daniel-cohen/images/3.jpeg#layoutTextWidth)
+![image](/posts/homo-economicus-par-daniel-cohen/images/3.jpeg#layoutTextWidth)
 
 
 

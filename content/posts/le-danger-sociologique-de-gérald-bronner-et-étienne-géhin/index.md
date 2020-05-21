@@ -14,9 +14,9 @@ tags:
  - Book Review
  - Sociologie
 
-image: "/posts/2020-03-07_le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg" 
+image: "/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg" 
 images:
- - "/posts/2020-03-07_le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg"
+ - "/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg"
 
 
 aliases:
@@ -29,7 +29,7 @@ J’ai lu «**Le danger sociologique**» de Gérald Bronner et Étienne Géhin. 
 
 
 
-![image](/posts/2020-03-07_le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg#layoutTextWidth)
+![image](/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg#layoutTextWidth)
 
 
 

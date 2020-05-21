@@ -13,10 +13,10 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/2020-01-25_donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg" 
+image: "/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg" 
 images:
- - "/posts/2020-01-25_donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg"
- - "/posts/2020-01-25_donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/2.jpeg"
+ - "/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg"
+ - "/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/2.jpeg"
 
 
 aliases:
@@ -29,7 +29,7 @@ Toujours de Joann Sfar, en duo avec Lewis Trondheim, j’ai relu l’intégralit
 
 
 
-![image](/posts/2020-01-25_donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg#layoutTextWidth)
+![image](/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -42,7 +42,7 @@ Les styles sont variés, notamment dans les Donjon Monsters et parfois l’humou
 
 
 
-![image](/posts/2020-01-25_donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/2.jpeg#layoutTextWidth)
+![image](/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/2.jpeg#layoutTextWidth)
 
 
 

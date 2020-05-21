@@ -12,9 +12,9 @@ tags:
  - Critique
  - Bookworm
 
-image: "/posts/2020-01-25_tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg" 
+image: "/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg" 
 images:
- - "/posts/2020-01-25_tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg"
+ - "/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg"
 
 
 aliases:
@@ -27,7 +27,7 @@ Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joan
 
 
 
-![image](/posts/2020-01-25_tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg#layoutTextWidth)
+![image](/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg#layoutTextWidth)
 
 
 

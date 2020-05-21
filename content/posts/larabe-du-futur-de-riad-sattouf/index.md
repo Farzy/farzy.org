@@ -12,9 +12,9 @@ tags:
  - Critique
  - Book Review
 
-image: "/posts/2019-11-16_larabe-du-futur-de-riad-sattouf/images/1.jpeg" 
+image: "/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg" 
 images:
- - "/posts/2019-11-16_larabe-du-futur-de-riad-sattouf/images/1.jpeg"
+ - "/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg"
 
 
 aliases:
@@ -29,7 +29,7 @@ J’ai _enfin_ lu l’année dernière le tome 1 de L’arabe du futur de Riad S
 
 
 
-![image](/posts/2019-11-16_larabe-du-futur-de-riad-sattouf/images/1.jpeg#layoutTextWidth)
+![image](/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg#layoutTextWidth)
 
 
 

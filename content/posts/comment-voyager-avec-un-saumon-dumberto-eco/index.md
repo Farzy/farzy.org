@@ -13,10 +13,10 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2019-11-23_comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg" 
+image: "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg" 
 images:
- - "/posts/2019-11-23_comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg"
- - "/posts/2019-11-23_comment-voyager-avec-un-saumon-dumberto-eco/images/2.png"
+ - "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg"
+ - "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/2.png"
 
 
 aliases:
@@ -31,7 +31,7 @@ Il a aussi un excellent sens de l’humour. C’est la combinaison de son érudi
 
 
 
-![image](/posts/2019-11-23_comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg#layoutTextWidth)
+![image](/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -42,7 +42,7 @@ On y trouve aussi bien des réflexions sur les biais des italiens, sur les chauf
 
 
 
-![image](/posts/2019-11-23_comment-voyager-avec-un-saumon-dumberto-eco/images/2.png#layoutTextWidth)
+![image](/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/2.png#layoutTextWidth)
 
 
 

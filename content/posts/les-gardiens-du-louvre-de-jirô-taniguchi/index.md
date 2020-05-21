@@ -13,15 +13,15 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg" 
+image: "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg" 
 images:
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg"
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/2.jpeg"
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/3.jpeg"
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/4.jpeg"
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg"
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg"
- - "/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/2.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/3.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/4.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg"
+ - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg"
 
 
 aliases:
@@ -34,7 +34,7 @@ Voici une bien étrange bande dessinée, qui m’a d’abord un peu déçu avant
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -45,7 +45,7 @@ Le scénario de l’histoire est la visite en France d’un homme qu’on sait �
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/2.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -56,7 +56,7 @@ Les dessins sont très beaux, presque photographiques, l’intérieur du Louvre,
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/3.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -67,7 +67,7 @@ Pour ce qui est de l’histoire, elle est étrange : notre visiteur japonais est
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/4.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -80,7 +80,7 @@ Et chaque jour, après avoir émergé de son rêve éveillé, le visiteur revien
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg#layoutTextWidth)
 
 
 
@@ -91,7 +91,7 @@ Mais tout a basculé quand le héros, lors de son avant-dernière visite au Louv
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg#layoutTextWidth)
 
 
 
@@ -108,7 +108,7 @@ Lors de sa dernière visite au Louvre notre visiteur fait une dernière rencontr
 
 
 
-![image](/posts/2020-03-01_les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg#layoutTextWidth)
+![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg#layoutTextWidth)
 
 
 

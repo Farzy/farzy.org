@@ -13,9 +13,9 @@ tags:
  - Bande Dessinée
  - Livre
 
-image: "/posts/2019-11-11_introduction/images/1.jpeg" 
+image: "/posts/introduction/images/1.jpeg" 
 images:
- - "/posts/2019-11-11_introduction/images/1.jpeg"
+ - "/posts/introduction/images/1.jpeg"
 
 
 aliases:
@@ -23,7 +23,7 @@ aliases:
 
 ---
 
-![image](/posts/2019-11-11_introduction/images/1.jpeg#layoutOutsetCenter)
+![image](/posts/introduction/images/1.jpeg#layoutOutsetCenter)
 
 Je vais parler ici de lectures que j’aime, revues, livres, bandes dessinées…, présenter mes coups de cœur et, peut-être, donner envie à d’autres personnes de les lire.
 

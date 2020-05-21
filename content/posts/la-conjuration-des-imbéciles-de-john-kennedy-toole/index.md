@@ -13,11 +13,11 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg" 
+image: "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg" 
 images:
- - "/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg"
- - "/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg"
- - "/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg"
+ - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg"
+ - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg"
+ - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg"
 
 
 aliases:
@@ -25,7 +25,7 @@ aliases:
 
 ---
 
-![image](/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg#layoutTextWidth)
+![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -34,7 +34,7 @@ Voici un livre avec une drôle d’histoire, en plus d’être lui-même une his
 
 
 
-![image](/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg#layoutOutsetLeft)
+![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg#layoutOutsetLeft)
 
 
 
@@ -49,7 +49,7 @@ Et c’est donc en aménageant la bibliothèque que je découvre que nous avons 
 
 
 
-![image](/posts/2019-11-18_la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg#layoutTextWidth)
+![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg#layoutTextWidth)
 
 
 

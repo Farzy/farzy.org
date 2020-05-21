@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2020-02-15_zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg" 
+image: "/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg" 
 images:
- - "/posts/2020-02-15_zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg"
+ - "/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg"
 
 
 aliases:
@@ -30,7 +30,7 @@ Coup de cœur de l’été dernier : «**Zaï Zaï Zaï Zaï**» de Fabcaro [htt
 
 
 
-![image](/posts/2020-02-15_zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg#layoutTextWidth)
+![image](/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg#layoutTextWidth)
 
 
 

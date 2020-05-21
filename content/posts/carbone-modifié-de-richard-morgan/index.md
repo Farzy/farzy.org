@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Science Fiction
 
-image: "/posts/2019-11-23_carbone-modifié-de-richard-morgan/images/1.jpeg" 
+image: "/posts/carbone-modifié-de-richard-morgan/images/1.jpeg" 
 images:
- - "/posts/2019-11-23_carbone-modifié-de-richard-morgan/images/1.jpeg"
+ - "/posts/carbone-modifié-de-richard-morgan/images/1.jpeg"
 
 
 aliases:
@@ -28,7 +28,7 @@ J’ai lu il y a quelques temps ce livre de SF que j’ai bien aimé. Je l’ava
 
 
 
-![image](/posts/2019-11-23_carbone-modifié-de-richard-morgan/images/1.jpeg#layoutTextWidth)
+![image](/posts/carbone-modifié-de-richard-morgan/images/1.jpeg#layoutTextWidth)
 
 
 

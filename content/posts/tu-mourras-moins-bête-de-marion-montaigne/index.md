@@ -13,13 +13,13 @@ tags:
  - Bookworm
  - Critique
 
-image: "/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg" 
+image: "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg" 
 images:
- - "/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg"
- - "/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg"
- - "/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg"
- - "/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg"
- - "/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg"
+ - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg"
+ - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg"
+ - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg"
+ - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg"
+ - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg"
 
 
 aliases:
@@ -32,7 +32,7 @@ Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras…
 
 
 
-![image](/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg#layoutTextWidth)
+![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -43,7 +43,7 @@ Chacun des histoires courtes de son blog a été reprise pour donner ces recueil
 
 
 
-![image](/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg#layoutTextWidth)
+![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -52,7 +52,7 @@ On apprend donc plein de choses tout en riant. Plein de thèmes différents ont 
 
 
 
-![image](/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg#layoutTextWidth)
+![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -61,7 +61,7 @@ On apprend aussi pourquoi il est si difficile de perdre son gras et qu’il ne s
 
 
 
-![image](/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg#layoutTextWidth)
+![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -69,7 +69,7 @@ Ou encore que, au grand dam des extrémiste de tout bord, l’homosexualité exi
 
 
 
-![image](/posts/2019-11-19_tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg#layoutOutsetCenter)
+![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg#layoutOutsetCenter)
 
 Mes jumeaux de 10 ans aussi adore ces BD ainsi que la série de dessins animés qui en a été tirée : «Parce que c’est drôle et que ça fait apprendre des trucs.»
 

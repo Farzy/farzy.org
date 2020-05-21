@@ -13,14 +13,14 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg" 
+image: "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg" 
 images:
- - "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg"
- - "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg"
- - "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg"
- - "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg"
- - "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg"
- - "/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg"
+ - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg"
+ - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg"
+ - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg"
+ - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg"
+ - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg"
+ - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg"
 
 
 aliases:
@@ -34,7 +34,7 @@ Ce
 
 
 
-![image](/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg#layoutTextWidth)
+![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -47,7 +47,7 @@ On est averti dès le dos de couverture qu’une incertitude plane sur l’ident
 
 
 
-![image](/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg#layoutTextWidth)
+![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -56,7 +56,7 @@ Et très vite l’ambiguïté de la situation du fameux Ramirez nous est présen
 
 
 
-![image](/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg#layoutTextWidth)
+![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -65,7 +65,7 @@ Les titres des chapitres ressemblent aussi à des incrustations 3D :
 
 
 
-![image](/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg#layoutTextWidth)
+![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -76,7 +76,7 @@ Quand j’ai lu que l’auteur travaillait dans le milieu de la vidéo, des effe
 
 
 
-![image](/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg#layoutTextWidth)
+![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg#layoutTextWidth)
 
 
 
@@ -89,7 +89,7 @@ L’humour est omniprésent, les références culturelles aussi. Les personnes d
 
 
 
-![image](/posts/2020-02-17_il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg#layoutTextWidth)
+![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg#layoutTextWidth)
 
 
 

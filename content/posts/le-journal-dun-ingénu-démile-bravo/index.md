@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "Lecture plus sombre avec Le journal d’un ingénu d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de «reboots» de…"
 
-image: "/posts/draft__le-journal-dun-ingénu-démile-bravo/images/1.jpeg" 
+image: "/posts/le-journal-dun-ingénu-démile-bravo/images/1.jpeg" 
 images:
- - "/posts/draft__le-journal-dun-ingénu-démile-bravo/images/1.jpeg"
+ - "/posts/le-journal-dun-ingénu-démile-bravo/images/1.jpeg"
 
 
 ---
@@ -20,7 +20,7 @@ Lecture plus sombre avec **Le journal d’un ingénu** d’Émile Bravo. Ce volu
 
 
 
-![image](/posts/draft__le-journal-dun-ingénu-démile-bravo/images/1.jpeg#layoutTextWidth)
+![image](/posts/le-journal-dun-ingénu-démile-bravo/images/1.jpeg#layoutTextWidth)
 
 
 

@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2019-11-23_la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg" 
+image: "/posts/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg" 
 images:
- - "/posts/2019-11-23_la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg"
+ - "/posts/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg"
 
 
 aliases:
@@ -28,7 +28,7 @@ Un peu plus de sérieux avec ce livre d’économie. Il date de 2007 et est touj
 
 
 
-![image](/posts/2019-11-23_la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg#layoutTextWidth)
+![image](/posts/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg#layoutTextWidth)
 
 
 

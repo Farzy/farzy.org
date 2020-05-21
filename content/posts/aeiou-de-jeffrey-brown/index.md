@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques «Ego comme X» liquidé…"
 
-image: "/posts/draft__aeiou-de-jeffrey-brown/images/1.jpeg" 
+image: "/posts/aeiou-de-jeffrey-brown/images/1.jpeg" 
 images:
- - "/posts/draft__aeiou-de-jeffrey-brown/images/1.jpeg"
- - "/posts/draft__aeiou-de-jeffrey-brown/images/2.jpeg"
+ - "/posts/aeiou-de-jeffrey-brown/images/1.jpeg"
+ - "/posts/aeiou-de-jeffrey-brown/images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’édit
 
 
 
-![image](/posts/draft__aeiou-de-jeffrey-brown/images/1.jpeg#layoutTextWidth)
+![image](/posts/aeiou-de-jeffrey-brown/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -30,7 +30,7 @@ J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’édit
 
 
 
-![image](/posts/draft__aeiou-de-jeffrey-brown/images/2.jpeg#layoutTextWidth)
+![image](/posts/aeiou-de-jeffrey-brown/images/2.jpeg#layoutTextWidth)
 
 
 

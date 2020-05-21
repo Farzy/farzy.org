@@ -12,9 +12,9 @@ tags:
  - Bande Dessinée
  - Bookworm
 
-image: "/posts/2019-11-17_achats-du-weekend/images/1.jpeg" 
+image: "/posts/achats-du-weekend/images/1.jpeg" 
 images:
- - "/posts/2019-11-17_achats-du-weekend/images/1.jpeg"
+ - "/posts/achats-du-weekend/images/1.jpeg"
 
 
 aliases:
@@ -26,4 +26,4 @@ aliases:
 
 
 
-![image](/posts/2019-11-17_achats-du-weekend/images/1.jpeg#layoutOutsetCenter)
+![image](/posts/achats-du-weekend/images/1.jpeg#layoutOutsetCenter)

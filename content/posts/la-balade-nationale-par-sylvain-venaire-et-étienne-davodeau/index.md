@@ -13,10 +13,10 @@ tags:
  - Bookworm
  - Critique
 
-image: "/posts/2019-11-18_la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg" 
+image: "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg" 
 images:
- - "/posts/2019-11-18_la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg"
- - "/posts/2019-11-18_la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg"
+ - "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg"
+ - "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg"
 
 
 aliases:
@@ -29,7 +29,7 @@ J’ai lu la première BD historique éditée par la Revue Dessinée : “La bal
 
 
 
-![image](/posts/2019-11-18_la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg#layoutTextWidth)
+![image](/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -38,7 +38,7 @@ C’est la première BD d’une série de 20 qui a pour but de proposer une rele
 
 
 
-![image](/posts/2019-11-18_la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg#layoutTextWidth)
+![image](/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg#layoutTextWidth)
 
 
 

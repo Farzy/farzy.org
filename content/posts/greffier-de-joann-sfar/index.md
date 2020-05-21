@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2020-03-09_greffier-de-joann-sfar/images/1.jpeg" 
+image: "/posts/greffier-de-joann-sfar/images/1.jpeg" 
 images:
- - "/posts/2020-03-09_greffier-de-joann-sfar/images/1.jpeg"
+ - "/posts/greffier-de-joann-sfar/images/1.jpeg"
 
 
 aliases:
@@ -28,7 +28,7 @@ Encore une fois, j’ai mis plusieurs années avant de lire une BD alors que j�
 
 
 
-![image](/posts/2020-03-09_greffier-de-joann-sfar/images/1.jpeg#layoutTextWidth)
+![image](/posts/greffier-de-joann-sfar/images/1.jpeg#layoutTextWidth)
 
 
 

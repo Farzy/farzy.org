@@ -8,14 +8,14 @@ description: ""
 
 subtitle: "Encore quelques lectures récentes en vrac 😃 :"
 
-image: "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg" 
+image: "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg" 
 images:
- - "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg"
- - "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/2.jpeg"
- - "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/3.jpeg"
- - "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/4.jpeg"
- - "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/5.jpeg"
- - "/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/6.jpeg"
+ - "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg"
+ - "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/2.jpeg"
+ - "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/3.jpeg"
+ - "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/4.jpeg"
+ - "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/5.jpeg"
+ - "/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/6.jpeg"
 
 
 ---
@@ -25,7 +25,7 @@ Encore quelques lectures récentes en vrac 😃 :D’abord **Notes 11** de Boule
 
 
 
-![image](/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg#layoutTextWidth)
+![image](/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -34,14 +34,14 @@ Je n’ai lu que le tome 1 en papier, je regarde parfois son blog, mais irrégul
 
 
 
-![image](/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/2.jpeg#layoutTextWidth)
+![image](/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/2.jpeg#layoutTextWidth)
 
 J’ai enfin acheté et lu les 2 derniers tomes du **Sommeil du monstre** d’Enki Bilal. Comme pour Boulet on aime son dessin (j’adore) ou on déteste (ma femme 😛). L’histoire étant dense, j’ai dû relire les 2 premiers tomes. L’histoire de 3 orphelins de Sarajevo dans un futur dystopique est tourmentée, parfois gaie, souvent sombre. L’un d’eux, hypermnésique depuis le jour de son enfance, s’est juré de retrouver les deux autres. La chute est très surprenante : non seulement je ne m’attendais pas à ce retournement de situation mais en plus j’ai l’impression que c’est un peu bâclé car tout parait trop évident.
 
 
 
 
-![image](/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/3.jpeg#layoutTextWidth)
+![image](/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -50,7 +50,7 @@ J’ai enfin acheté et lu les 2 derniers tomes du **Sommeil du monstre** d’En
 
 
 
-![image](/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/4.jpeg#layoutTextWidth)
+![image](/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -59,7 +59,7 @@ Le tome 2 est sorti récemment.Mes jumeaux lisent **Les cahiers d’Esther** de 
 
 
 
-![image](/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/5.jpeg#layoutTextWidth)
+![image](/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/5.jpeg#layoutTextWidth)
 
 
 
@@ -70,7 +70,7 @@ Ensuite j’ai essayé de lire le tome 2. C’est sympa mais ça ne m’a pas em
 
 
 
-![image](/posts/draft__dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/6.jpeg#layoutTextWidth)
+![image](/posts/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/6.jpeg#layoutTextWidth)
 
 
 

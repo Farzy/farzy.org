@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "J’ai relu l’intégralité de Rork d’Andreas (en dehors du Tome 0 qui est sorti plus tard et que je ne connaissais pas) …"
 
-image: "/posts/draft__rork-et-capricorne-dandreas/images/1.jpeg" 
+image: "/posts/rork-et-capricorne-dandreas/images/1.jpeg" 
 images:
- - "/posts/draft__rork-et-capricorne-dandreas/images/1.jpeg"
- - "/posts/draft__rork-et-capricorne-dandreas/images/2.jpeg"
+ - "/posts/rork-et-capricorne-dandreas/images/1.jpeg"
+ - "/posts/rork-et-capricorne-dandreas/images/2.jpeg"
 
 
 ---
@@ -23,7 +23,7 @@ Rork est un personnage énigmatique, alchimiste… sorcier… détective du surn
 
 
 
-![image](/posts/draft__rork-et-capricorne-dandreas/images/1.jpeg#layoutTextWidth)
+![image](/posts/rork-et-capricorne-dandreas/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -34,7 +34,7 @@ Bien évidemment j’adore et je recommande !
 
 
 
-![image](/posts/draft__rork-et-capricorne-dandreas/images/2.jpeg#layoutTextWidth)
+![image](/posts/rork-et-capricorne-dandreas/images/2.jpeg#layoutTextWidth)
 
 
 

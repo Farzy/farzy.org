@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "Hello, voici ma lecture BD de la semaine de vacances, NonNonBâ de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et…"
 
-image: "/posts/draft__nonnonbâ-de-shigeru-mizuki/images/1.jpeg" 
+image: "/posts/nonnonbâ-de-shigeru-mizuki/images/1.jpeg" 
 images:
- - "/posts/draft__nonnonbâ-de-shigeru-mizuki/images/1.jpeg"
- - "/posts/draft__nonnonbâ-de-shigeru-mizuki/images/2.jpeg"
+ - "/posts/nonnonbâ-de-shigeru-mizuki/images/1.jpeg"
+ - "/posts/nonnonbâ-de-shigeru-mizuki/images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ Hello, voici ma lecture BD de la semaine de vacances, **NonNonBâ** de Shigeru M
 
 
 
-![image](/posts/draft__nonnonbâ-de-shigeru-mizuki/images/1.jpeg#layoutTextWidth)
+![image](/posts/nonnonbâ-de-shigeru-mizuki/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -36,4 +36,4 @@ Côté dessin, les personnages sont aussi schématiques et caricaturaux que les 
 
 
 
-![image](/posts/draft__nonnonbâ-de-shigeru-mizuki/images/2.jpeg#layoutTextWidth)
+![image](/posts/nonnonbâ-de-shigeru-mizuki/images/2.jpeg#layoutTextWidth)

@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "J‘ai lu récemment une BD, Bolchoï Arena de Boulet et Aseyn. Cette fois c’est un peu particulier parce que c’était mon cadeau de Secret…"
 
-image: "/posts/draft__bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg" 
+image: "/posts/bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg" 
 images:
- - "/posts/draft__bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg"
+ - "/posts/bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg"
 
 
 ---
@@ -22,7 +22,7 @@ Et bien Arthur, tu as bien choisi, c’est une excellente BD.
 
 
 
-![image](/posts/draft__bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg#layoutTextWidth)
+![image](/posts/bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg#layoutTextWidth)
 
 
 

@@ -12,12 +12,12 @@ tags:
  - Bande Dessinée
  - Critique
 
-image: "/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg" 
+image: "/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg" 
 images:
- - "/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg"
- - "/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg"
- - "/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg"
- - "/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg"
+ - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg"
+ - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg"
+ - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg"
+ - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg"
 
 
 aliases:
@@ -30,7 +30,7 @@ aliases:
 
 
 
-![image](/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg#layoutTextWidth)
+![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -41,7 +41,7 @@ Le numéro 16 de la Revue Dessinée était notamment un très très bon numéro,
 
 
 
-![image](/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg#layoutTextWidth)
+![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -52,7 +52,7 @@ Ce numéro d’automne 2017 par exemple, avec Macron et Uber en couverture, fait
 
 
 
-![image](/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg#layoutTextWidth)
+![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -63,4 +63,4 @@ La Revue Dessinée 19, toujours aussi agréable à lire, a des dossiers intéres
 
 
 
-![image](/posts/2019-11-11_la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg#layoutTextWidth)
+![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg#layoutTextWidth)

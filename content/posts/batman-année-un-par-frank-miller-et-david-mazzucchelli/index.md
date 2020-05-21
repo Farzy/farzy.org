@@ -13,13 +13,13 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg" 
+image: "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg" 
 images:
- - "/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg"
- - "/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg"
- - "/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg"
- - "/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg"
- - "/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg"
+ - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg"
+ - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg"
+ - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg"
+ - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg"
+ - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg"
 
 
 aliases:
@@ -32,7 +32,7 @@ Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très t
 
 
 
-![image](/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg#layoutTextWidth)
+![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -43,7 +43,7 @@ L’histoire de Batman est connue, la raison pour laquelle il est devenu ce just
 
 
 
-![image](/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg#layoutTextWidth)
+![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -52,7 +52,7 @@ Et c’est là que ça devient intéressant ! Miller raconte aussi l’arriver d
 
 
 
-![image](/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg#layoutTextWidth)
+![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -65,7 +65,7 @@ Un autre élément de ces bonus qui m’a énormément plus est la copie de plus
 
 
 
-![image](/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg#layoutTextWidth)
+![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -74,7 +74,7 @@ Très beau travail également chez la coloriste qui a refait toutes les couleurs
 
 
 
-![image](/posts/2020-03-11_batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg#layoutTextWidth)
+![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg#layoutTextWidth)
 
 
 

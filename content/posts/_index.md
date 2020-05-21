@@ -13,9 +13,9 @@ tags:
  - Bande Dessinée
  - Livre
 
-featured_image: "/posts/2019-11-11_introduction/images/1.jpeg" 
+featured_image: "/posts/introduction/images/1.jpeg" 
 images:
- - "/posts/2019-11-11_introduction/images/1.jpeg"
+ - "/posts/introduction/images/1.jpeg"
 
 
 aliases:

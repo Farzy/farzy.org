@@ -13,9 +13,9 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/2020-03-09_si-dieu-existe-de-joann-sfar/images/1.jpeg" 
+image: "/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg" 
 images:
- - "/posts/2020-03-09_si-dieu-existe-de-joann-sfar/images/1.jpeg"
+ - "/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg"
 
 
 aliases:
@@ -28,7 +28,7 @@ Après le joyeux «**Greffier**» de Joann Sfar, j’ai lu le plus sombre «**Si
 
 
 
-![image](/posts/2020-03-09_si-dieu-existe-de-joann-sfar/images/1.jpeg#layoutTextWidth)
+![image](/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg#layoutTextWidth)
 
 
 

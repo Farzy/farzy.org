@@ -13,13 +13,13 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/1.jpeg" 
+image: "/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg" 
 images:
- - "/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/1.jpeg"
- - "/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/2.jpeg"
- - "/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/3.jpeg"
- - "/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/4.jpeg"
- - "/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/5.jpeg"
+ - "/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg"
+ - "/posts/blacksad-de-diaz-canales-et-guarnido/images/2.jpeg"
+ - "/posts/blacksad-de-diaz-canales-et-guarnido/images/3.jpeg"
+ - "/posts/blacksad-de-diaz-canales-et-guarnido/images/4.jpeg"
+ - "/posts/blacksad-de-diaz-canales-et-guarnido/images/5.jpeg"
 
 
 aliases:
@@ -32,7 +32,7 @@ Attention Chef d’Œuvre ! Je viens de relire les tomes 1 et 2 de Blacksad, que
 
 
 
-![image](/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/1.jpeg#layoutTextWidth)
+![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -45,7 +45,7 @@ C’est clairement le cas ici avec Blacksad, d’où mon enthousiasme. Les deux 
 
 
 
-![image](/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/2.jpeg#layoutTextWidth)
+![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -54,7 +54,7 @@ C’est clairement le cas ici avec Blacksad, d’où mon enthousiasme. Les deux 
 
 
 
-![image](/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/3.jpeg#layoutTextWidth)
+![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -63,7 +63,7 @@ Je disais qu’on pouvait dater la période des histoires aux années 50, il me 
 
 
 
-![image](/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/4.jpeg#layoutTextWidth)
+![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -72,7 +72,7 @@ Sur la case suivante on voit l’année 1952 entre les bras tendus du rat.
 
 
 
-![image](/posts/2020-01-26_blacksad-de-diaz-canales-et-guarnido/images/5.jpeg#layoutTextWidth)
+![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/5.jpeg#layoutTextWidth)
 
 
 

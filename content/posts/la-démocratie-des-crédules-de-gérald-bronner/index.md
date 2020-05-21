@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "Avec ce livre c’est un tout autre domaine que j’aborde, la sociologie ! La démocratie des crédules de Gérald Bronner s’attache à énumérer…"
 
-image: "/posts/draft__la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg" 
+image: "/posts/la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg" 
 images:
- - "/posts/draft__la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg"
+ - "/posts/la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg"
 
 
 ---
@@ -20,7 +20,7 @@ Avec ce livre c’est un tout autre domaine que j’aborde, la sociologie ! **La
 
 
 
-![image](/posts/draft__la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg#layoutTextWidth)
+![image](/posts/la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg#layoutTextWidth)
 
 
 

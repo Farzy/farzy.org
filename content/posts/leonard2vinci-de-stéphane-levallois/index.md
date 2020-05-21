@@ -13,19 +13,19 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/1.jpeg" 
+image: "/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg" 
 images:
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/1.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/2.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/3.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/4.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/5.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/6.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/7.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/8.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/9.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/10.jpeg"
- - "/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/11.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/2.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/3.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/4.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/5.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/6.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/7.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/8.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/9.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/10.jpeg"
+ - "/posts/leonard2vinci-de-stéphane-levallois/images/11.jpeg"
 
 
 aliases:
@@ -38,7 +38,7 @@ Ma lecture de ce week-end est encore une étrange bande dessinée assez contempl
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/1.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -51,7 +51,7 @@ J’ai évidemment acheté cette BD au Louvre, pendant la superbe exposition tem
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/2.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/2.jpeg#layoutTextWidth)
 
 
 
@@ -62,7 +62,7 @@ L’histoire est celle d’un vaisseau spatial, transportant les derniers rescap
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/3.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/3.jpeg#layoutTextWidth)
 
 
 
@@ -79,7 +79,7 @@ Comme ici, dans cette planche, le personnage au visage si moderne, case 4 :
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/4.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/4.jpeg#layoutTextWidth)
 
 
 
@@ -88,7 +88,7 @@ N’est autre que celui de cette esquisse que j’ai photographiée au Louvre te
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/5.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/5.jpeg#layoutTextWidth)
 
 
 
@@ -99,7 +99,7 @@ Ici, lorsque Leonard 2 fait l’étalage de sa science militaire :
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/6.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/6.jpeg#layoutTextWidth)
 
 
 
@@ -108,7 +108,7 @@ On reconnait la Cène magistrale (je suis désolé du cadrage, il y avait trop d
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/7.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/7.jpeg#layoutTextWidth)
 
 
 
@@ -117,7 +117,7 @@ Plus loin, ce «robot» a les traits d’un croquis d’habit militaire :
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/8.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/8.jpeg#layoutTextWidth)
 
 
 
@@ -126,7 +126,7 @@ Et des retours en arrière au XVIème siècle nous font revivre des moments de l
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/9.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/9.jpeg#layoutTextWidth)
 
 
 
@@ -135,7 +135,7 @@ Et ce garçon espiègle à l’angle du mur :
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/10.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/10.jpeg#layoutTextWidth)
 
 
 
@@ -144,7 +144,7 @@ N’est autre que le magnifique Saint Jean-Baptiste :
 
 
 
-![image](/posts/2020-03-08_leonard2vinci-de-stéphane-levallois/images/11.jpeg#layoutTextWidth)
+![image](/posts/leonard2vinci-de-stéphane-levallois/images/11.jpeg#layoutTextWidth)
 
 
 

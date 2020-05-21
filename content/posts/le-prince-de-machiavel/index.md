@@ -12,9 +12,9 @@ tags:
  - Critique
  - Book Review
 
-image: "/posts/2019-11-14_le-prince-de-machiavel/images/1.jpeg" 
+image: "/posts/le-prince-de-machiavel/images/1.jpeg" 
 images:
- - "/posts/2019-11-14_le-prince-de-machiavel/images/1.jpeg"
+ - "/posts/le-prince-de-machiavel/images/1.jpeg"
 
 
 aliases:
@@ -27,7 +27,7 @@ J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur
 
 
 
-![image](/posts/2019-11-14_le-prince-de-machiavel/images/1.jpeg#layoutTextWidth)
+![image](/posts/le-prince-de-machiavel/images/1.jpeg#layoutTextWidth)
 
 
 

@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "J’ai fini le tome 3 du Photographe, l’histoire du photographe Didier Lefèvre qui a accompagné une équipe de MSF en Afghanistan au début des…"
 
-image: "/posts/draft__le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg" 
+image: "/posts/le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg" 
 images:
- - "/posts/draft__le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg"
+ - "/posts/le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ ai fini le tome 3 du **Photographe**, l’histoire du photographe Didier Lefèvr
 
 
 
-![image](/posts/draft__le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg#layoutTextWidth)
+![image](/posts/le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg#layoutTextWidth)
 
 
 

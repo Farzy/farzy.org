@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "J’ai enfin lu le 3ème tome de Socrate le demi-chien de Joann Sfar et Christophe Blain …"
 
-image: "/posts/draft__socrate-le-demichien-et-walking-dead/images/1.jpeg" 
+image: "/posts/socrate-le-demichien-et-walking-dead/images/1.jpeg" 
 images:
- - "/posts/draft__socrate-le-demichien-et-walking-dead/images/1.jpeg"
- - "/posts/draft__socrate-le-demichien-et-walking-dead/images/2.jpeg"
+ - "/posts/socrate-le-demichien-et-walking-dead/images/1.jpeg"
+ - "/posts/socrate-le-demichien-et-walking-dead/images/2.jpeg"
 
 
 ---
@@ -22,7 +22,7 @@ ai enfin lu le 3ème tome de **Socrate le demi-chien** de Joann Sfar et Christop
 
 
 
-![image](/posts/draft__socrate-le-demichien-et-walking-dead/images/1.jpeg#layoutTextWidth)
+![image](/posts/socrate-le-demichien-et-walking-dead/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -37,4 +37,4 @@ Et encore je n’en suis qu’au Tome 1 ! Je me demande si j’aurai le courage 
 
 
 
-![image](/posts/draft__socrate-le-demichien-et-walking-dead/images/2.jpeg#layoutTextWidth)
+![image](/posts/socrate-le-demichien-et-walking-dead/images/2.jpeg#layoutTextWidth)

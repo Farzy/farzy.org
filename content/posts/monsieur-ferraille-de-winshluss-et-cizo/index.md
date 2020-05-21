@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "Dernière critique BD de la semaine : Monsieur Ferraille de Winshluss et Cizo chez Requins Marteaux. Contrairement à ce que la couverture…"
 
-image: "/posts/draft__monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg" 
+image: "/posts/monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg" 
 images:
- - "/posts/draft__monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg"
- - "/posts/draft__monsieur-ferraille-de-winshluss-et-cizo/images/2.jpeg"
+ - "/posts/monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg"
+ - "/posts/monsieur-ferraille-de-winshluss-et-cizo/images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ Dernière critique BD de la semaine : **Monsieur Ferraille** de Winshluss et Ciz
 
 
 
-![image](/posts/draft__monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg#layoutTextWidth)
+![image](/posts/monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg#layoutTextWidth)
 
 
 
@@ -30,7 +30,7 @@ Les histoires, avec cet espèce de robot en fer blanc, vulgaire, gouailleur, obs
 
 
 
-![image](/posts/draft__monsieur-ferraille-de-winshluss-et-cizo/images/2.jpeg#layoutTextWidth)
+![image](/posts/monsieur-ferraille-de-winshluss-et-cizo/images/2.jpeg#layoutTextWidth)
 
 
 
