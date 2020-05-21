@@ -16,11 +16,6 @@ tags:
 image: "/posts/greffier-de-joann-sfar/images/1.jpeg" 
 images:
  - "/posts/greffier-de-joann-sfar/images/1.jpeg"
-
-
-aliases:
-    - "/greffier-de-joann-sfar-7c619729c1a3"
-
 ---
 
 Encore une fois, j’ai mis plusieurs années avant de lire une BD alors que j’étais enthousiaste en l’achetant : **Greffier** de Joann Sfar, [https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html](https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html).

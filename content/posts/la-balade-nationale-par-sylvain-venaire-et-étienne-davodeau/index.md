@@ -17,11 +17,6 @@ image: "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/imag
 images:
  - "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg"
  - "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg"
-
-
-aliases:
-    - "/la-balade-nationale-par-sylvain-venaire-et-%C3%A9tienne-davodeau-3debb5a3e438"
-
 ---
 
 J’ai lu la première BD historique éditée par la Revue Dessinée : “La ballade nationale / Les origines”, co-écrite par un historien et le dessinateur Étienne Davodeau.

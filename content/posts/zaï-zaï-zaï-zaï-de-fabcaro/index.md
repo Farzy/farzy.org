@@ -16,11 +16,6 @@ tags:
 image: "/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg" 
 images:
  - "/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg"
-
-
-aliases:
-    - "/za%C3%AF-za%C3%AF-za%C3%AF-za%C3%AF-de-fabcaro-f17b843b023f"
-
 ---
 
 Début 2019 je n’avais plus lu de BD depuis longtemps, je m’y suis remis intensivement pendant les congés de l’été dernier et je rattrape un peu le retard de mes recommandations maintenant 😄

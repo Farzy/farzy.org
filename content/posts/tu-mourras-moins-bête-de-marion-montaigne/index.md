@@ -20,11 +20,6 @@ images:
  - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg"
  - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg"
  - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg"
-
-
-aliases:
-    - "/tu-mourras-moins-b%C3%AAte-de-marion-montaigne-ae7464cc01b1"
-
 ---
 
 Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras… d’envie d’acheter cette BD et ses suites 😉

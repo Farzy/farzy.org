@@ -18,11 +18,6 @@ image: "/posts/métal-hurlant/images/1.jpeg"
 images:
  - "/posts/métal-hurlant/images/1.jpeg"
  - "/posts/métal-hurlant/images/2.jpeg"
-
-
-aliases:
-    - "/m%C3%A9tal-hurlant-b2358c9cc224"
-
 ---
 
 Incursion dans BD et à la SF à la fois avec **Métal Hurlant** ! Pour ceux qui ne connaissent pas, Métal Hurlant, édité entre 1975 et 1987, puis brièvement de 2002 à 2004, est **la** revue BD / SF de référence qui a révolutionné la BD contemporaine à une époque où la BD était plutôt destinée aux enfants, gentillette, familiale, polie, lisse (Tintin, Astérix, Tanguy et Laverdure…).

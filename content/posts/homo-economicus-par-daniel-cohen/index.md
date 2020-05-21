@@ -18,11 +18,6 @@ images:
  - "/posts/homo-economicus-par-daniel-cohen/images/1.jpeg"
  - "/posts/homo-economicus-par-daniel-cohen/images/2.jpeg"
  - "/posts/homo-economicus-par-daniel-cohen/images/3.jpeg"
-
-
-aliases:
-    - "/homo-economicus-par-daniel-cohen-e9e231f485c3"
-
 ---
 
 Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de l’économie et de l’humain rationnel…

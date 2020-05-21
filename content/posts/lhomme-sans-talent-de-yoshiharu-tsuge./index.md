@@ -16,11 +16,6 @@ tags:
 image: "/posts/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg" 
 images:
  - "/posts/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg"
-
-
-aliases:
-    - "/lhomme-sans-talent-de-yoshiharu-tsuge-8931b5f87f02"
-
 ---
 
 L’

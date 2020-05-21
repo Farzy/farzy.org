@@ -18,11 +18,6 @@ images:
  - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg"
  - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg"
  - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg"
-
-
-aliases:
-    - "/la-conjuration-des-imb%C3%A9ciles-de-john-kennedy-toole-f232d2fc76f0"
-
 ---
 
 ![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg#layoutTextWidth)

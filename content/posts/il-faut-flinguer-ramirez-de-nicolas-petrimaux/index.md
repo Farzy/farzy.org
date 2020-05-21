@@ -21,11 +21,6 @@ images:
  - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg"
  - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg"
  - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg"
-
-
-aliases:
-    - "/il-faut-flinguer-ramirez-de-nicolas-petrimaux-16c3c340d11b"
-
 ---
 
 Ce

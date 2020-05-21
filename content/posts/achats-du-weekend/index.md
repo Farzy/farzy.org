@@ -15,11 +15,6 @@ tags:
 image: "/posts/achats-du-weekend/images/1.jpeg" 
 images:
  - "/posts/achats-du-weekend/images/1.jpeg"
-
-
-aliases:
-    - "/achats-du-week-end-902f9d21787"
-
 ---
 
 ‪Achat plaisir du week-end : le tome 2 (Myth too) de «**50 nuances de grecs**» de Jul et Charles Pépin et suite de mon achat des mythiques **Métal Hurlant** sur eBay avec le numéro 124…

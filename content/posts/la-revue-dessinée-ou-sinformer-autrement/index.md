@@ -18,11 +18,6 @@ images:
  - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg"
  - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg"
  - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg"
-
-
-aliases:
-    - "/la-revue-dessin%C3%A9e-ou-sinformer-autrement-4f6bfdf6e2a9"
-
 ---
 
 [**La Revue Dessinée**](https://www.larevuedessinee.fr/) : Ce n&#39;est pas qu&#39;une bande dessinée, c&#39;est avant tout une revue avec des dossiers, des enquêtes, surtout pas de l&#39;instantané ou de l&#39;anecdotique qui périme vite. Cette revue est similaire à la revue **XXI** mais entièrement en BD. Je la recommande à ceux qui aiment à la fois la BD et l&#39;actualité.

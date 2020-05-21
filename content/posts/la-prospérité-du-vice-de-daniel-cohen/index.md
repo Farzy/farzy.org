@@ -16,11 +16,6 @@ tags:
 image: "/posts/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg" 
 images:
  - "/posts/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg"
-
-
-aliases:
-    - "/la-prosp%C3%A9rit%C3%A9-du-vice-de-daniel-cohen-5b34a616d918"
-
 ---
 
 Un peu plus de sérieux avec ce livre d’économie. Il date de 2007 et est toujours d’actualité.

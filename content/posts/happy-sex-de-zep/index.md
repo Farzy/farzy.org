@@ -17,11 +17,6 @@ image: "/posts/happy-sex-de-zep/images/1.jpeg"
 images:
  - "/posts/happy-sex-de-zep/images/1.jpeg"
  - "/posts/happy-sex-de-zep/images/2.jpeg"
-
-
-aliases:
-    - "/happy-sex-de-zep-9a6e4caf18b0"
-
 ---
 
 J’ai lu hier “**Happy Sex**” de Zep 🍆

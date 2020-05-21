@@ -15,11 +15,6 @@ tags:
 image: "/posts/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg" 
 images:
  - "/posts/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg"
-
-
-aliases:
-    - "/la-possibilit%C3%A9-dune-%C3%AEle-de-michel-houellebecq-41c8298bb73a"
-
 ---
 
 J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houellebecq ([https://fr.wikipedia.org/wiki/La_Possibilit%C3%A9_d%27une_%C3%AEle](https://fr.wikipedia.org/wiki/La_Possibilit%C3%A9_d%27une_%C3%AEle)).

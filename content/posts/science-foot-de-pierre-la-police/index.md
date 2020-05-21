@@ -16,11 +16,6 @@ tags:
 image: "/posts/science-foot-de-pierre-la-police/images/1.jpeg" 
 images:
  - "/posts/science-foot-de-pierre-la-police/images/1.jpeg"
-
-
-aliases:
-    - "/science-foot-de-pierre-la-police-7bb83e1471bc"
-
 ---
 
 Une pause amusante avec «**Science foot**» de **Pierre la Police**, dessinateur dont le trait grossier et caricatural et l’humour absurde sont les caractéristiques.

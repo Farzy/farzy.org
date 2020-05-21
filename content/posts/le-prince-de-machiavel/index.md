@@ -15,11 +15,6 @@ tags:
 image: "/posts/le-prince-de-machiavel/images/1.jpeg" 
 images:
  - "/posts/le-prince-de-machiavel/images/1.jpeg"
-
-
-aliases:
-    - "/le-prince-de-machiavel-290c160e5bf2"
-
 ---
 
 J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur le Prince qui permet de mieux comprendre l’ouvrage et la pensée politique de l’auteur.

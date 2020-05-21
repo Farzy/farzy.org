@@ -26,11 +26,6 @@ images:
  - "/posts/leonard2vinci-de-stéphane-levallois/images/9.jpeg"
  - "/posts/leonard2vinci-de-stéphane-levallois/images/10.jpeg"
  - "/posts/leonard2vinci-de-stéphane-levallois/images/11.jpeg"
-
-
-aliases:
-    - "/leonard2vinci-de-st%C3%A9phane-levallois-eaa26505e584"
-
 ---
 
 Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD**2**VINCI» de Stéphane Levallois.

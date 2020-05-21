@@ -17,11 +17,6 @@ image: "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg"
 images:
  - "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg"
  - "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/2.png"
-
-
-aliases:
-    - "/comment-voyager-avec-un-saumon-dumberto-eco-d6bb81f9a132"
-
 ---
 
 Vous connaissez sans-doute déjà l’auteur italien Umberto Eco pour ses romans, «**Le Nom de la Rose**» ou «**Le Pendule de Foucault**». [Eco](https://fr.wikipedia.org/wiki/Umberto_Eco) est non seulement un excellent romancier, il a aussi un métier principal, sémiologue, et c’est un érudit.

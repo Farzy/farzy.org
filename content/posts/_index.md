@@ -16,11 +16,6 @@ tags:
 featured_image: "/images/home-library.jpg" 
 images:
  - "/images/home-library.jpg"
-
-
-aliases:
-    - "/introduction-5c0f99a8358a"
-
 ---
 
 

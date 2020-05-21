@@ -16,11 +16,6 @@ tags:
 image: "/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg" 
 images:
  - "/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg"
-
-
-aliases:
-    - "/si-dieu-existe-de-joann-sfar-d5b38803109e"
-
 ---
 
 Après le joyeux «**Greffier**» de Joann Sfar, j’ai lu le plus sombre «**Si dieu existe**», carnet écrit cette fois après plusieurs événements marquants pour l’auteur : Attentat de Charlie Hebdo et de l’hyper casher, mort de son père, séparation avec sa femme…

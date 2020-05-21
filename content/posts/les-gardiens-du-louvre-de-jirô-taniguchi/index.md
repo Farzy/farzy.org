@@ -22,11 +22,6 @@ images:
  - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg"
  - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg"
  - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg"
-
-
-aliases:
-    - "/les-gardiens-du-louvre-de-jir%C3%B4-taniguchi-3362fb8a2fc"
-
 ---
 
 Voici une bien étrange bande dessinée, qui m’a d’abord un peu déçu avant de m’émouvoir.

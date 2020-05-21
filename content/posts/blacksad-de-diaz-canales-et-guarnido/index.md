@@ -20,11 +20,6 @@ images:
  - "/posts/blacksad-de-diaz-canales-et-guarnido/images/3.jpeg"
  - "/posts/blacksad-de-diaz-canales-et-guarnido/images/4.jpeg"
  - "/posts/blacksad-de-diaz-canales-et-guarnido/images/5.jpeg"
-
-
-aliases:
-    - "/blacksad-de-diaz-canales-et-guarnido-7e4de0e00495"
-
 ---
 
 Attention Chef d’Œuvre ! Je viens de relire les tomes 1 et 2 de Blacksad, que j’avais lu vers 2002 / 2003, avant d’attaquer les tomes 3 et 4 que j’ai achetés récemment.

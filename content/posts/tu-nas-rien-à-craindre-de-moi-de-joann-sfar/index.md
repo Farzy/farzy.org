@@ -15,11 +15,6 @@ tags:
 image: "/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg" 
 images:
  - "/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg"
-
-
-aliases:
-    - "/tu-nas-rien-%C3%A0-craindre-de-moi-de-joann-sfar-fdc7fca6105"
-
 ---
 
 Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joann Sfar.

@@ -24,11 +24,6 @@ images:
  - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/7.jpeg"
  - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/8.jpeg"
  - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/9.jpeg"
-
-
-aliases:
-    - "/de-nombreuses-lectures-de-bd-fin-2019-d5355c26bf1f"
-
 ---
 
 Hello, j’ai lu beaucoup de BD récemment, je vous partage celles que j’ai bien aimées (toutes 😜).

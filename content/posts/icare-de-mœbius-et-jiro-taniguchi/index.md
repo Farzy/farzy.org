@@ -23,11 +23,6 @@ images:
  - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/6.jpeg"
  - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/7.jpeg"
  - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/8.jpeg"
-
-
-aliases:
-    - "/icare-de-m%C5%93bius-et-jiro-taniguchi-94de09e15202"
-
 ---
 
 Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi.
