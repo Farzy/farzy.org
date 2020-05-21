@@ -53,8 +53,7 @@ ai justement relu tout le **Cycle de Cyann** de Bourgeon et Lacroix (les 2 premi
 J’ai beaucoup aimé le tome 5 alors que j’avais un peu moins aimé les 3 et 4. La qualité du scénario remonte, sans égaler les 1 «La sOurce et la sOnde» et 2 «6 saisons sur ilÔ», mais suffisamment pour me donner envie de lire la suite.
 
 Je recommande aussi pour les amateurs de SF et de beaux dessins (ici aussi les mouvements sont mal rendus…).
-Q
-**uai d’Orsay**, de Lanzac et Blain. J’ai lu le tome 2, il est aussi drôle que le premier. C’est une parodie de Dominique de Villepin, alors ministre des affaires étrangères. Le scénariste a été conseiller, «spécialiste des langages», sous Villepin.
+**Quai d’Orsay**, de Lanzac et Blain. J’ai lu le tome 2, il est aussi drôle que le premier. C’est une parodie de Dominique de Villepin, alors ministre des affaires étrangères. Le scénariste a été conseiller, «spécialiste des langages», sous Villepin.
 
 
 
@@ -103,8 +102,7 @@ Le
 Jésus ne serait pas mort sur la croix mais à la place c’est… Je n’en dit pas plus, chut ! Il y a une société secrète, créée il y a 2000 ans, qui garde le secret et le Pape essaie quant à lui de faire disparaître ceux qui savent. Je n’ai pas envie de finir assassiné comme un des historiens qui a eu le malheur de découvrir la vérité dans le tome 1 😱
 
 Dessin un peu naïf mais j’aime bien l’histoire, à suivre.
-L
-**’Ordre de Cicéron** de Malka et Gillon. Une histoire d’avocats donc, de familles déchirées, de guerre entre cabinets, de secrets de famille terribles remontant à la 2ème guerre mondiale…
+**L’Ordre de Cicéron** de Malka et Gillon. Une histoire d’avocats donc, de familles déchirées, de guerre entre cabinets, de secrets de famille terribles remontant à la 2ème guerre mondiale…
 
 
 
@@ -125,8 +123,7 @@ Le
 
 
 Le tome 6 est sorti récemment, encore des €€€ à dépenser, pfff…
-À
- **boire et à manger** tome 1 de Guillaume Long, dessinateur et gourmand. C’est une compilation de BD de presse, toutes axées autour de la cuisine. Il y aussi bien de recettes que des anecdotes personnelles, des critiques de restos, du tourisme culinaire, des conseils d’ustensiles ou des astuces cuisine…
+**À boire et à manger** tome 1 de Guillaume Long, dessinateur et gourmand. C’est une compilation de BD de presse, toutes axées autour de la cuisine. Il y aussi bien de recettes que des anecdotes personnelles, des critiques de restos, du tourisme culinaire, des conseils d’ustensiles ou des astuces cuisine…
 
 
 

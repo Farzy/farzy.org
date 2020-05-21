@@ -16,8 +16,7 @@ images:
 
 ---
 
-H
-ello, voici ma lecture BD de la semaine de vacances, **NonNonBâ** de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et blanc, sens de lecture japonais. L’histoire est grandement autobiographique, je le classerais presque en roman graphique, il raconte l’histoire d’un garçon dans une petite ville japonaise paumée, au bord de la mer, dans les années 30, garçon qui se prénomme Shigeru comme l’auteur. 
+Hello, voici ma lecture BD de la semaine de vacances, **NonNonBâ** de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et blanc, sens de lecture japonais. L’histoire est grandement autobiographique, je le classerais presque en roman graphique, il raconte l’histoire d’un garçon dans une petite ville japonaise paumée, au bord de la mer, dans les années 30, garçon qui se prénomme Shigeru comme l’auteur. 
 
 
 

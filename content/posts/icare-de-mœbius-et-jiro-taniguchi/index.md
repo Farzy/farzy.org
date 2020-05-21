@@ -30,8 +30,7 @@ aliases:
 
 ---
 
-P
-our les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi.
+Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi.
 
 
 

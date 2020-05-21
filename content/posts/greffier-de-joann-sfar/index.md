@@ -23,8 +23,7 @@ aliases:
 
 ---
 
-E
-ncore une fois, j’ai mis plusieurs années avant de lire une BD alors que j’étais enthousiaste en l’achetant : **Greffier** de Joann Sfar, [https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html](https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html).
+Encore une fois, j’ai mis plusieurs années avant de lire une BD alors que j’étais enthousiaste en l’achetant : **Greffier** de Joann Sfar, [https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html](https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html).
 
 
 
