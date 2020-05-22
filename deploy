@@ -4,6 +4,8 @@ USER=farzad_farid
 HOST=farzad-01.farzy.org
 DIR=/srv/www/farzy.org
 
+# Cleanup /public directory, otherwise old content is not delete from website
+rm -rf public
 HUGO_ENV=production hugo && rsync -avz --delete --delete-excluded --exclude .DS_Store public/ ${USER}@${HOST}:${DIR}
 
 exit 0
