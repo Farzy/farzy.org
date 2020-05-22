@@ -12,12 +12,12 @@ tags:
  - Bande Dessinée
  - Critique
 
-image: "/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg" 
+featured_image: "/fr/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg" 
 images:
- - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg"
- - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg"
- - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg"
- - "/posts/la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
 ---
 
 [**La Revue Dessinée**](https://www.larevuedessinee.fr/) : Ce n&#39;est pas qu&#39;une bande dessinée, c&#39;est avant tout une revue avec des dossiers, des enquêtes, surtout pas de l&#39;instantané ou de l&#39;anecdotique qui périme vite. Cette revue est similaire à la revue **XXI** mais entièrement en BD. Je la recommande à ceux qui aiment à la fois la BD et l&#39;actualité.
@@ -25,7 +25,7 @@ images:
 
 
 
-![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -36,7 +36,7 @@ Le numéro 16 de la Revue Dessinée était notamment un très très bon numéro,
 
 
 
-![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -47,7 +47,7 @@ Ce numéro d’automne 2017 par exemple, avec Macron et Uber en couverture, fait
 
 
 
-![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -58,4 +58,4 @@ La Revue Dessinée 19, toujours aussi agréable à lire, a des dossiers intéres
 
 
 
-![image](/posts/la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)

@@ -13,9 +13,9 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg" 
+featured_image: "/fr/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg" 
 images:
- - "/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 Après le joyeux «**Greffier**» de Joann Sfar, j’ai lu le plus sombre «**Si dieu existe**», carnet écrit cette fois après plusieurs événements marquants pour l’auteur : Attentat de Charlie Hebdo et de l’hyper casher, mort de son père, séparation avec sa femme…
@@ -23,7 +23,7 @@ Après le joyeux «**Greffier**» de Joann Sfar, j’ai lu le plus sombre «**Si
 
 
 
-![image](/posts/si-dieu-existe-de-joann-sfar/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

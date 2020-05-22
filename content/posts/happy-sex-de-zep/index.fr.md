@@ -13,10 +13,10 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/happy-sex-de-zep/images/1.jpeg" 
+featured_image: "/fr/posts/happy-sex-de-zep/images/1.jpeg" 
 images:
- - "/posts/happy-sex-de-zep/images/1.jpeg"
- - "/posts/happy-sex-de-zep/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 ---
 
 J’ai lu hier “**Happy Sex**” de Zep 🍆
@@ -24,7 +24,7 @@ J’ai lu hier “**Happy Sex**” de Zep 🍆
 
 
 
-![image](/posts/happy-sex-de-zep/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -35,7 +35,7 @@ Je n’avais jamais lu de Zep avant et je ne suis pas particulièrement fan de s
 
 
 
-![image](/posts/happy-sex-de-zep/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 

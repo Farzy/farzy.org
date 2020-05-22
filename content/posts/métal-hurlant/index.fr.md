@@ -14,17 +14,17 @@ tags:
  - Science Fiction
  - Bookworm
 
-image: "/posts/métal-hurlant/images/1.jpeg" 
+featured_image: "/fr/posts/métal-hurlant/images/1.jpeg" 
 images:
- - "/posts/métal-hurlant/images/1.jpeg"
- - "/posts/métal-hurlant/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 ---
 
 Incursion dans BD et à la SF à la fois avec **Métal Hurlant** ! Pour ceux qui ne connaissent pas, Métal Hurlant, édité entre 1975 et 1987, puis brièvement de 2002 à 2004, est **la** revue BD / SF de référence qui a révolutionné la BD contemporaine à une époque où la BD était plutôt destinée aux enfants, gentillette, familiale, polie, lisse (Tintin, Astérix, Tanguy et Laverdure…).
 
 
 
-![image](/posts/métal-hurlant/images/1.jpeg#layoutFillWidth)
+![image](images/1.jpeg#layoutFillWidth)
 
 Des auteurs mythiques comme Mœbius, Caza, Bilal, Druillet, Giger, Tardi… ont écrit et dessiné dedans. Les œuvres de cette revue ont influencé de nombreuses autres comme Mad Max, Alien, Blade Runner, etc. (c’est pas moi qui le dis, j’ai copié Wikipédia 😛 : [https://fr.wikipedia.org/wiki/M%C3%A9tal_hurlant).](https://fr.wikipedia.org/wiki/M%C3%A9tal_hurlant%29.) Des œuvres majeures de la BD ont été publiées en épisode dedans : Arzach de Mœbius et l’Incal de Jodorowsky et Mœbius par exemple.
 
@@ -34,6 +34,6 @@ J’ai découvert Métal Hurlant indirectement dans ma jeunesse, quand est sorti
 
 
 
-![image](/posts/métal-hurlant/images/2.jpeg#layoutOutsetCenter)
+![image](images/2.jpeg#layoutOutsetCenter)
 
 Là j’ai un peu craqué et j’ai commencé à acheter d’occasion les tomes que je trouve, pour réaliser mon rêve de jeunesse. J’ai notamment reçu il y a quelques semaines les tomes 1 à 6, en très bon état, de vrais collectors ! Vu leur fragilité et leur rareté (le hors-série spécial Lovecraft que j’avais déjà part un peu en morceaux et coûte apparemment plus de 60€) je ne les prête pas mais vous pouvez venir les lire chez moi avec plaisir 🙂

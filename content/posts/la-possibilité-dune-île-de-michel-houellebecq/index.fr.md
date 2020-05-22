@@ -12,9 +12,9 @@ tags:
  - Critique
  - Book Review
 
-image: "/posts/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg" 
+featured_image: "/fr/posts/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg" 
 images:
- - "/posts/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houellebecq ([https://fr.wikipedia.org/wiki/La_Possibilit%C3%A9_d%27une_%C3%AEle](https://fr.wikipedia.org/wiki/La_Possibilit%C3%A9_d%27une_%C3%AEle)).
@@ -22,7 +22,7 @@ J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houel
 
 
 
-![image](/posts/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

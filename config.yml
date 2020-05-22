@@ -1,6 +1,6 @@
 baseURL: "https://farzy.org/"
-languageCode: "fr-FR"
-languageName: "Français"
+#languageCode: "fr"
+#languageName: "Français"
 title: "Farzad FARID"
 
 theme: "ananke"
@@ -30,12 +30,14 @@ params:
   recent_posts_number: 4
   show_reading_time: true
 
-DefaultContentLanguage: "en"
+DefaultContentLanguage: "fr"
+defaultContentLanguageInSubdir: true
 languages:
   en:
     languageName: English
-    weight: 1
+    weight: 2
   fr:
     languageName: Français
-    weight: 2
+    weight: 1
+    title: "Site de Farzad"
     description: "Des livres, des bandes dessinées, de l'infrastructure, du Kubernetes…"

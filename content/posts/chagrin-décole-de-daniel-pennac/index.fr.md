@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "Autre lecture d’été (un autre été…) : «Chagrin d’école» de Daniel Pennac."
 
-image: "/posts/chagrin-décole-de-daniel-pennac/images/1.jpeg" 
+featured_image: "/fr/posts/chagrin-décole-de-daniel-pennac/images/1.jpeg" 
 images:
- - "/posts/chagrin-décole-de-daniel-pennac/images/1.jpeg"
- - "/posts/chagrin-décole-de-daniel-pennac/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ Autre lecture d’été (un autre été…) : «**Chagrin d’école**» de Dani
 
 
 
-![image](/posts/chagrin-décole-de-daniel-pennac/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -34,7 +34,7 @@ Le livre est vraiment très émouvant, touchant, j’ai adoré. Voir ce que sont
 
 
 
-![image](/posts/chagrin-décole-de-daniel-pennac/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 

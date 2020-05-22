@@ -13,10 +13,10 @@ tags:
  - Bookworm
  - Critique
 
-image: "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg" 
+featured_image: "/fr/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg" 
 images:
- - "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg"
- - "/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 ---
 
 J’ai lu la première BD historique éditée par la Revue Dessinée : “La ballade nationale / Les origines”, co-écrite par un historien et le dessinateur Étienne Davodeau.
@@ -24,7 +24,7 @@ J’ai lu la première BD historique éditée par la Revue Dessinée : “La bal
 
 
 
-![image](/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -33,7 +33,7 @@ C’est la première BD d’une série de 20 qui a pour but de proposer une rele
 
 
 
-![image](/posts/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 

@@ -13,17 +13,17 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/1.jpeg" 
+featured_image: "/fr/posts/de-nombreuses-lectures-de-bd-fin-2019/images/1.jpeg" 
 images:
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/1.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/2.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/3.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/4.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/5.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/6.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/7.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/8.jpeg"
- - "/posts/de-nombreuses-lectures-de-bd-fin-2019/images/9.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
+ - "images/6.jpeg"
+ - "images/7.jpeg"
+ - "images/8.jpeg"
+ - "images/9.jpeg"
 ---
 
 Hello, j’ai lu beaucoup de BD récemment, je vous partage celles que j’ai bien aimées (toutes 😜).
@@ -41,7 +41,7 @@ ai justement relu tout le **Cycle de Cyann** de Bourgeon et Lacroix (les 2 premi
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -53,7 +53,7 @@ Je recommande aussi pour les amateurs de SF et de beaux dessins (ici aussi les m
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -66,7 +66,7 @@ ai enfin fini **Donjon Crépuscule** ! Toujours de Sfar et Trondheim avec des de
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -79,7 +79,7 @@ Le
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -90,7 +90,7 @@ Le
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 
@@ -102,7 +102,7 @@ Dessin un peu naïf mais j’aime bien l’histoire, à suivre.
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/6.jpeg#layoutTextWidth)
+![image](images/6.jpeg#layoutTextWidth)
 
 
 
@@ -113,7 +113,7 @@ Le
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/7.jpeg#layoutTextWidth)
+![image](images/7.jpeg#layoutTextWidth)
 
 
 
@@ -123,7 +123,7 @@ Le tome 6 est sorti récemment, encore des €€€ à dépenser, pfff…
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/8.jpeg#layoutTextWidth)
+![image](images/8.jpeg#layoutTextWidth)
 
 
 
@@ -134,7 +134,7 @@ Le
 
 
 
-![image](/posts/de-nombreuses-lectures-de-bd-fin-2019/images/9.jpeg#layoutTextWidth)
+![image](images/9.jpeg#layoutTextWidth)
 
 
 

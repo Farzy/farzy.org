@@ -13,14 +13,14 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg" 
+featured_image: "/fr/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg" 
 images:
- - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg"
- - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg"
- - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg"
- - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg"
- - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg"
- - "/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
+ - "images/6.jpeg"
 ---
 
 Ce
@@ -29,7 +29,7 @@ Ce
 
 
 
-![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -42,7 +42,7 @@ On est averti dès le dos de couverture qu’une incertitude plane sur l’ident
 
 
 
-![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -51,7 +51,7 @@ Et très vite l’ambiguïté de la situation du fameux Ramirez nous est présen
 
 
 
-![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -60,7 +60,7 @@ Les titres des chapitres ressemblent aussi à des incrustations 3D :
 
 
 
-![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -71,7 +71,7 @@ Quand j’ai lu que l’auteur travaillait dans le milieu de la vidéo, des effe
 
 
 
-![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 
@@ -84,7 +84,7 @@ L’humour est omniprésent, les références culturelles aussi. Les personnes d
 
 
 
-![image](/posts/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg#layoutTextWidth)
+![image](images/6.jpeg#layoutTextWidth)
 
 
 

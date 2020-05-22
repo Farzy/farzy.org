@@ -12,9 +12,9 @@ tags:
  - Critique
  - Bookworm
 
-image: "/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg" 
+featured_image: "/fr/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg" 
 images:
- - "/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joann Sfar.
@@ -22,7 +22,7 @@ Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joan
 
 
 
-![image](/posts/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

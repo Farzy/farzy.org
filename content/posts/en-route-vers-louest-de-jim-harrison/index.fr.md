@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "Voici une lecture d’été, «En route vers l’ouest» de Jim Harrison. Oui la belle saison est loin, mais j’ai lu ce livre un été et pour moi il…"
 
-image: "/posts/en-route-vers-louest-de-jim-harrison/images/1.jpeg" 
+featured_image: "/fr/posts/en-route-vers-louest-de-jim-harrison/images/1.jpeg" 
 images:
- - "/posts/en-route-vers-louest-de-jim-harrison/images/1.jpeg"
+ - "images/1.jpeg"
 
 
 ---
@@ -20,7 +20,7 @@ Voici une lecture d’été, «**En route vers l’ouest**» de Jim Harrison. Ou
 
 
 
-![image](/posts/en-route-vers-louest-de-jim-harrison/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

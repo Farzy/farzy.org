@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Science Fiction
 
-image: "/posts/carbone-modifié-de-richard-morgan/images/1.jpeg" 
+featured_image: "/fr/posts/carbone-modifié-de-richard-morgan/images/1.jpeg" 
 images:
- - "/posts/carbone-modifié-de-richard-morgan/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 J’ai lu il y a quelques temps ce livre de SF que j’ai bien aimé. Je l’avais acheté en 2004 je crois, au Salon du Livre, chez le jeune éditeur Bragelonne. Il est donc resté près de 15 ans sans que j’y touche !
@@ -23,7 +23,7 @@ J’ai lu il y a quelques temps ce livre de SF que j’ai bien aimé. Je l’ava
 
 
 
-![image](/posts/carbone-modifié-de-richard-morgan/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

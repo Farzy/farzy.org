@@ -14,9 +14,9 @@ tags:
  - Book Review
  - Sociologie
 
-image: "/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg" 
+featured_image: "/fr/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg" 
 images:
- - "/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 J’ai lu «**Le danger sociologique**» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu et réputé, il écrit régulièrement des articles de très bonne qualité, notamment dans Sciences &amp; Pseudo-sciences, ou plus récemment dans Marianne.
@@ -24,7 +24,7 @@ J’ai lu «**Le danger sociologique**» de Gérald Bronner et Étienne Géhin. 
 
 
 
-![image](/posts/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

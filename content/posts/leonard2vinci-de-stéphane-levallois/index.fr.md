@@ -13,19 +13,19 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg" 
+featured_image: "/fr/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg" 
 images:
- - "/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/2.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/3.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/4.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/5.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/6.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/7.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/8.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/9.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/10.jpeg"
- - "/posts/leonard2vinci-de-stéphane-levallois/images/11.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
+ - "images/6.jpeg"
+ - "images/7.jpeg"
+ - "images/8.jpeg"
+ - "images/9.jpeg"
+ - "images/10.jpeg"
+ - "images/11.jpeg"
 ---
 
 Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD**2**VINCI» de Stéphane Levallois.
@@ -33,7 +33,7 @@ Ma lecture de ce week-end est encore une étrange bande dessinée assez contempl
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -46,7 +46,7 @@ J’ai évidemment acheté cette BD au Louvre, pendant la superbe exposition tem
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -57,7 +57,7 @@ L’histoire est celle d’un vaisseau spatial, transportant les derniers rescap
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -74,7 +74,7 @@ Comme ici, dans cette planche, le personnage au visage si moderne, case 4 :
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -83,7 +83,7 @@ N’est autre que celui de cette esquisse que j’ai photographiée au Louvre te
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 
@@ -94,7 +94,7 @@ Ici, lorsque Leonard 2 fait l’étalage de sa science militaire :
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/6.jpeg#layoutTextWidth)
+![image](images/6.jpeg#layoutTextWidth)
 
 
 
@@ -103,7 +103,7 @@ On reconnait la Cène magistrale (je suis désolé du cadrage, il y avait trop d
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/7.jpeg#layoutTextWidth)
+![image](images/7.jpeg#layoutTextWidth)
 
 
 
@@ -112,7 +112,7 @@ Plus loin, ce «robot» a les traits d’un croquis d’habit militaire :
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/8.jpeg#layoutTextWidth)
+![image](images/8.jpeg#layoutTextWidth)
 
 
 
@@ -121,7 +121,7 @@ Et des retours en arrière au XVIème siècle nous font revivre des moments de l
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/9.jpeg#layoutTextWidth)
+![image](images/9.jpeg#layoutTextWidth)
 
 
 
@@ -130,7 +130,7 @@ Et ce garçon espiègle à l’angle du mur :
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/10.jpeg#layoutTextWidth)
+![image](images/10.jpeg#layoutTextWidth)
 
 
 
@@ -139,7 +139,7 @@ N’est autre que le magnifique Saint Jean-Baptiste :
 
 
 
-![image](/posts/leonard2vinci-de-stéphane-levallois/images/11.jpeg#layoutTextWidth)
+![image](images/11.jpeg#layoutTextWidth)
 
 
 

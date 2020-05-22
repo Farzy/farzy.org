@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/greffier-de-joann-sfar/images/1.jpeg" 
+featured_image: "/fr/posts/greffier-de-joann-sfar/images/1.jpeg" 
 images:
- - "/posts/greffier-de-joann-sfar/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 Encore une fois, j’ai mis plusieurs années avant de lire une BD alors que j’étais enthousiaste en l’achetant : **Greffier** de Joann Sfar, [https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html](https://www.editions-delcourt.fr/serie/carnets-de-joann-sfar-greffier.html).
@@ -23,7 +23,7 @@ Encore une fois, j’ai mis plusieurs années avant de lire une BD alors que j�
 
 
 
-![image](/posts/greffier-de-joann-sfar/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

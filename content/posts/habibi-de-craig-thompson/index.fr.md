@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "Hello, ma critique BD de la semaine est Habibi de Craig Thompson, que j’ai lu en anglais."
 
-image: "/posts/habibi-de-craig-thompson/images/1.jpeg" 
+featured_image: "/fr/posts/habibi-de-craig-thompson/images/1.jpeg" 
 images:
- - "/posts/habibi-de-craig-thompson/images/1.jpeg"
- - "/posts/habibi-de-craig-thompson/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ Hello, ma critique BD de la semaine est **Habibi** de Craig Thompson, que j’ai
 
 
 
-![image](/posts/habibi-de-craig-thompson/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -36,4 +36,4 @@ Un exemple des dessins magnifiques mélangés à de la calligraphie :
 
 
 
-![image](/posts/habibi-de-craig-thompson/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)

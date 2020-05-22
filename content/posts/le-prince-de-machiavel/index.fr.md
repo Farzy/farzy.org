@@ -12,9 +12,9 @@ tags:
  - Critique
  - Book Review
 
-image: "/posts/le-prince-de-machiavel/images/1.jpeg" 
+featured_image: "/fr/posts/le-prince-de-machiavel/images/1.jpeg" 
 images:
- - "/posts/le-prince-de-machiavel/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur le Prince qui permet de mieux comprendre l’ouvrage et la pensée politique de l’auteur.
@@ -22,7 +22,7 @@ J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur
 
 
 
-![image](/posts/le-prince-de-machiavel/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

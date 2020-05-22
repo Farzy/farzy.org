@@ -8,12 +8,12 @@ description: ""
 
 subtitle: "Avec cette série de BD nous allons faire un tour en Côté d’Ivoire dont nous découvrons la culture"
 
-image: "/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg" 
+featured_image: "/fr/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg" 
 images:
- - "/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg"
- - "/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/2.jpeg"
- - "/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/3.jpeg"
- - "/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/4.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
 
 
 ---
@@ -23,7 +23,7 @@ Avec cette série de BD nous allons faire un tour en Côté d’Ivoire dont nous
 
 
 
-![image](/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -40,7 +40,7 @@ Au début je n’ai pas trop accroché au dessin de Clément Oubrerie, qui est u
 
 
 
-![image](/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -49,7 +49,7 @@ Mais on voit qu’au fur et à mesure son dessin s’améliore nettement, plusie
 
 
 
-![image](/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -80,7 +80,7 @@ La fin de la série m’a même paru émouvante, l’ensemble m’a laissé une 
 
 
 
-![image](/posts/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 

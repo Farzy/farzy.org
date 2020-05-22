@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "Un livre autobiographique pour continuer, dans un style très différent, plus sombre mais d’une écriture remarquable. Une fois que je l’ai…"
 
-image: "/posts/le-lambeau-de-philippe-lançon/images/1.jpeg" 
+featured_image: "/fr/posts/le-lambeau-de-philippe-lançon/images/1.jpeg" 
 images:
- - "/posts/le-lambeau-de-philippe-lançon/images/1.jpeg"
+ - "images/1.jpeg"
 
 
 ---
@@ -20,7 +20,7 @@ Un livre autobiographique pour continuer, dans un style très différent, plus s
 
 
 
-![image](/posts/le-lambeau-de-philippe-lançon/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "J’ai lu «D’autres vies que la mienne» d’Emmanuel Carrère, qu’un collègue et ami, grand fan de l’auteur, m’a offert."
 
-image: "/posts/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg" 
+featured_image: "/fr/posts/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg" 
 images:
- - "/posts/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg"
+ - "images/1.jpeg"
 
 
 ---
@@ -20,7 +20,7 @@ J’ai lu «**D’autres vies que la mienne**» d’Emmanuel Carrère, qu’un c
 
 
 
-![image](/posts/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

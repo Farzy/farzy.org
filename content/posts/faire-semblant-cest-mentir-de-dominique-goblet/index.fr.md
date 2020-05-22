@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : «Faire semblant c’est mentir» de Dominique Goblet."
 
-image: "/posts/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg" 
+featured_image: "/fr/posts/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg" 
 images:
- - "/posts/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg"
- - "/posts/faire-semblant-cest-mentir-de-dominique-goblet/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée 
 
 
 
-![image](/posts/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -32,7 +32,7 @@ Finalement la lecture n’en est pas traumatisante ! J’ai bien aimé l’histo
 
 
 
-![image](/posts/faire-semblant-cest-mentir-de-dominique-goblet/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 

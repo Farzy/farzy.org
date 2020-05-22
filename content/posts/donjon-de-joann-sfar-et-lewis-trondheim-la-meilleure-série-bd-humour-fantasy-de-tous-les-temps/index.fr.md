@@ -13,10 +13,10 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg" 
+featured_image: "/fr/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg" 
 images:
- - "/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg"
- - "/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 ---
 
 Toujours de Joann Sfar, en duo avec Lewis Trondheim, j’ai relu l’intégralité des 6 **Donjon Zénith** et les 4 premiers **Donjon Crépuscule**, avant d’acheter bientôt tous les tomes de Crépuscule qui me manquaient. J’avais notamment le 6 mais pas le 5… j’ai dû perdre le 5 et comme j’ai oublié l’histoire j’ai relu tout d’abord, avant de lire des dernière Crépuscules. Je ne regrette pas du tout le temps passé à relire ces dizaines de tomes !
@@ -24,7 +24,7 @@ Toujours de Joann Sfar, en duo avec Lewis Trondheim, j’ai relu l’intégralit
 
 
 
-![image](/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -37,7 +37,7 @@ Les styles sont variés, notamment dans les Donjon Monsters et parfois l’humou
 
 
 
-![image](/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 

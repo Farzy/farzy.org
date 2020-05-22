@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "Une lecture légère avec Imbattable de Pascal Jousselin. Mes jumeaux avaient eu le tome 1 en cadeau il y a un an et on a acheté le 2 parce…"
 
-image: "/posts/imbattable-de-pascal-jousselin/images/1.jpeg" 
+featured_image: "/fr/posts/imbattable-de-pascal-jousselin/images/1.jpeg" 
 images:
- - "/posts/imbattable-de-pascal-jousselin/images/1.jpeg"
- - "/posts/imbattable-de-pascal-jousselin/images/2.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
 
 
 ---
@@ -21,7 +21,7 @@ Une lecture légère avec **Imbattable** de Pascal Jousselin. Mes jumeaux avaien
 
 
 
-![image](/posts/imbattable-de-pascal-jousselin/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -32,7 +32,7 @@ Il est très nonchalant, toujours en train d’accomplir une tâche banale (ache
 
 
 
-![image](/posts/imbattable-de-pascal-jousselin/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 

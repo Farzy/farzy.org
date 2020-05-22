@@ -8,9 +8,9 @@ description: ""
 
 subtitle: "J’ai lu «Meursault contre-enquête» de Kamel Daoud. L’auteur a imaginé une suite, un contrepoint, à «L’étranger» de Camus dans laquelle il…"
 
-image: "/posts/meursault-contreenquête-de-kamel-daoud/images/1.jpeg" 
+featured_image: "/fr/posts/meursault-contreenquête-de-kamel-daoud/images/1.jpeg" 
 images:
- - "/posts/meursault-contreenquête-de-kamel-daoud/images/1.jpeg"
+ - "images/1.jpeg"
 
 
 ---
@@ -20,7 +20,7 @@ J’ai lu «**Meursault contre-enquête**» de Kamel Daoud. L’auteur a imagin�
 
 
 
-![image](/posts/meursault-contreenquête-de-kamel-daoud/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

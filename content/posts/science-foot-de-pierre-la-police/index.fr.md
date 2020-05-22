@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/science-foot-de-pierre-la-police/images/1.jpeg" 
+featured_image: "/fr/posts/science-foot-de-pierre-la-police/images/1.jpeg" 
 images:
- - "/posts/science-foot-de-pierre-la-police/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 Une pause amusante avec «**Science foot**» de **Pierre la Police**, dessinateur dont le trait grossier et caricatural et l’humour absurde sont les caractéristiques.
@@ -25,4 +25,4 @@ Je crois qu’il est peu connu mais il ne passe pas inaperçu. Cette BD regroupe
 
 
 
-![image](/posts/science-foot-de-pierre-la-police/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)

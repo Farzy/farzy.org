@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg" 
+featured_image: "/fr/posts/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg" 
 images:
- - "/posts/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 L’
@@ -26,7 +26,7 @@ C’est l’occasion pour vous de lire ou relire «L’homme sans talent», seul
 
 
 
-![image](/posts/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

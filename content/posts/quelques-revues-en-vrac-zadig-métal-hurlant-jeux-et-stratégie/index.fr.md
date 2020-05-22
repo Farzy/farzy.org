@@ -8,13 +8,13 @@ description: ""
 
 subtitle: "J’ai encore craqué, cette fois j’ai acheté l’intégralité des 30 premiers numéros de Jeux et Stratégie 😏"
 
-image: "/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg" 
+featured_image: "/fr/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg" 
 images:
- - "/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg"
- - "/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/2.jpeg"
- - "/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/3.jpeg"
- - "/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/4.jpeg"
- - "/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/5.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
 
 
 ---
@@ -24,7 +24,7 @@ J’ai encore craqué, cette fois j’ai acheté l’intégralité des 30 premie
 
 
 
-![image](/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -35,14 +35,14 @@ C’était le meilleur (et seul ?) magazine de jeux des années 80, il parlait v
 
 
 
-![image](/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 Dans le genre plus sérieux j’ai fini le numéro 3 de **Zadig**, le trimestriel édité par Le 1 hebdo qui raconte la France. Numéro intéressant consacré au travail. Il y a des reportages, des histoires, un reportage en photos, des portraits, Le tome 2 consacré à la nature était intéressant aussi, mais j’ai trouvé le tome 1 plus ambigu car il a été écrit à l’époque où les Gilets Jaunes n’étaient pas un ramassis de fachos et d’anarchistes violents, la revue en faisait un portrait élogieux 😠
 
 
 
 
-![image](/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -51,7 +51,7 @@ Dans la forme c’est donc très proche de la Revue XXI, et j’aime bien.Et enf
 
 
 
-![image](/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -60,7 +60,7 @@ C’est émouvant pour moi mais en même temps c’est amusant de lire ça aussi
 
 
 
-![image](/posts/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 

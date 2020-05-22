@@ -8,10 +8,10 @@ description: ""
 
 subtitle: "J’ai lu récemment le premier Corto Maltese de Hugo Pratt, «La ballade de la mer salée». Enfin ! Depuis le temps que j’entendais parler de…"
 
-image: "/posts/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg" 
+featured_image: "/fr/posts/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg" 
 images:
- - "/posts/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg"
- - "/posts/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/2.png"
+ - "images/1.jpeg"
+ - "images/2.png"
 
 
 ---
@@ -22,7 +22,7 @@ ai lu récemment le premier **Corto Maltese** de Hugo Pratt, «La ballade de la 
 
 
 
-![image](/posts/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -33,7 +33,7 @@ Je ne saurais le recommander, mais c’est tellement encensé par ailleurs que �
 
 
 
-![image](/posts/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/2.png#layoutTextWidth)
+![image](images/2.png#layoutTextWidth)
 
 
 

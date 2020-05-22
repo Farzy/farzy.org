@@ -13,9 +13,9 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg" 
+featured_image: "/fr/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg" 
 images:
- - "/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 Début 2019 je n’avais plus lu de BD depuis longtemps, je m’y suis remis intensivement pendant les congés de l’été dernier et je rattrape un peu le retard de mes recommandations maintenant 😄
@@ -25,7 +25,7 @@ Coup de cœur de l’été dernier : «**Zaï Zaï Zaï Zaï**» de Fabcaro [htt
 
 
 
-![image](/posts/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

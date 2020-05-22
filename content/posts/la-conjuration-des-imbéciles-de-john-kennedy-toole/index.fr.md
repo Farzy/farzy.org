@@ -13,14 +13,14 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg" 
+featured_image: "/fr/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg" 
 images:
- - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg"
- - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg"
- - "/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
 ---
 
-![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -29,7 +29,7 @@ Voici un livre avec une drôle d’histoire, en plus d’être lui-même une his
 
 
 
-![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg#layoutOutsetLeft)
+![image](images/2.jpeg#layoutOutsetLeft)
 
 
 
@@ -44,7 +44,7 @@ Et c’est donc en aménageant la bibliothèque que je découvre que nous avons 
 
 
 
-![image](/posts/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 

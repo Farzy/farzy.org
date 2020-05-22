@@ -13,15 +13,15 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg" 
+featured_image: "/fr/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg" 
 images:
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg"
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/2.jpeg"
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/3.jpeg"
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/4.jpeg"
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg"
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg"
- - "/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
+ - "images/6.jpeg"
+ - "images/7.jpeg"
 ---
 
 Voici une bien étrange bande dessinée, qui m’a d’abord un peu déçu avant de m’émouvoir.
@@ -29,7 +29,7 @@ Voici une bien étrange bande dessinée, qui m’a d’abord un peu déçu avant
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -40,7 +40,7 @@ Le scénario de l’histoire est la visite en France d’un homme qu’on sait �
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -51,7 +51,7 @@ Les dessins sont très beaux, presque photographiques, l’intérieur du Louvre,
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -62,7 +62,7 @@ Pour ce qui est de l’histoire, elle est étrange : notre visiteur japonais est
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -75,7 +75,7 @@ Et chaque jour, après avoir émergé de son rêve éveillé, le visiteur revien
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 
@@ -86,7 +86,7 @@ Mais tout a basculé quand le héros, lors de son avant-dernière visite au Louv
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/6.jpeg#layoutTextWidth)
+![image](images/6.jpeg#layoutTextWidth)
 
 
 
@@ -103,7 +103,7 @@ Lors de sa dernière visite au Louvre notre visiteur fait une dernière rencontr
 
 
 
-![image](/posts/les-gardiens-du-louvre-de-jirô-taniguchi/images/7.jpeg#layoutTextWidth)
+![image](images/7.jpeg#layoutTextWidth)
 
 
 

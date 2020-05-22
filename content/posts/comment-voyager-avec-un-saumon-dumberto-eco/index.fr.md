@@ -13,10 +13,10 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg" 
+featured_image: "/fr/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg" 
 images:
- - "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg"
- - "/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/2.png"
+ - "images/1.jpeg"
+ - "images/2.png"
 ---
 
 Vous connaissez sans-doute déjà l’auteur italien Umberto Eco pour ses romans, «**Le Nom de la Rose**» ou «**Le Pendule de Foucault**». [Eco](https://fr.wikipedia.org/wiki/Umberto_Eco) est non seulement un excellent romancier, il a aussi un métier principal, sémiologue, et c’est un érudit.
@@ -26,7 +26,7 @@ Il a aussi un excellent sens de l’humour. C’est la combinaison de son érudi
 
 
 
-![image](/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -37,7 +37,7 @@ On y trouve aussi bien des réflexions sur les biais des italiens, sur les chauf
 
 
 
-![image](/posts/comment-voyager-avec-un-saumon-dumberto-eco/images/2.png#layoutTextWidth)
+![image](images/2.png#layoutTextWidth)
 
 
 

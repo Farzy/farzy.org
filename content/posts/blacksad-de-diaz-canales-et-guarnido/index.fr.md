@@ -13,13 +13,13 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg" 
+featured_image: "/fr/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg" 
 images:
- - "/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg"
- - "/posts/blacksad-de-diaz-canales-et-guarnido/images/2.jpeg"
- - "/posts/blacksad-de-diaz-canales-et-guarnido/images/3.jpeg"
- - "/posts/blacksad-de-diaz-canales-et-guarnido/images/4.jpeg"
- - "/posts/blacksad-de-diaz-canales-et-guarnido/images/5.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
 ---
 
 Attention Chef d’Œuvre ! Je viens de relire les tomes 1 et 2 de Blacksad, que j’avais lu vers 2002 / 2003, avant d’attaquer les tomes 3 et 4 que j’ai achetés récemment.
@@ -27,7 +27,7 @@ Attention Chef d’Œuvre ! Je viens de relire les tomes 1 et 2 de Blacksad, que
 
 
 
-![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -40,7 +40,7 @@ C’est clairement le cas ici avec Blacksad, d’où mon enthousiasme. Les deux 
 
 
 
-![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -49,7 +49,7 @@ C’est clairement le cas ici avec Blacksad, d’où mon enthousiasme. Les deux 
 
 
 
-![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -58,7 +58,7 @@ Je disais qu’on pouvait dater la période des histoires aux années 50, il me 
 
 
 
-![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -67,7 +67,7 @@ Sur la case suivante on voit l’année 1952 entre les bras tendus du rat.
 
 
 
-![image](/posts/blacksad-de-diaz-canales-et-guarnido/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 

@@ -12,9 +12,9 @@ tags:
  - Critique
  - Book Review
 
-image: "/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg" 
+featured_image: "/fr/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg" 
 images:
- - "/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg"
+ - "images/1.jpeg"
 ---
 
 J’ai _enfin_ lu l’année dernière le tome 1 de L’arabe du futur de Riad Sattouf, histoire de sa jeunesse en Libye et Syrie.
@@ -24,7 +24,7 @@ J’ai _enfin_ lu l’année dernière le tome 1 de L’arabe du futur de Riad S
 
 
 
-![image](/posts/larabe-du-futur-de-riad-sattouf/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 

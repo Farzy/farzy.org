@@ -13,16 +13,16 @@ tags:
  - Book Review
  - Bookworm
 
-image: "/posts/icare-de-mœbius-et-jiro-taniguchi/images/1.jpeg" 
+featured_image: "/fr/posts/icare-de-mœbius-et-jiro-taniguchi/images/1.jpeg" 
 images:
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/1.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/2.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/3.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/4.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/5.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/6.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/7.jpeg"
- - "/posts/icare-de-mœbius-et-jiro-taniguchi/images/8.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
+ - "images/6.jpeg"
+ - "images/7.jpeg"
+ - "images/8.jpeg"
 ---
 
 Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi.
@@ -30,7 +30,7 @@ Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -43,7 +43,7 @@ Finalement le scénario a été proposé à un éditeur japonais et c’est Tani
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -54,7 +54,7 @@ Et c’est dans ce contexte qu’une femme enceinte, que l’on voit au début f
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -63,7 +63,7 @@ Immédiatement intercepté par le Ministère de la Défense, en la personne de l
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -72,7 +72,7 @@ La secrétaire d’état à la défense est une femme sado-masochiste, belle,tr�
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 
@@ -81,7 +81,7 @@ L’autre aspect sensuel, et sexuel, très développé dans l’histoire est l�
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/6.jpeg#layoutTextWidth)
+![image](images/6.jpeg#layoutTextWidth)
 
 
 
@@ -90,7 +90,7 @@ Yokiko l’aidera à s’échapper du centre de recherche et Icare la sauvera à
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/7.jpeg#layoutTextWidth)
+![image](images/7.jpeg#layoutTextWidth)
 
 
 
@@ -99,7 +99,7 @@ La fin reste ouverte et laissait le champ libre au développement d’une suite�
 
 
 
-![image](/posts/icare-de-mœbius-et-jiro-taniguchi/images/8.jpeg#layoutTextWidth)
+![image](images/8.jpeg#layoutTextWidth)
 
 
 

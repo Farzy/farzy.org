@@ -8,11 +8,11 @@ description: ""
 
 subtitle: "Une lecture mes lectures BD récente est un livre inclassable, «Gens de France et d’ailleurs» de Jean Teulé. C’est la réédition de…"
 
-image: "/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg" 
+featured_image: "/fr/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg" 
 images:
- - "/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg"
- - "/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/2.jpeg"
- - "/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/3.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
 
 
 ---
@@ -22,7 +22,7 @@ Une lecture mes lectures BD récente est un livre inclassable, «Gens de France 
 
 
 
-![image](/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -33,7 +33,7 @@ Son interview de l’auteur de BD Philippe Druillet, dont il se moque pas mal de
 
 
 
-![image](/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -42,7 +42,7 @@ Les manifestations étudiantes de 86, là il interviewe une fasciste du GUD ains
 
 
 
-![image](/posts/gens-de-france-et-dailleurs-de-jean-teulé/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 

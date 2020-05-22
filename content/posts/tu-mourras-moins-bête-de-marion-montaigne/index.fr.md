@@ -13,13 +13,13 @@ tags:
  - Bookworm
  - Critique
 
-image: "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg" 
+featured_image: "/fr/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg" 
 images:
- - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg"
- - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg"
- - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg"
- - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg"
- - "/posts/tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
 ---
 
 Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras… d’envie d’acheter cette BD et ses suites 😉
@@ -27,7 +27,7 @@ Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras…
 
 
 
-![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -38,7 +38,7 @@ Chacun des histoires courtes de son blog a été reprise pour donner ces recueil
 
 
 
-![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -47,7 +47,7 @@ On apprend donc plein de choses tout en riant. Plein de thèmes différents ont 
 
 
 
-![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -56,7 +56,7 @@ On apprend aussi pourquoi il est si difficile de perdre son gras et qu’il ne s
 
 
 
-![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -64,7 +64,7 @@ Ou encore que, au grand dam des extrémiste de tout bord, l’homosexualité exi
 
 
 
-![image](/posts/tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg#layoutOutsetCenter)
+![image](images/5.jpeg#layoutOutsetCenter)
 
 Mes jumeaux de 10 ans aussi adore ces BD ainsi que la série de dessins animés qui en a été tirée : «Parce que c’est drôle et que ça fait apprendre des trucs.»
 

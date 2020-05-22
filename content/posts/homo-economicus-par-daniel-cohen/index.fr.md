@@ -13,11 +13,11 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/homo-economicus-par-daniel-cohen/images/1.jpeg" 
+featured_image: "/fr/posts/homo-economicus-par-daniel-cohen/images/1.jpeg" 
 images:
- - "/posts/homo-economicus-par-daniel-cohen/images/1.jpeg"
- - "/posts/homo-economicus-par-daniel-cohen/images/2.jpeg"
- - "/posts/homo-economicus-par-daniel-cohen/images/3.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
 ---
 
 Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de l’économie et de l’humain rationnel…
@@ -25,7 +25,7 @@ Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux»
 
 
 
-![image](/posts/homo-economicus-par-daniel-cohen/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -34,7 +34,7 @@ Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux»
 
 
 
-![image](/posts/homo-economicus-par-daniel-cohen/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -59,7 +59,7 @@ Autre chapitre qui m’a marqué, c’est celui sur l’économie numérique. Il
 
 
 
-![image](/posts/homo-economicus-par-daniel-cohen/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 

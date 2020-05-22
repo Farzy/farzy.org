@@ -13,13 +13,13 @@ tags:
  - Bookworm
  - Book Review
 
-image: "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg" 
+featured_image: "/fr/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg" 
 images:
- - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg"
- - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg"
- - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg"
- - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg"
- - "/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg"
+ - "images/1.jpeg"
+ - "images/2.jpeg"
+ - "images/3.jpeg"
+ - "images/4.jpeg"
+ - "images/5.jpeg"
 ---
 
 Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très très peu, mais comme il y a quelques mois notre libraire BD de proximité ([**BD Geek à Antony**](https://www.facebook.com/librairieBDGEEK/), je le recommande chaudement) fêtait les 80 ans de Batman en offrant une BD pour l’achat de 2 BD Batman, j’y suis allé avec ma fille et nous avons chacun choisi un livre. Mon choix s’est porté sur ce «reboot» de la genèse de Batman par Frank Miller.
@@ -27,7 +27,7 @@ Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très t
 
 
 
-![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg#layoutTextWidth)
+![image](images/1.jpeg#layoutTextWidth)
 
 
 
@@ -38,7 +38,7 @@ L’histoire de Batman est connue, la raison pour laquelle il est devenu ce just
 
 
 
-![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg#layoutTextWidth)
+![image](images/2.jpeg#layoutTextWidth)
 
 
 
@@ -47,7 +47,7 @@ Et c’est là que ça devient intéressant ! Miller raconte aussi l’arriver d
 
 
 
-![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg#layoutTextWidth)
+![image](images/3.jpeg#layoutTextWidth)
 
 
 
@@ -60,7 +60,7 @@ Un autre élément de ces bonus qui m’a énormément plus est la copie de plus
 
 
 
-![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg#layoutTextWidth)
+![image](images/4.jpeg#layoutTextWidth)
 
 
 
@@ -69,7 +69,7 @@ Très beau travail également chez la coloriste qui a refait toutes les couleurs
 
 
 
-![image](/posts/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg#layoutTextWidth)
+![image](images/5.jpeg#layoutTextWidth)
 
 
 
