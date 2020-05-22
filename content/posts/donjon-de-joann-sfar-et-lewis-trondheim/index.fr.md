@@ -13,7 +13,7 @@ tags:
  - Bookworm
  - Book Review
 
-featured_image: "/fr/posts/donjon-de-joann-sfar-et-lewis-trondheim-la-meilleure-série-bd-humour-fantasy-de-tous-les-temps/images/1.jpeg" 
+featured_image: "/fr/posts/donjon-de-joann-sfar-et-lewis-trondheim/images/1.jpeg" 
 images:
  - "images/1.jpeg"
  - "images/2.jpeg"
