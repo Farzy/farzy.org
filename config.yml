@@ -9,6 +9,7 @@ enableEmoji: true
 enableRobotsTXT: true
 enableGitInfo: true
 googleAnalytics: UA-167419986-1
+disqusShortname: farzy-org
 
 SectionPagesMenu: "main"
 
