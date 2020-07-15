@@ -4,9 +4,11 @@ date: 2020-06-30T15:28:55+02:00
 author: "Farzad FARID"
 tags:
  - Cuisine
-featured_image: "/fr/posts/riz-basmati/images/riz-basmati.jpg"
+featured_image: "/fr/misc/riz-basmati/images/riz-basmati.jpg"
 description: "Ma version d'une excellente recette iranienne de riz basmati avec une croûte croustillante."
 draft: false
+aliases:
+  - /fr/posts/riz-basmati/
 ---
 
 **Tahdig** signifie "fond de la casserole". Ce terme décrit la croûte de riz grillé croquant qui couvre le fond du plat si on a bien réussi la cuisson. C'est un plat assez simple et délicieux avec juste un peu de beurre ! Le Riz Basmati est en effet très parfumé naturellement. Ma femme et les enfants adorent et ne s'en lassent jamais, contrairement aux pâtes :smile:
