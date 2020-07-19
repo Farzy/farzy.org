@@ -5,6 +5,8 @@ author: "Farzad FARID"
 tags:
  - Cuisine
 featured_image: "/fr/misc/riz-basmati/images/riz-basmati.jpg"
+images:
+  - "/fr/misc/riz-basmati/images/riz-basmati.jpg"
 description: "Ma version d'une excellente recette iranienne de riz basmati avec une croûte croustillante."
 draft: false
 aliases:
