@@ -33,7 +33,7 @@ params:
   show_reading_time: true
   # Explicitly list blog sections to display in main page
   mainSections:
-    - posts
+    - books
     - misc
 
 DefaultContentLanguage: "fr"
