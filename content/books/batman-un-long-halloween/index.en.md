@@ -19,11 +19,11 @@ images:
 
 ---
 
-This book is a fantastic American comics, I will therefore write this critics in English although I read it in French :slightly_smiling_face:  
-
 ![image](images/1.jpeg#layoutTextWidth)
 
 [Batman: A long Halloween](https://en.wikipedia.org/wiki/Batman:_The_Long_Halloween) ([Un long Halloween](https://fr.wikipedia.org/wiki/Batman_:_Un_long_Halloween>)) by Jeph Loeb & Time Sale was recommended to me by Batman fans in the [Bubble Family & Friends](https://www.facebook.com/groups/BubbleBD) Facebook group, a forum used by users of the excellent **Bubble** application that I use to manage my BD/Comics/Manga collection.
+
+*Note*: This book is a fantastic American comics, I will therefore write this critics in English although I read it in French :slightly_smiling_face:  
 
 I'm not really a super-hero fan so, for me, finding in which order comic books should be read and moreover which ones deserve to be read, is a perilous task! There are so many parallel stories, reboots, crossovers… If you're like me, a Batman fan but not a comics' nerd, you should first read [Batman: Year One]({{<ref "/books/batman-année-un-par-frank-miller-et-david-mazzucchelli">}}) by Frank Miller & David Mazzucchelli, a reboot of Batman's "birth", it's really excellent! And then you should read "A long Halloween".
 

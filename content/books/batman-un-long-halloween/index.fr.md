@@ -19,11 +19,11 @@ images:
 
 ---
 
-*Note* : Ce livre est une fantastique bande dessinée américaine, j'ai donc écrite cette critique directement en anglais, bien que la BD soit en français, puis j'ai utilisé un traducteur automatique, **DeepL** :slightly_smiling_face:  
-
 ![image](images/1.jpeg#layoutTextWidth)
 
 [Batman: A long Halloween](https://en.wikipedia.org/wiki/Batman:_The_Long_Halloween) ([Un long Halloween](https://fr.wikipedia.org/wiki/Batman_:_Un_long_Halloween>)) de Jeph Loeb & Time Sale m'a été recommandé par les fans de Batman dans le groupe Facebook [Bubble Family & Friends](https://www.facebook.com/groups/BubbleBD), un forum utilisé par les utilisateurs de l'excellente application **Bubble** que j'utilise pour gérer ma collection de BD/Comics/Manga.
+
+*Note* : Ce livre est une fantastique bande dessinée américaine, j'ai donc écrite cette critique directement en anglais, bien que la BD soit en français, puis j'ai utilisé un traducteur automatique, **DeepL** :slightly_smiling_face:  
 
 Je ne suis pas vraiment un fan de super-héros, donc pour moi, trouver dans quel ordre les BD devraient être lues, et d'ailleurs lesquelles méritent d'être lues, est une tâche périlleuse ! Il y a tellement d'histoires parallèles, de reboots, de crossovers... Si vous êtes comme moi, un fan de Batman mais pas un nerd des Comics, vous devriez d'abord lire [Batman: Année Un]({{<ref "/books/batman-année-un-par-frank-miller-et-david-mazzucchelli" >}}) de Frank Miller & David Mazzucchelli, un reboot de la "naissance" de Batman, c'est vraiment excellent ! Et puis vous devriez lire "Un long Halloween".
 
