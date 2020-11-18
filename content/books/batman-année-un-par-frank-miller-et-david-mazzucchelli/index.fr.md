@@ -74,3 +74,8 @@ Très beau travail également chez la coloriste qui a refait toutes les couleurs
 
 
 Verdict ? J’ai adoré ! Je pense que je lirai d’autre Batman… une fois que j’aurais fini les presque 40 BD non lues que j’ai déjà 😅
+
+## Références
+
+* [Batman: Year One](https://en.wikipedia.org/wiki/Batman:_Year_One) 
+* [Batman : Année Un](https://fr.wikipedia.org/wiki/Batman_:_Ann%C3%A9e_Un)
