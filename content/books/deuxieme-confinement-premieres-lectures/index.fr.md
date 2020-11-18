@@ -13,7 +13,7 @@ tags:
  - Book Review
  - Bookworm
 
-featured_image: "fr/books/deuxieme-confinement-premieres-lectures/images/second-confinement-premieres-lectures.jpg" 
+featured_image: "/fr/books/deuxieme-confinement-premieres-lectures/images/second-confinement-premieres-lectures.jpg" 
 images:
  - "images/second-confinement-premieres-lectures.jpg"
 
