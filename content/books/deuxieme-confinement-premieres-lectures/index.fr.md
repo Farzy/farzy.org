@@ -2,7 +2,7 @@
 title: "Second confinement, premières lectures"
 date: 2020-11-02T23:28:56+01:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "Sophie Lambda, Jul, Jirô Taniguchi"
 
