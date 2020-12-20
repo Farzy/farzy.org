@@ -3,7 +3,8 @@ baseURL: "https://farzy.org/"
 #languageName: "Français"
 title: "Farzad FARID"
 
-theme: "ananke"
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke
 
 enableEmoji: true
 enableRobotsTXT: true
