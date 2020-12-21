@@ -10,8 +10,8 @@ subtitle: "Autre lecture d’été (un autre été…) : «Chagrin d’école» 
 
 featured_image: "/fr/books/chagrin-décole-de-daniel-pennac/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/chagrin-décole-de-daniel-pennac/images/1.jpeg"
+ - "/fr/books/chagrin-décole-de-daniel-pennac/images/2.jpeg"
 
 
 ---

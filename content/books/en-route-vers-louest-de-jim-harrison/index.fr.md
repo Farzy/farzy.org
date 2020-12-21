@@ -10,7 +10,7 @@ subtitle: "Voici une lecture d’été, «En route vers l’ouest» de Jim Harri
 
 featured_image: "/fr/books/en-route-vers-louest-de-jim-harrison/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/en-route-vers-louest-de-jim-harrison/images/1.jpeg"
 
 
 ---

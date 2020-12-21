@@ -10,8 +10,8 @@ subtitle: "Voici une bande dessinée que j’ai lue il y a un an et que j’ai b
 
 featured_image: "/fr/books/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg"
+ - "/fr/books/faire-semblant-cest-mentir-de-dominique-goblet/images/2.jpeg"
 
 
 ---

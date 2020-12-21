@@ -10,10 +10,10 @@ subtitle: "Avec cette série de BD nous allons faire un tour en Côté d’Ivoir
 
 featured_image: "/fr/books/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
+ - "/fr/books/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg"
+ - "/fr/books/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/2.jpeg"
+ - "/fr/books/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/3.jpeg"
+ - "/fr/books/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/4.jpeg"
 
 
 ---

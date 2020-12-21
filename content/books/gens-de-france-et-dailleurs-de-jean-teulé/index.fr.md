@@ -10,9 +10,9 @@ subtitle: "Une lecture mes lectures BD récente est un livre inclassable, «Gens
 
 featured_image: "/fr/books/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
+ - "/fr/books/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg"
+ - "/fr/books/gens-de-france-et-dailleurs-de-jean-teulé/images/2.jpeg"
+ - "/fr/books/gens-de-france-et-dailleurs-de-jean-teulé/images/3.jpeg"
 
 
 ---

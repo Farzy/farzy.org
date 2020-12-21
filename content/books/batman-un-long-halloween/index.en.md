@@ -15,7 +15,7 @@ tags:
 
 featured_image: "/en/books/batman-un-long-halloween/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/en/books/batman-un-long-halloween/images/1.jpeg"
 
 ---
 

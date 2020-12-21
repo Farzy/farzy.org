@@ -10,7 +10,7 @@ subtitle: "J’ai lu «D’autres vies que la mienne» d’Emmanuel Carrère, qu
 
 featured_image: "/fr/books/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg"
 
 
 ---

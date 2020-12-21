@@ -10,8 +10,8 @@ subtitle: "J’ai lu récemment le premier Corto Maltese de Hugo Pratt, «La bal
 
 featured_image: "/fr/books/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.png"
+ - "/fr/books/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg"
+ - "/fr/books/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/2.png"
 
 
 ---

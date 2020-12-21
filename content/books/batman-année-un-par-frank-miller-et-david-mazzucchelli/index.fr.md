@@ -15,11 +15,11 @@ tags:
 
 featured_image: "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
+ - "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg"
+ - "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/2.jpeg"
+ - "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/3.jpeg"
+ - "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/4.jpeg"
+ - "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg"
 ---
 
 Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très très peu, mais comme il y a quelques mois notre libraire BD de proximité ([**BD Geek à Antony**](https://www.facebook.com/librairieBDGEEK/), je le recommande chaudement) fêtait les 80 ans de Batman en offrant une BD pour l’achat de 2 BD Batman, j’y suis allé avec ma fille et nous avons chacun choisi un livre. Mon choix s’est porté sur ce «reboot» de la genèse de Batman par Frank Miller.

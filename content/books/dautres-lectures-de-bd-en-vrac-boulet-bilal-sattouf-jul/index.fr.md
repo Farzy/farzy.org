@@ -10,12 +10,12 @@ subtitle: "Encore quelques lectures récentes en vrac 😃 :"
 
 featured_image: "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
- - "images/6.jpeg"
+ - "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg"
+ - "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/2.jpeg"
+ - "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/3.jpeg"
+ - "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/4.jpeg"
+ - "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/5.jpeg"
+ - "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/6.jpeg"
 
 
 ---

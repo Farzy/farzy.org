@@ -15,8 +15,8 @@ tags:
 
 featured_image: "/fr/books/donjon-de-joann-sfar-et-lewis-trondheim/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/donjon-de-joann-sfar-et-lewis-trondheim/images/1.jpeg"
+ - "/fr/books/donjon-de-joann-sfar-et-lewis-trondheim/images/2.jpeg"
 ---
 
 Toujours de Joann Sfar, en duo avec Lewis Trondheim, j’ai relu l’intégralité des 6 **Donjon Zénith** et les 4 premiers **Donjon Crépuscule**, avant d’acheter bientôt tous les tomes de Crépuscule qui me manquaient. J’avais notamment le 6 mais pas le 5… j’ai dû perdre le 5 et comme j’ai oublié l’histoire j’ai relu tout d’abord, avant de lire des dernière Crépuscules. Je ne regrette pas du tout le temps passé à relire ces dizaines de tomes !

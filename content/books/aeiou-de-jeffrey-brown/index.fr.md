@@ -10,8 +10,8 @@ subtitle: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l�
 
 featured_image: "/fr/books/aeiou-de-jeffrey-brown/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/aeiou-de-jeffrey-brown/images/1.jpeg"
+ - "/fr/books/aeiou-de-jeffrey-brown/images/2.jpeg"
 
 
 ---

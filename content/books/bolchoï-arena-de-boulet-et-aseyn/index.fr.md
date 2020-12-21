@@ -10,7 +10,7 @@ subtitle: "J‘ai lu récemment une BD, Bolchoï Arena de Boulet et Aseyn. Cette
 
 featured_image: "/fr/books/bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg"
 
 
 ---

@@ -15,15 +15,15 @@ tags:
 
 featured_image: "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
- - "images/6.jpeg"
- - "images/7.jpeg"
- - "images/8.jpeg"
- - "images/9.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/1.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/2.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/3.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/4.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/5.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/6.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/7.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/8.jpeg"
+ - "/fr/books/de-nombreuses-lectures-de-bd-fin-2019/images/9.jpeg"
 ---
 
 Hello, j’ai lu beaucoup de BD récemment, je vous partage celles que j’ai bien aimées (toutes 😜).

@@ -10,8 +10,8 @@ subtitle: "Hello, ma critique BD de la semaine est Habibi de Craig Thompson, que
 
 featured_image: "/fr/books/habibi-de-craig-thompson/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/habibi-de-craig-thompson/images/1.jpeg"
+ - "/fr/books/habibi-de-craig-thompson/images/2.jpeg"
 
 
 ---
