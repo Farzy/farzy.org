@@ -15,7 +15,7 @@ tags:
 
 featured_image: "/fr/books/histoire-populaire-empire-americain/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/histoire-populaire-empire-americain/images/1.jpeg"
 
 ---
 

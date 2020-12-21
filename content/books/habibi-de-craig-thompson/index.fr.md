@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:16+02:00
 draft: true
-description: ""
-
-subtitle: "Hello, ma critique BD de la semaine est Habibi de Craig Thompson, que j’ai lu en anglais."
+description: "Hello, ma critique BD de la semaine est Habibi de Craig Thompson, que j’ai lu en anglais."
 
 featured_image: "/fr/books/habibi-de-craig-thompson/images/1.jpeg" 
 images:

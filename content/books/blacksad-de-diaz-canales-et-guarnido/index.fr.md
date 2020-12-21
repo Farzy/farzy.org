@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-01-26T15:23:46.069Z
 lastmod: 2020-05-21T00:15:38+02:00
 
-description: ""
-
-subtitle: "Attention Chef d’Œuvre ! Je viens de relire les tomes 1 et 2 de Blacksad, que j’avais lu vers 2002 / 2003, avant d’attaquer les tomes 3 et…"
+description: "Attention Chef d’Œuvre ! Je viens de relire les tomes 1 et 2 de Blacksad, que j’avais lu vers 2002 / 2003, avant d’attaquer les tomes 3 et…"
 tags:
  - Bande Dessinée
  - Critique

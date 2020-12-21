@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:38+02:00
 draft: true
-description: ""
-
-subtitle: "J’ai lu récemment le premier Corto Maltese de Hugo Pratt, «La ballade de la mer salée». Enfin ! Depuis le temps que j’entendais parler de…"
+description: "J’ai lu récemment le premier Corto Maltese de Hugo Pratt, «La ballade de la mer salée». Enfin ! Depuis le temps que j’entendais parler de…"
 
 featured_image: "/fr/books/corto-maltese-de-hugo-pratt-la-ballade-de-la-mer-salée/images/1.jpeg" 
 images:

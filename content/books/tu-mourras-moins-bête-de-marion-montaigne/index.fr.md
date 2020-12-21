@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-19T20:42:20.508Z
 lastmod: 2020-05-21T00:15:08+02:00
 
-description: ""
-
-subtitle: "Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras… d’envie d’acheter cette BD et ses suites 😉"
+description: "Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras… d’envie d’acheter cette BD et ses suites 😉"
 tags:
  - Bande Dessinée
  - Book Review

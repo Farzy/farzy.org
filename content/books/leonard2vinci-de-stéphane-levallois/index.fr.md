@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-03-08T22:55:15.419Z
 lastmod: 2020-05-21T00:16:51+02:00
 
-description: ""
-
-subtitle: "Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD2VINCI» de Stéphane Levallois."
+description: "Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD2VINCI» de Stéphane Levallois."
 tags:
  - Bande Dessinée
  - Critique

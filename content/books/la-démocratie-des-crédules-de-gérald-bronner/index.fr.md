@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:23+02:00
 draft: true
-description: ""
-
-subtitle: "Avec ce livre c’est un tout autre domaine que j’aborde, la sociologie ! La démocratie des crédules de Gérald Bronner s’attache à énumérer…"
+description: "Avec ce livre c’est un tout autre domaine que j’aborde, la sociologie ! La démocratie des crédules de Gérald Bronner s’attache à énumérer…"
 
 featured_image: "/fr/books/la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg" 
 images:

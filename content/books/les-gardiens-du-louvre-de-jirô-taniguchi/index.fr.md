@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-03-01T18:25:12.533Z
 lastmod: 2020-05-21T00:16:32+02:00
 
-description: ""
-
-subtitle: "Voici une bien étrange bande dessinée, qui m’a d’abord un peu déçu avant de m’émouvoir."
+description: "Voici une bien étrange bande dessinée, qui m’a d’abord un peu déçu avant de m’émouvoir."
 tags:
  - Bande Dessinée
  - Critique

@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-12-07T16:53:58.096Z
 lastmod: 2020-05-21T00:15:25+02:00
 
-description: ""
-
-subtitle: "Une pause amusante avec «Science foot» de Pierre la Police, dessinateur dont le trait grossier et caricatural et l’humour absurde sont les…"
+description: "Une pause amusante avec «Science foot» de Pierre la Police, dessinateur dont le trait grossier et caricatural et l’humour absurde sont les…"
 tags:
  - Bande Dessinée
  - Critique

@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-16T18:31:23.952Z
 lastmod: 2020-05-21T00:14:51+02:00
 
-description: ""
-
-subtitle: "J’ai enfin lu l’année dernière le tome 1 de L’arabe du futur de Riad Sattouf, histoire de sa jeunesse en Libye et Syrie."
+description: "J’ai enfin lu l’année dernière le tome 1 de L’arabe du futur de Riad Sattouf, histoire de sa jeunesse en Libye et Syrie."
 tags:
  - Bande Dessinée
  - Critique

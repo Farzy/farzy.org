@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:41+02:00
 draft: true
-description: ""
-
-subtitle: "Encore quelques lectures récentes en vrac 😃 :"
+description: "Encore quelques lectures récentes en vrac 😃 :"
 
 featured_image: "/fr/books/dautres-lectures-de-bd-en-vrac-boulet-bilal-sattouf-jul/images/1.jpeg" 
 images:

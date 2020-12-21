@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-01-25T16:29:12.186Z
 lastmod: 2020-05-21T00:15:35+02:00
 
-description: ""
-
-subtitle: "Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joann Sfar."
+description: "Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joann Sfar."
 tags:
  - Bande Dessinée
  - Critique

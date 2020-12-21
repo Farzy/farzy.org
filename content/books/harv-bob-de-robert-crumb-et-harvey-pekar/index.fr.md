@@ -4,13 +4,11 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:19+02:00
 draft: true
-description: ""
-
-subtitle: "Harvey Pekar est un individu lambda, petit employé d’un centre hospitalier je crois, qui a vécu toute sa vie à Cleveland et raconte, avec…"
+description: "Harvey Pekar est un individu lambda, petit employé d’un centre hospitalier je crois, qui a vécu toute sa vie à Cleveland et raconte, avec…"
 
 featured_image: "/fr/books/harv-bob-de-robert-crumb-et-harvey-pekar/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/harv-bob-de-robert-crumb-et-harvey-pekar/images/1.jpeg"
 
 
 ---

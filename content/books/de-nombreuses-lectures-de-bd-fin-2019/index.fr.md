@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-02-22T09:23:08.409Z
 lastmod: 2020-05-21T00:16:14+02:00
 
-description: ""
-
-subtitle: "Hello, j’ai lu beaucoup de BD récemment, je vous partage celles que j’ai bien aimées (toutes 😜)."
+description: "Hello, j’ai lu beaucoup de BD récemment, je vous partage celles que j’ai bien aimées (toutes 😜)."
 tags:
  - Bande Dessinée
  - Critique

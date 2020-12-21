@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:05+02:00
 draft: true
-description: ""
-
-subtitle: "Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : «Faire semblant c’est mentir» de Dominique Goblet."
+description: "Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : «Faire semblant c’est mentir» de Dominique Goblet."
 
 featured_image: "/fr/books/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg" 
 images:

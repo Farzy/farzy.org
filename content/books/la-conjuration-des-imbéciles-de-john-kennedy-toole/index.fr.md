@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-18T22:05:18.359Z
 lastmod: 2020-05-21T00:15:02+02:00
 
-description: ""
-
-subtitle: "Voici un livre avec une drôle d’histoire, en plus d’être lui-même une histoire très drôle."
+description: "Voici un livre avec une drôle d’histoire, en plus d’être lui-même une histoire très drôle."
 tags:
  - Livre
  - Critique

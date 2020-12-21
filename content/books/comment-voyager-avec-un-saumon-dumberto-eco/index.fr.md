@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-23T12:17:13.386Z
 lastmod: 2020-05-21T00:15:20+02:00
 
-description: ""
-
-subtitle: "Vous connaissez sans-doute déjà l’auteur italien Umberto Eco pour ses romans, «Le Nom de la Rose» ou «Le Pendule de Foucault». Eco est non…"
+description: "Vous connaissez sans-doute déjà l’auteur italien Umberto Eco pour ses romans, «Le Nom de la Rose» ou «Le Pendule de Foucault». Eco est non…"
 tags:
  - Livre
  - Critique

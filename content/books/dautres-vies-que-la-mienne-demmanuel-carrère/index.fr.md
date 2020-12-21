@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:01+02:00
 draft: true
-description: ""
-
-subtitle: "J’ai lu «D’autres vies que la mienne» d’Emmanuel Carrère, qu’un collègue et ami, grand fan de l’auteur, m’a offert."
+description: "J’ai lu «D’autres vies que la mienne» d’Emmanuel Carrère, qu’un collègue et ami, grand fan de l’auteur, m’a offert."
 
 featured_image: "/fr/books/dautres-vies-que-la-mienne-demmanuel-carrère/images/1.jpeg" 
 images:

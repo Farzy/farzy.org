@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:04+02:00
 draft: true
-description: ""
-
-subtitle: "Voici une lecture d’été, «En route vers l’ouest» de Jim Harrison. Oui la belle saison est loin, mais j’ai lu ce livre un été et pour moi il…"
+description: "Voici une lecture d’été, «En route vers l’ouest» de Jim Harrison. Oui la belle saison est loin, mais j’ai lu ce livre un été et pour moi il…"
 
 featured_image: "/fr/books/en-route-vers-louest-de-jim-harrison/images/1.jpeg" 
 images:

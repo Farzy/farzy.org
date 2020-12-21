@@ -4,14 +4,12 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:22+02:00
 draft: true
-description: ""
-
-subtitle: "Une lecture légère avec Imbattable de Pascal Jousselin. Mes jumeaux avaient eu le tome 1 en cadeau il y a un an et on a acheté le 2 parce…"
+description: "Une lecture légère avec Imbattable de Pascal Jousselin. Mes jumeaux avaient eu le tome 1 en cadeau il y a un an et on a acheté le 2 parce…"
 
 featured_image: "/fr/books/imbattable-de-pascal-jousselin/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/imbattable-de-pascal-jousselin/images/1.jpeg"
+ - "/fr/books/imbattable-de-pascal-jousselin/images/2.jpeg"
 
 
 ---

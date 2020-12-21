@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:17:47+02:00
 draft: true
-description: ""
-
-subtitle: "Avec cette série de BD nous allons faire un tour en Côté d’Ivoire dont nous découvrons la culture"
+description: "Avec cette série de BD nous allons faire un tour en Côté d’Ivoire dont nous découvrons la culture"
 
 featured_image: "/fr/books/aya-de-yopougon-de-marguerite-abouet-et-clément-oubrerie/images/1.jpeg" 
 images:

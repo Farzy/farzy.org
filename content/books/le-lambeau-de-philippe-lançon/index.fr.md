@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:23+02:00
 draft: true
-description: ""
-
-subtitle: "Un livre autobiographique pour continuer, dans un style très différent, plus sombre mais d’une écriture remarquable. Une fois que je l’ai…"
+description: "Un livre autobiographique pour continuer, dans un style très différent, plus sombre mais d’une écriture remarquable. Une fois que je l’ai…"
 
 featured_image: "/fr/books/le-lambeau-de-philippe-lançon/images/1.jpeg" 
 images:

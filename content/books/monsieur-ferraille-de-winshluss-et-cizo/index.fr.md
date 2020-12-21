@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:26+02:00
 draft: true
-description: ""
-
-subtitle: "Dernière critique BD de la semaine : Monsieur Ferraille de Winshluss et Cizo chez Requins Marteaux. Contrairement à ce que la couverture…"
+description: "Dernière critique BD de la semaine : Monsieur Ferraille de Winshluss et Cizo chez Requins Marteaux. Contrairement à ce que la couverture…"
 
 featured_image: "/fr/books/monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg" 
 images:

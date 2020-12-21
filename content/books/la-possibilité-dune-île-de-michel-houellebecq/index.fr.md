@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-11T16:22:46.224Z
 lastmod: 2020-05-21T00:14:32+02:00
 
-description: ""
-
-subtitle: "J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houellebecq…"
+description: "J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houellebecq…"
 tags:
  - Livre
  - Critique

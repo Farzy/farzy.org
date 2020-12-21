@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-12-08T18:32:42.968Z
 lastmod: 2020-05-21T00:15:28+02:00
 
-description: ""
-
-subtitle: "J’ai lu hier “Happy Sex” de Zep 🍆"
+description: "J’ai lu hier “Happy Sex” de Zep 🍆"
 tags:
  - Bande Dessinée
  - Critique
@@ -15,8 +13,8 @@ tags:
 
 featured_image: "/fr/books/happy-sex-de-zep/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/happy-sex-de-zep/images/1.jpeg"
+ - "/fr/books/happy-sex-de-zep/images/2.jpeg"
 ---
 
 J’ai lu hier “**Happy Sex**” de Zep 🍆

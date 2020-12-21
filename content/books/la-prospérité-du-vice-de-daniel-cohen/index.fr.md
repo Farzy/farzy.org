@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-23T12:34:00.043Z
 lastmod: 2020-05-21T00:15:23+02:00
 
-description: ""
-
-subtitle: "Un peu plus de sérieux avec ce livre d’économie. Il date de 2007 et est toujours d’actualité."
+description: "Un peu plus de sérieux avec ce livre d’économie. Il date de 2007 et est toujours d’actualité."
 tags:
  - Livre
  - Critique

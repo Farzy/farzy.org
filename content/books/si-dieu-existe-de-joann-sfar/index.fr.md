@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-03-09T20:28:27.129Z
 lastmod: 2020-05-21T00:17:15+02:00
 
-description: ""
-
-subtitle: "Après le joyeux «Greffier» de Joann Sfar, j’ai lu le plus sombre «Si dieu existe», carnet écrit cette fois après plusieurs événements…"
+description: "Après le joyeux «Greffier» de Joann Sfar, j’ai lu le plus sombre «Si dieu existe», carnet écrit cette fois après plusieurs événements…"
 tags:
  - Bande Dessinée
  - Critique

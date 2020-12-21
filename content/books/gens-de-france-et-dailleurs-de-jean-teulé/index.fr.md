@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:08+02:00
 draft: true
-description: ""
-
-subtitle: "Une lecture mes lectures BD récente est un livre inclassable, «Gens de France et d’ailleurs» de Jean Teulé. C’est la réédition de…"
+description: "Une lecture mes lectures BD récente est un livre inclassable, «Gens de France et d’ailleurs» de Jean Teulé. C’est la réédition de…"
 
 featured_image: "/fr/books/gens-de-france-et-dailleurs-de-jean-teulé/images/1.jpeg" 
 images:

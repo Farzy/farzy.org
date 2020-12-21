@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:17:42+02:00
 draft: true
-description: ""
-
-subtitle: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques «Ego comme X» liquidé…"
+description: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques «Ego comme X» liquidé…"
 
 featured_image: "/fr/books/aeiou-de-jeffrey-brown/images/1.jpeg" 
 images:

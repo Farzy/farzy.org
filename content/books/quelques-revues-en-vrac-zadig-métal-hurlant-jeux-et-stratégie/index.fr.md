@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:46+02:00
 draft: true
-description: ""
-
-subtitle: "J’ai encore craqué, cette fois j’ai acheté l’intégralité des 30 premiers numéros de Jeux et Stratégie 😏"
+description: "J’ai encore craqué, cette fois j’ai acheté l’intégralité des 30 premiers numéros de Jeux et Stratégie 😏"
 
 featured_image: "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg" 
 images:

@@ -15,14 +15,14 @@ tags:
 
 featured_image: "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
- - "images/6.jpeg"
- - "images/7.jpeg"
- - "images/8.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/1.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/2.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/3.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/4.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/5.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/6.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/7.jpeg"
+ - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/8.jpeg"
 ---
 
 Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi.

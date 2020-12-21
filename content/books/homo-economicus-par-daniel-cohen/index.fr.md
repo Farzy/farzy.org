@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-02-15T13:47:41.719Z
 lastmod: 2020-05-21T00:15:52+02:00
 
-description: ""
-
-subtitle: "Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de…"
+description: "Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de…"
 tags:
  - Livre
  - Critique
@@ -15,9 +13,9 @@ tags:
 
 featured_image: "/fr/books/homo-economicus-par-daniel-cohen/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
+ - "/fr/books/homo-economicus-par-daniel-cohen/images/1.jpeg"
+ - "/fr/books/homo-economicus-par-daniel-cohen/images/2.jpeg"
+ - "/fr/books/homo-economicus-par-daniel-cohen/images/3.jpeg"
 ---
 
 Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de l’économie et de l’humain rationnel…

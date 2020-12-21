@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-16T18:48:55.168Z
 lastmod: 2020-05-21T00:14:54+02:00
 
-description: ""
-
-subtitle: "Incursion dans BD et à la SF à la fois avec Métal Hurlant ! Pour ceux qui ne connaissent pas, Métal Hurlant, édité entre 1975 et 1987…"
+description: "Incursion dans BD et à la SF à la fois avec Métal Hurlant ! Pour ceux qui ne connaissent pas, Métal Hurlant, édité entre 1975 et 1987…"
 tags:
  - Revue
  - Critique

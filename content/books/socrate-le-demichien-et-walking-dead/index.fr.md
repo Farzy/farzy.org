@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:37+02:00
 draft: true
-description: ""
-
-subtitle: "J’ai enfin lu le 3ème tome de Socrate le demi-chien de Joann Sfar et Christophe Blain …"
+description: "J’ai enfin lu le 3ème tome de Socrate le demi-chien de Joann Sfar et Christophe Blain …"
 
 featured_image: "/fr/books/socrate-le-demichien-et-walking-dead/images/1.jpeg" 
 images:

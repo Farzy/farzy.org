@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:17:57+02:00
 draft: true
-description: ""
-
-subtitle: "J‘ai lu récemment une BD, Bolchoï Arena de Boulet et Aseyn. Cette fois c’est un peu particulier parce que c’était mon cadeau de Secret…"
+description: "J‘ai lu récemment une BD, Bolchoï Arena de Boulet et Aseyn. Cette fois c’est un peu particulier parce que c’était mon cadeau de Secret…"
 
 featured_image: "/fr/books/bolchoï-arena-de-boulet-et-aseyn/images/1.jpeg" 
 images:

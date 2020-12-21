@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:24+02:00
 draft: true
-description: ""
-
-subtitle: "Lecture plus sombre avec Le journal d’un ingénu d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de «reboots» de…"
+description: "Lecture plus sombre avec Le journal d’un ingénu d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de «reboots» de…"
 
 featured_image: "/fr/books/le-journal-dun-ingénu-démile-bravo/images/1.jpeg" 
 images:

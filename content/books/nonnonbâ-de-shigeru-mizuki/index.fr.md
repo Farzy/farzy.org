@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:18:31+02:00
 draft: true
-description: ""
-
-subtitle: "Hello, voici ma lecture BD de la semaine de vacances, NonNonBâ de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et…"
+description: "Hello, voici ma lecture BD de la semaine de vacances, NonNonBâ de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et…"
 
 featured_image: "/fr/books/nonnonbâ-de-shigeru-mizuki/images/1.jpeg" 
 images:

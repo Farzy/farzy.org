@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-03-11T17:16:57.612Z
 lastmod: 2020-05-21T00:17:16+02:00
 
-description: ""
-
-subtitle: "Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très très peu, mais comme il y a quelques mois notre libraire BD de…"
+description: "Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très très peu, mais comme il y a quelques mois notre libraire BD de…"
 tags:
  - Bande Dessinée
  - Critique

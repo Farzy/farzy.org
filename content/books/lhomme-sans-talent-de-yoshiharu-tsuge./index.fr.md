@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-02-09T17:57:49.778Z
 lastmod: 2020-05-21T00:15:49+02:00
 
-description: ""
-
-subtitle: "L’auteur japonais Yoshiharu Tsuge a reçu cette année un Fauve d’honneur au Festival d’Angoulême pour l’ensemble de sa carrière !"
+description: "L’auteur japonais Yoshiharu Tsuge a reçu cette année un Fauve d’honneur au Festival d’Angoulême pour l’ensemble de sa carrière !"
 tags:
  - Bande Dessinée
  - Critique

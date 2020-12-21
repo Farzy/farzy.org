@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-14T20:05:59.193Z
 lastmod: 2020-05-21T00:14:48+02:00
 
-description: ""
-
-subtitle: "J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur le Prince qui permet de mieux comprendre l’ouvrage et la pensée…"
+description: "J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur le Prince qui permet de mieux comprendre l’ouvrage et la pensée…"
 tags:
  - Livre
  - Critique

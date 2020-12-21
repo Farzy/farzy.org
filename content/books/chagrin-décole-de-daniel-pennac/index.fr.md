@@ -4,9 +4,7 @@ author: ""
 date: 
 lastmod: 2020-05-21T00:17:59+02:00
 draft: true
-description: ""
-
-subtitle: "Autre lecture d’été (un autre été…) : «Chagrin d’école» de Daniel Pennac."
+description: "Autre lecture d’été (un autre été…) : «Chagrin d’école» de Daniel Pennac."
 
 featured_image: "/fr/books/chagrin-décole-de-daniel-pennac/images/1.jpeg" 
 images:

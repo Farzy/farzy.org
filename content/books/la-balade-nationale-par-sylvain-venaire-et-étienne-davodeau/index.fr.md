@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-18T23:24:38.479Z
 lastmod: 2020-05-21T00:14:57+02:00
 
-description: ""
-
-subtitle: "J’ai lu la première BD historique éditée par la Revue Dessinée : “La ballade nationale / Les origines”, co-écrite pas un historien et le…"
+description: "J’ai lu la première BD historique éditée par la Revue Dessinée : “La ballade nationale / Les origines”, co-écrite pas un historien et le…"
 tags:
  - Bande Dessinée
  - Book Review

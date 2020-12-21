@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2019-11-11T14:02:55.890Z
 lastmod: 2020-12-21T14:37:13+00:00
 
-description: ""
-
-subtitle: "Je vais parler ici de lectures que j’aime, revues, livres, bandes dessinées…, présenter mes coups de cœur et, peut-être, donner envie à…"
+description: "Une revue, des dossiers, mais en bande dessinée !"
 tags:
  - Revue
  - Bande Dessinée

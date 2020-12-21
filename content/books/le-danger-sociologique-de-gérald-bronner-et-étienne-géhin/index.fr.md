@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-03-07T17:03:28.744Z
 lastmod: 2020-05-21T00:16:49+02:00
 
-description: ""
-
-subtitle: "J’ai lu «Le danger sociologique» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu…"
+description: "J’ai lu «Le danger sociologique» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu…"
 tags:
  - Livre
  - Critique

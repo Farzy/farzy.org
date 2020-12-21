@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-02-15T17:10:55.607Z
 lastmod: 2020-05-21T00:15:59+02:00
 
-description: ""
-
-subtitle: "Début 2019 je n’avais plus lu de BD depuis longtemps, je m’y suis remis intensivement pendant les congés de l’été dernier et je rattrape…"
+description: "Début 2019 je n’avais plus lu de BD depuis longtemps, je m’y suis remis intensivement pendant les congés de l’été dernier et je rattrape…"
 tags:
  - Bande Dessinée
  - Critique

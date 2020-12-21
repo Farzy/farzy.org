@@ -4,9 +4,7 @@ author: "Farzad FARID"
 date: 2020-02-17T22:13:19.183Z
 lastmod: 2020-05-21T00:16:01+02:00
 
-description: ""
-
-subtitle: "Ce qu’il y a de bien quand on est accro à la BD et que la PÀL (la Pile à lire) ne se tarit jamais, c’est qu’on peut toujours occuper un…"
+description: "Ce qu’il y a de bien quand on est accro à la BD et que la PÀL (la Pile à lire) ne se tarit jamais, c’est qu’on peut toujours occuper un…"
 tags:
  - Bande Dessinée
  - Critique
@@ -15,12 +13,12 @@ tags:
 
 featured_image: "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
- - "images/6.jpeg"
+ - "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/1.jpeg"
+ - "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/2.jpeg"
+ - "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/3.jpeg"
+ - "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/4.jpeg"
+ - "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/5.jpeg"
+ - "/fr/books/il-faut-flinguer-ramirez-de-nicolas-petrimaux/images/6.jpeg"
 ---
 
 Ce
