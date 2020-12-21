@@ -12,8 +12,8 @@ tags:
 - Bookworm
 featured_image: "/fr/books/rip-revue-dessinee/images/1.jpeg"
 images:
-- "images/1.jpeg"
-- "images/2.jpeg"
+- "/fr/books/rip-revue-dessinee/images/1.jpeg"
+- "/fr/books/rip-revue-dessinee/images/2.jpeg"
 
 ---
 
