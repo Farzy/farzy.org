@@ -2,7 +2,7 @@
 title: "La Revue Dessinée, ou s’informer autrement"
 author: "Farzad FARID"
 date: 2019-11-11T14:02:55.890Z
-lastmod: 2020-05-21T00:14:37+02:00
+lastmod: 2020-12-21T14:37:13+00:00
 
 description: ""
 
@@ -20,13 +20,14 @@ images:
  - "images/4.jpeg"
 ---
 
+> **Note du 21/12/2020** : la revue ayant beaucoup changé, en mal, j'ai totalement [révisé
+> mon opinion]({{<ref "/books/rip-revue-dessinee">}})…
+
+
 [**La Revue Dessinée**](https://www.larevuedessinee.fr/) : Ce n&#39;est pas qu&#39;une bande dessinée, c&#39;est avant tout une revue avec des dossiers, des enquêtes, surtout pas de l&#39;instantané ou de l&#39;anecdotique qui périme vite. Cette revue est similaire à la revue **XXI** mais entièrement en BD. Je la recommande à ceux qui aiment à la fois la BD et l&#39;actualité.
 
 
-
-
 ![image](images/1.jpeg#layoutTextWidth)
-
 
 
 Je suis abonné dès le premier numéro et je les lis aujourd’hui assidûment met avec grand plaisir à chaque foi, même si je ne suis pas toujours d’accord avec les histoires et ou les conclusions. Mais où serait l’esprit critique si on ne lisait que des articles avec lesquels on est déjà d’accord ?
