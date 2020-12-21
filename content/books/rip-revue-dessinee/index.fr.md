@@ -2,7 +2,7 @@
 title: "Petit coup de gueule contre La Revue Dessinée"
 date: 2020-12-21T14:37:13+00:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "La déchéance d'une très belle revue dans l'idéologie et le « gauchisme » primaire"
 tags:
