@@ -5,7 +5,7 @@ date: 2020-03-11T17:16:57.612Z
 lastmod: 2020-05-21T00:17:16+02:00
 draft: false
 
-description: ""
+description: "I'm not a big reader of American Comics, I really have very few of them, but as a few months ago our comics bookseller…"
 
 tags:
  - Bande Dessinée
@@ -22,7 +22,7 @@ images:
  - "/en/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg"
 ---
 
-I'm not a big reader of American Comics, I really have very very few, but since a few months ago our local comic bookstore ([**BD Geek in Antony**](https://www.facebook.com/librairieBDGEEK/), I highly recommend it) was celebrating Batman's 80th birthday by offering a comic for the purchase of 2 Batman comics, I went there with my daughter, and we each chose one book. My choice was this "reboot" of the genesis of Batman by Frank Miller.
+I'm not a big reader of American Comics, I really have very few of them, but since a few months ago our local comic bookstore ([**BD Geek in Antony**](https://www.facebook.com/librairieBDGEEK/), I highly recommend it) was celebrating Batman's 80th birthday by offering a comic for the purchase of 2 Batman comics, I went there with my daughter, and we each chose one book. My choice was this "reboot" of the genesis of Batman by Frank Miller.
 
 ![image](images/1.jpeg#layoutTextWidth)
 
