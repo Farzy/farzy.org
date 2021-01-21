@@ -3,6 +3,7 @@ title: "«Batman: Year One» by Frank Miller and David Mazzucchelli"
 author: "Farzad FARID"
 date: 2020-03-11T17:16:57.612Z
 lastmod: 2020-05-21T00:17:16+02:00
+draft: false
 
 description: ""
 
