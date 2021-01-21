@@ -5,7 +5,7 @@ date: 2020-03-11T17:16:57.612Z
 lastmod: 2020-05-21T00:17:16+02:00
 draft: false
 
-description: "I'm not a big reader of American Comics, I really have very few of them, but as a few months ago our comics bookseller…"
+description: "I'm not a big reader of American Comics, I really have very few of them, but since a few months ago our local comic bookstore…"
 
 tags:
  - Bande Dessinée
