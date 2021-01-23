@@ -3,6 +3,7 @@ title: "«Tu n’as rien à craindre de moi» de Joann Sfar"
 author: "Farzad FARID"
 date: 2020-01-25T16:29:12.186Z
 lastmod: 2020-05-21T00:15:35+02:00
+draft: false
 
 description: "Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joann Sfar."
 tags:
@@ -12,7 +13,7 @@ tags:
 
 featured_image: "/fr/books/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/tu-nas-rien-à-craindre-de-moi-de-joann-sfar/images/1.jpeg"
 ---
 
 Lecture d’il y a un an environ : «Tu n’as rien à craindre de moi» de Joann Sfar.

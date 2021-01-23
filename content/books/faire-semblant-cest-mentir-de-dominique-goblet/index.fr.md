@@ -1,6 +1,6 @@
 ---
 title: "«Faire semblant c’est mentir» de Dominique Goblet"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:05+02:00
 draft: true

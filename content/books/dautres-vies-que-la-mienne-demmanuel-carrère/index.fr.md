@@ -1,6 +1,6 @@
 ---
 title: "“D’autres vies que la mienne” d’Emmanuel Carrère"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:01+02:00
 draft: true

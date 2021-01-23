@@ -3,6 +3,7 @@ title: "Achats du week-end"
 author: "Farzad FARID"
 date: 2019-11-17T20:25:20.448Z
 lastmod: 2020-05-21T00:14:56+02:00
+draft: false
 
 description: "‪Achat plaisir du week-end : le tome 2 (Myth too) de «50 nuances de grecs» de Jul et Charles Pépin et suite de mon achat des mythiques…"
 tags:

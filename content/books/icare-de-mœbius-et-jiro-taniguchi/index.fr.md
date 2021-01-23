@@ -3,6 +3,7 @@ title: "«Icare» de Mœbius et Jiro Taniguchi"
 author: "Farzad FARID"
 date: 2020-03-21T14:41:44.282Z
 lastmod: 2020-05-21T00:17:27+02:00
+draft: false
 
 description: "Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi."
 

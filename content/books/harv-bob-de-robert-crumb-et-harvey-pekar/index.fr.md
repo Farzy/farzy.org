@@ -1,6 +1,6 @@
 ---
 title: "«Harv & Bob» de Robert Crumb et Harvey Pekar"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:19+02:00
 draft: true

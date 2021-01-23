@@ -1,6 +1,6 @@
 ---
 title: "Corto Maltese de Hugo Pratt, «La ballade de la mer salée»"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:38+02:00
 draft: true

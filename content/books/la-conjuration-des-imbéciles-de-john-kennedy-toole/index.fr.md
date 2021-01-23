@@ -3,6 +3,7 @@ title: "«La conjuration des imbéciles» de John Kennedy Toole"
 author: "Farzad FARID"
 date: 2019-11-18T22:05:18.359Z
 lastmod: 2020-05-21T00:15:02+02:00
+draft: false
 
 description: "Voici un livre avec une drôle d’histoire, en plus d’être lui-même une histoire très drôle."
 tags:
@@ -13,9 +14,9 @@ tags:
 
 featured_image: "/fr/books/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
+ - "/fr/books/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/1.jpeg"
+ - "/fr/books/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/2.jpeg"
+ - "/fr/books/la-conjuration-des-imbéciles-de-john-kennedy-toole/images/3.jpeg"
 ---
 
 ![image](images/1.jpeg#layoutTextWidth)

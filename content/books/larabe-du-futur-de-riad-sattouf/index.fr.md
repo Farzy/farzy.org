@@ -3,6 +3,7 @@ title: "«L’arabe du futur» de Riad Sattouf"
 author: "Farzad FARID"
 date: 2019-11-16T18:31:23.952Z
 lastmod: 2020-05-21T00:14:51+02:00
+draft: false
 
 description: "J’ai enfin lu l’année dernière le tome 1 de L’arabe du futur de Riad Sattouf, histoire de sa jeunesse en Libye et Syrie."
 tags:
@@ -12,7 +13,7 @@ tags:
 
 featured_image: "/fr/books/larabe-du-futur-de-riad-sattouf/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/larabe-du-futur-de-riad-sattouf/images/1.jpeg"
 ---
 
 J’ai _enfin_ lu l’année dernière le tome 1 de L’arabe du futur de Riad Sattouf, histoire de sa jeunesse en Libye et Syrie.

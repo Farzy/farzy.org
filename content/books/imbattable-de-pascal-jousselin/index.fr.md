@@ -1,6 +1,6 @@
 ---
 title: "«Imbattable» de Pascal Jousselin"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:22+02:00
 draft: true

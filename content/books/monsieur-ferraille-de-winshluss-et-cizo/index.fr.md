@@ -1,6 +1,6 @@
 ---
 title: "«Monsieur Ferraille» de Winshluss et Cizo"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:26+02:00
 draft: true
@@ -8,8 +8,8 @@ description: "Dernière critique BD de la semaine : Monsieur Ferraille de Winshl
 
 featured_image: "/fr/books/monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/monsieur-ferraille-de-winshluss-et-cizo/images/1.jpeg"
+ - "/fr/books/monsieur-ferraille-de-winshluss-et-cizo/images/2.jpeg"
 
 
 ---

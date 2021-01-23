@@ -3,6 +3,7 @@ title: "«La prospérité du vice» de Daniel Cohen"
 author: "Farzad FARID"
 date: 2019-11-23T12:34:00.043Z
 lastmod: 2020-05-21T00:15:23+02:00
+draft: false
 
 description: "Un peu plus de sérieux avec ce livre d’économie. Il date de 2007 et est toujours d’actualité."
 tags:
@@ -13,7 +14,7 @@ tags:
 
 featured_image: "/fr/books/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/la-prospérité-du-vice-de-daniel-cohen/images/1.jpeg"
 ---
 
 Un peu plus de sérieux avec ce livre d’économie. Il date de 2007 et est toujours d’actualité.

@@ -3,6 +3,7 @@ title: "«La Possibilité d’une île» de Michel Houellebecq"
 author: "Farzad FARID"
 date: 2019-11-11T16:22:46.224Z
 lastmod: 2020-05-21T00:14:32+02:00
+draft: false
 
 description: "J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houellebecq…"
 tags:
@@ -12,7 +13,7 @@ tags:
 
 featured_image: "/fr/books/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/la-possibilité-dune-île-de-michel-houellebecq/images/1.jpeg"
 ---
 
 J’ai lu il y a quelques temps «La possibilité d’une île» de Michel Houellebecq ([https://fr.wikipedia.org/wiki/La_Possibilit%C3%A9_d%27une_%C3%AEle](https://fr.wikipedia.org/wiki/La_Possibilit%C3%A9_d%27une_%C3%AEle)).

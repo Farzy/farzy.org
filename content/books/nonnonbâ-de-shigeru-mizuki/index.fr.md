@@ -1,6 +1,6 @@
 ---
 title: "«NonNonBâ» de Shigeru Mizuki"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:31+02:00
 draft: true
@@ -8,8 +8,8 @@ description: "Hello, voici ma lecture BD de la semaine de vacances, NonNonBâ de
 
 featured_image: "/fr/books/nonnonbâ-de-shigeru-mizuki/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/nonnonbâ-de-shigeru-mizuki/images/1.jpeg"
+ - "/fr/books/nonnonbâ-de-shigeru-mizuki/images/2.jpeg"
 
 
 ---

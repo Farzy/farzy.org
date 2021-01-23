@@ -1,6 +1,6 @@
 ---
 title: "“AEIOU” de Jeffrey Brown"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:17:42+02:00
 draft: true

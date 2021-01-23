@@ -3,6 +3,7 @@ title: "«Homo Economicus» par Daniel Cohen"
 author: "Farzad FARID"
 date: 2020-02-15T13:47:41.719Z
 lastmod: 2020-05-21T00:15:52+02:00
+draft: false
 
 description: "Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de…"
 tags:

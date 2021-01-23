@@ -3,6 +3,7 @@ title: "“Le danger sociologique” de Gérald Bronner et Étienne Géhin"
 author: "Farzad FARID"
 date: 2020-03-07T17:03:28.744Z
 lastmod: 2020-05-21T00:16:49+02:00
+draft: false
 
 description: "J’ai lu «Le danger sociologique» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu…"
 tags:
@@ -14,7 +15,7 @@ tags:
 
 featured_image: "/fr/books/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg"
 ---
 
 J’ai lu «**Le danger sociologique**» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu et réputé, il écrit régulièrement des articles de très bonne qualité, notamment dans Sciences &amp; Pseudo-sciences, ou plus récemment dans Marianne.

@@ -1,6 +1,6 @@
 ---
 title: "D’autres lectures de BD en vrac (Boulet, Bilal, Sattouf, Jul)"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:41+02:00
 draft: true

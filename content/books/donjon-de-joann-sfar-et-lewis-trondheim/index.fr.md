@@ -3,6 +3,7 @@ title: "«Donjon» de Joann Sfar et Lewis Trondheim, la meilleure série BD humo
 author: "Farzad FARID"
 date: 2020-01-25T17:32:26.263Z
 lastmod: 2020-05-21T00:15:33+02:00
+draft: false
 
 description: "Toujours de Joann Sfar, en duo avec Lewis Trondheim, j’ai relu l’intégralité des 6 Donjon Zénith et les 4 premiers Donjon Crépuscule…"
 tags:

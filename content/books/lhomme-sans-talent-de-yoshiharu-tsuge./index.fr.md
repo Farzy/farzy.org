@@ -3,6 +3,7 @@ title: "«L’homme sans talent» de Yoshiharu Tsuge."
 author: "Farzad FARID"
 date: 2020-02-09T17:57:49.778Z
 lastmod: 2020-05-21T00:15:49+02:00
+draft: false
 
 description: "L’auteur japonais Yoshiharu Tsuge a reçu cette année un Fauve d’honneur au Festival d’Angoulême pour l’ensemble de sa carrière !"
 tags:
@@ -13,7 +14,7 @@ tags:
 
 featured_image: "/fr/books/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg"
 ---
 
 L’

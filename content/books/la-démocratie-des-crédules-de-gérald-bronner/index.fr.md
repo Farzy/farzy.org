@@ -1,6 +1,6 @@
 ---
 title: "«La démocratie des crédules» de Gérald Bronner"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:23+02:00
 draft: true
@@ -8,7 +8,7 @@ description: "Avec ce livre c’est un tout autre domaine que j’aborde, la soc
 
 featured_image: "/fr/books/la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/la-démocratie-des-crédules-de-gérald-bronner/images/1.jpeg"
 
 
 ---

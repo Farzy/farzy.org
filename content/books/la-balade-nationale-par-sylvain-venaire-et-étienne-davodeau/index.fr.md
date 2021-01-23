@@ -3,6 +3,7 @@ title: "“La balade nationale” par Sylvain Venaire et Étienne Davodeau"
 author: "Farzad FARID"
 date: 2019-11-18T23:24:38.479Z
 lastmod: 2020-05-21T00:14:57+02:00
+draft: false
 
 description: "J’ai lu la première BD historique éditée par la Revue Dessinée : “La ballade nationale / Les origines”, co-écrite pas un historien et le…"
 tags:
@@ -13,8 +14,8 @@ tags:
 
 featured_image: "/fr/books/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/1.jpeg"
+ - "/fr/books/la-balade-nationale-par-sylvain-venaire-et-étienne-davodeau/images/2.jpeg"
 ---
 
 J’ai lu la première BD historique éditée par la Revue Dessinée : “La ballade nationale / Les origines”, co-écrite par un historien et le dessinateur Étienne Davodeau.

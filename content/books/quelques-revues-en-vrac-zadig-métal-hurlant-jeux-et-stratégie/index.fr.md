@@ -1,6 +1,6 @@
 ---
 title: "Quelques revues en vrac (Zadig, Métal Hurlant, Jeux et Stratégie)"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:46+02:00
 draft: true
@@ -8,11 +8,11 @@ description: "J’ai encore craqué, cette fois j’ai acheté l’intégralité
 
 featured_image: "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
+ - "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg"
+ - "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/2.jpeg"
+ - "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/3.jpeg"
+ - "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/4.jpeg"
+ - "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/5.jpeg"
 
 
 ---

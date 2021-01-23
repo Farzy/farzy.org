@@ -3,6 +3,7 @@ title: "“Carbone modifié” de Richard Morgan"
 author: "Farzad FARID"
 date: 2019-11-23T00:26:23.099Z
 lastmod: 2020-05-21T00:15:17+02:00
+draft: false
 
 description: "J’ai lu il y a quelques temps ce livre de SF que j’ai bien aimé. Je l’avais acheté en 2004 je crois, au Salon du Livre, chez le jeune…"
 tags:

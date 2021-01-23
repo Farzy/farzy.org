@@ -3,6 +3,7 @@ title: "Métal Hurlant !"
 author: "Farzad FARID"
 date: 2019-11-16T18:48:55.168Z
 lastmod: 2020-05-21T00:14:54+02:00
+draft: false
 
 description: "Incursion dans BD et à la SF à la fois avec Métal Hurlant ! Pour ceux qui ne connaissent pas, Métal Hurlant, édité entre 1975 et 1987…"
 tags:
@@ -14,8 +15,8 @@ tags:
 
 featured_image: "/fr/books/métal-hurlant/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/métal-hurlant/images/1.jpeg"
+ - "/fr/books/métal-hurlant/images/2.jpeg"
 ---
 
 Incursion dans BD et à la SF à la fois avec **Métal Hurlant** ! Pour ceux qui ne connaissent pas, Métal Hurlant, édité entre 1975 et 1987, puis brièvement de 2002 à 2004, est **la** revue BD / SF de référence qui a révolutionné la BD contemporaine à une époque où la BD était plutôt destinée aux enfants, gentillette, familiale, polie, lisse (Tintin, Astérix, Tanguy et Laverdure…).

@@ -3,6 +3,7 @@ title: "Books"
 author: "Farzad FARID"
 date: 2019-11-11T15:18:22.914Z
 lastmod: 2020-05-21T00:14:36+02:00
+draft: false
 
 description: "Books, magazines, comics…"
 tags:

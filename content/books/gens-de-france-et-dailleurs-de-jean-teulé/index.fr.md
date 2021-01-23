@@ -1,6 +1,6 @@
 ---
 title: "«Gens de France et d’ailleurs» de Jean Teulé"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:08+02:00
 draft: true

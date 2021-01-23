@@ -3,6 +3,7 @@ title: "«Greffier» de Joann Sfar"
 author: "Farzad FARID"
 date: 2020-03-09T20:27:53.003Z
 lastmod: 2020-05-21T00:17:14+02:00
+draft: false
 
 description: "Encore une fois, j’ai mis plusieurs années avant de lire une BD alors que j’étais enthousiaste en l’achetant : Greffier de Joann Sfar…"
 tags:

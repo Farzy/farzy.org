@@ -1,6 +1,6 @@
 ---
 title: "«Le journal d’un ingénu» d’Émile Bravo"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:24+02:00
 draft: true
@@ -8,7 +8,7 @@ description: "Lecture plus sombre avec Le journal d’un ingénu d’Émile Brav
 
 featured_image: "/fr/books/le-journal-dun-ingénu-démile-bravo/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/le-journal-dun-ingénu-démile-bravo/images/1.jpeg"
 
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "«Socrate le demi-chien» et «Walking dead»"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:37+02:00
 draft: true
@@ -8,8 +8,8 @@ description: "J’ai enfin lu le 3ème tome de Socrate le demi-chien de Joann Sf
 
 featured_image: "/fr/books/socrate-le-demichien-et-walking-dead/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/socrate-le-demichien-et-walking-dead/images/1.jpeg"
+ - "/fr/books/socrate-le-demichien-et-walking-dead/images/2.jpeg"
 
 
 ---

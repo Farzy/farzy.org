@@ -1,6 +1,6 @@
 ---
 title: "«En route vers l’ouest» de Jim Harrison"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:04+02:00
 draft: true

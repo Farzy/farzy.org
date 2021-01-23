@@ -3,6 +3,7 @@ title: "«Tu mourras moins bête» de Marion Montaigne"
 author: "Farzad FARID"
 date: 2019-11-19T20:42:20.508Z
 lastmod: 2020-05-21T00:15:08+02:00
+draft: false
 
 description: "Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras… d’envie d’acheter cette BD et ses suites 😉"
 tags:
@@ -13,11 +14,11 @@ tags:
 
 featured_image: "/fr/books/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
+ - "/fr/books/tu-mourras-moins-bête-de-marion-montaigne/images/1.jpeg"
+ - "/fr/books/tu-mourras-moins-bête-de-marion-montaigne/images/2.jpeg"
+ - "/fr/books/tu-mourras-moins-bête-de-marion-montaigne/images/3.jpeg"
+ - "/fr/books/tu-mourras-moins-bête-de-marion-montaigne/images/4.jpeg"
+ - "/fr/books/tu-mourras-moins-bête-de-marion-montaigne/images/5.jpeg"
 ---
 
 Ami lecteur, après la lecture de mon commentaire, j’espère que tu mourras… d’envie d’acheter cette BD et ses suites 😉

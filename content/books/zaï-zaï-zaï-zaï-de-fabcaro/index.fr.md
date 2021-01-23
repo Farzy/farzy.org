@@ -3,6 +3,7 @@ title: "«Zaï Zaï Zaï Zaï» de Fabcaro"
 author: "Farzad FARID"
 date: 2020-02-15T17:10:55.607Z
 lastmod: 2020-05-21T00:15:59+02:00
+draft: false
 
 description: "Début 2019 je n’avais plus lu de BD depuis longtemps, je m’y suis remis intensivement pendant les congés de l’été dernier et je rattrape…"
 tags:
@@ -13,7 +14,7 @@ tags:
 
 featured_image: "/fr/books/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/zaï-zaï-zaï-zaï-de-fabcaro/images/1.jpeg"
 ---
 
 Début 2019 je n’avais plus lu de BD depuis longtemps, je m’y suis remis intensivement pendant les congés de l’été dernier et je rattrape un peu le retard de mes recommandations maintenant 😄

@@ -1,6 +1,6 @@
 ---
 title: "«Meursault contre-enquête» de Kamel Daoud"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:26+02:00
 draft: true
@@ -8,7 +8,7 @@ description: "J’ai lu «Meursault contre-enquête» de Kamel Daoud. L’auteur
 
 featured_image: "/fr/books/meursault-contreenquête-de-kamel-daoud/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/meursault-contreenquête-de-kamel-daoud/images/1.jpeg"
 
 
 ---

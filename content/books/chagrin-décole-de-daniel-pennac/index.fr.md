@@ -1,6 +1,6 @@
 ---
 title: "«Chagrin d’école» de Daniel Pennac"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:17:59+02:00
 draft: true

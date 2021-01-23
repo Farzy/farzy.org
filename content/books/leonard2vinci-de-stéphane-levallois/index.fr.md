@@ -3,6 +3,7 @@ title: "«Leonard2Vinci» de Stéphane Levallois"
 author: "Farzad FARID"
 date: 2020-03-08T22:55:15.419Z
 lastmod: 2020-05-21T00:16:51+02:00
+draft: false
 
 description: "Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD2VINCI» de Stéphane Levallois."
 tags:
@@ -13,17 +14,17 @@ tags:
 
 featured_image: "/fr/books/leonard2vinci-de-stéphane-levallois/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
- - "images/5.jpeg"
- - "images/6.jpeg"
- - "images/7.jpeg"
- - "images/8.jpeg"
- - "images/9.jpeg"
- - "images/10.jpeg"
- - "images/11.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/1.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/2.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/3.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/4.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/5.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/6.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/7.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/8.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/9.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/10.jpeg"
+ - "/fr/books/leonard2vinci-de-stéphane-levallois/images/11.jpeg"
 ---
 
 Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD**2**VINCI» de Stéphane Levallois.

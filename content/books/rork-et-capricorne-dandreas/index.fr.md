@@ -1,6 +1,6 @@
 ---
 title: "«Rork» et «Capricorne» d’Andreas"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:35+02:00
 draft: true
@@ -8,8 +8,8 @@ description: "J’ai relu l’intégralité de Rork d’Andreas (en dehors du To
 
 featured_image: "/fr/books/rork-et-capricorne-dandreas/images/1.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
+ - "/fr/books/rork-et-capricorne-dandreas/images/1.jpeg"
+ - "/fr/books/rork-et-capricorne-dandreas/images/2.jpeg"
 
 
 ---

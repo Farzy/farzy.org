@@ -3,6 +3,7 @@ title: "«Le Prince» de Machiavel"
 author: "Farzad FARID"
 date: 2019-11-14T20:05:59.193Z
 lastmod: 2020-05-21T00:14:48+02:00
+draft: false
 
 description: "J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur le Prince qui permet de mieux comprendre l’ouvrage et la pensée…"
 tags:
@@ -12,7 +13,7 @@ tags:
 
 featured_image: "/fr/books/le-prince-de-machiavel/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/le-prince-de-machiavel/images/1.jpeg"
 ---
 
 J’ai lu l’année dernière Le Prince de Machiavel, ainsi qu’une étude sur le Prince qui permet de mieux comprendre l’ouvrage et la pensée politique de l’auteur.

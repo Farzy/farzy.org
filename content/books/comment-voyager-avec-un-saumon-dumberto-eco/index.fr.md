@@ -3,6 +3,7 @@ title: "«Comment voyager avec un saumon» d’Umberto Eco"
 author: "Farzad FARID"
 date: 2019-11-23T12:17:13.386Z
 lastmod: 2020-05-21T00:15:20+02:00
+draft: false
 
 description: "Vous connaissez sans-doute déjà l’auteur italien Umberto Eco pour ses romans, «Le Nom de la Rose» ou «Le Pendule de Foucault». Eco est non…"
 tags:

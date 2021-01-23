@@ -3,6 +3,7 @@ title: "«Il faut flinguer Ramirez» de Nicolas Petrimaux"
 author: "Farzad FARID"
 date: 2020-02-17T22:13:19.183Z
 lastmod: 2020-05-21T00:16:01+02:00
+draft: false
 
 description: "Ce qu’il y a de bien quand on est accro à la BD et que la PÀL (la Pile à lire) ne se tarit jamais, c’est qu’on peut toujours occuper un…"
 tags:

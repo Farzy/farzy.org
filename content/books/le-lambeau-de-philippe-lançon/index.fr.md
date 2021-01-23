@@ -1,6 +1,6 @@
 ---
 title: "«Le Lambeau» de Philippe Lançon"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:23+02:00
 draft: true
@@ -8,7 +8,7 @@ description: "Un livre autobiographique pour continuer, dans un style très diff
 
 featured_image: "/fr/books/le-lambeau-de-philippe-lançon/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/le-lambeau-de-philippe-lançon/images/1.jpeg"
 
 
 ---

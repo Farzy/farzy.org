@@ -3,6 +3,7 @@ title: "La Revue Dessinée, ou s’informer autrement"
 author: "Farzad FARID"
 date: 2019-11-11T14:02:55.890Z
 lastmod: 2020-12-21T14:37:13+00:00
+draft: false
 
 description: "Une revue, des dossiers, mais en bande dessinée !"
 tags:
@@ -12,10 +13,10 @@ tags:
 
 featured_image: "/fr/books/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg" 
 images:
- - "images/1.jpeg"
- - "images/2.jpeg"
- - "images/3.jpeg"
- - "images/4.jpeg"
+ - "/fr/books/la-revue-dessinée-ou-sinformer-autrement/images/1.jpeg"
+ - "/fr/books/la-revue-dessinée-ou-sinformer-autrement/images/2.jpeg"
+ - "/fr/books/la-revue-dessinée-ou-sinformer-autrement/images/3.jpeg"
+ - "/fr/books/la-revue-dessinée-ou-sinformer-autrement/images/4.jpeg"
 ---
 
 > **Note du 21/12/2020** : la revue ayant beaucoup changé, en mal, j'ai totalement [révisé

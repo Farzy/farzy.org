@@ -1,6 +1,6 @@
 ---
 title: "«Le photographe» de Guibert, Lefèvre et Lemercier"
-author: ""
+author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:24+02:00
 draft: true
@@ -8,7 +8,7 @@ description: "J’ai fini le tome 3 du Photographe, l’histoire du photographe 
 
 featured_image: "/fr/books/le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg" 
 images:
- - "images/1.jpeg"
+ - "/fr/books/le-photographe-de-guibert-lefèvre-et-lemercier/images/1.jpeg"
 
 
 ---
