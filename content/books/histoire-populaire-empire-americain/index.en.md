@@ -1,9 +1,9 @@
 ---
 title: "“A People's History of American Empire“ by Howard Zin, Mike Konopacki and Paul Buhle"
-date: 2020-11-09T22:31:43+01:00
+date: 2020-12-28T22:31:43+01:00
 lastmod: 2021-01-31T17:00:00+01:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "The (very) dark side of the USA…"
 
@@ -20,7 +20,7 @@ images:
 
 ---
 
-I just finished it after 2 days of reading, it's a shock! :scream: It's a realist painting of the dark side of the USA, the one we hear little or nothing about for some of the stories gathered here.
+I finished this comic book after 2 days of reading it and it's a shock! :scream: It's a realistic painting of the dark side of the USA, the one we hear little or nothing about for some of the stories gathered here.
 
 ![image](images/1.jpeg#layoutTextWidth)
 

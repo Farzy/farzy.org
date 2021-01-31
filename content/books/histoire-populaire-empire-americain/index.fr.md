@@ -1,9 +1,9 @@
 ---
 title: "“Une Histoire Populaire de l'Empire Américain“ de Howard Zin, Mike Konopacki et Paul Buhle"
-date: 2020-11-09T22:31:43+01:00
+date: 2020-12-28T22:31:43+01:00
 lastmod: 2021-01-31T17:00:00+01:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "La face (très) sombre des USA…"
 
@@ -20,7 +20,7 @@ images:
 
 ---
 
-Je viens de le finir après 2 jours de lecture, c'est un choc ! :scream: C'est une peinture réaliste de la face sombre des USA, celle dont on entend peu parler, voire pas du tout pour certaines des histoires rassemblées ici.
+J'ai fini cette bande dessinée après 2 jours de lecture et c'est un choc ! :scream: C'est une peinture réaliste de la face sombre des USA, celle dont on entend peu parler, voire pas du tout pour certaines des histoires rassemblées ici.
 
 ![image](images/1.jpeg#layoutTextWidth)
 
