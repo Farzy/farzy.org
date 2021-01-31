@@ -1,6 +1,7 @@
 ---
 title: "“A People's History of American Empire“ by Howard Zin, Mike Konopacki and Paul Buhle"
 date: 2020-11-09T22:31:43+01:00
+lastmod: 2021-01-31T17:00:00+01:00
 author: "Farzad FARID"
 draft: true
 
@@ -19,7 +20,7 @@ images:
 
 ---
 
-I just finished it after 2 days of reading, it's a shock! :scream: It's a realist painting of the dark side of the USA, the one we don't hear much about, if at all for some of the stories.
+I just finished it after 2 days of reading, it's a shock! :scream: It's a realist painting of the dark side of the USA, the one we hear little or nothing about for some of the stories gathered here.
 
 ![image](images/1.jpeg#layoutTextWidth)
 
@@ -29,8 +30,9 @@ There are stories that I already knew, those about the dictatorships in South Am
 
 For example, characters that we see in a rather positive (Churchill, Theodore Roosevelt, Carter...) or just mixed (the banker J.P. Morgan, the Rockefeller family...) light appear here as monsters! Racists, liars, bloodthirsty, greedy, accomplices or sponsors of crimes.
 
-I think that's what I remember above all: not everything is all white or all black, we must not burn or hate the USA after reading this comic book or the book that served as a model, but we must stop idealizing them.
+Be careful however not to interpret this comics only in the context of
+emotion! I think that's what I will keep above all: not everything is all black and white, one must not hate the USA after reading this comic book (or the book that served as a model) but we have to stop idealizing this country.
 
-I think we must take a step back, not seek revenge, not do worse, not set off an opposite swing: a "benevolent" oppression, revolt or counter-attack would not cancel out the oppressions of the past, they would only lead us towards an even worse, even totalitarian system.
+I think we must take a step back, not seek revenge, not do worse, not trigger an opposite pendulum movement: oppression, revolt or a "benevolent" counter-attack do not cancel out the oppressions of the past, they would only lead us towards an even worse, even totalitarian system.
 
-Fortunately, the comic ends on a hopeful note. I also hope that the USA will be completely humanized one day, because I don't like totalitarian alternatives at all :sweat_smile:
+Fortunately, the comic ends on a hopeful note. Moreover, shortly after I read this book, Donald Trump was not re-elected at the end of 2020, all is not so bad in the USA :sweat_smile:
