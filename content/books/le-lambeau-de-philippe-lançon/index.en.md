@@ -4,7 +4,7 @@ author: "Farzad FARID"
 date: 2020-05-21T00:18:23+02:00
 lastmod: 2021-02-01T19:00:12+01:00
 draft: false
-description: "Voici un livre autobiographique, dans un style très différent de ce que je lis habituellement, plus sombre mais d’une écriture remarquable."
+description: "Here is an autobiographical book, in a style very different from what I usually read, darker but with a remarkable writing."
 
 featured_image: "/en/books/le-lambeau-de-philippe-lançon/images/1.jpeg" 
 images:
