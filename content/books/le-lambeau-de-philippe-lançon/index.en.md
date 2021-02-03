@@ -13,7 +13,7 @@ images:
 
 ---
 
-Here is an autobiographical book, in a style very different from what I usually read, darker but with a remarkable writing. Once I started it I hardly let go of it. It is " **Le flabeau** " by Philippe Lançon. Lançon is a journalist at Libération and a columnist for Charlie Hebdo. He was in the newsroom on January 7, 2015 and is one of the rare survivors... He was shot twice in the hands or arms and especially one bullet in the face which tore off part of his face (jaw, lower lip...). Lançon wrote this book 3 years later, reconstructing his life from his memory, memories of his loved ones, emails, messages, everything that happened since the day before the attack.
+Here is an autobiographical book, in a style very different from what I usually read, darker but with a remarkable writing. Once I started it I hardly let go of it. It is " **Le Lambeau** " by Philippe Lançon. Lançon is a journalist at Libération and a columnist for Charlie Hebdo. He was in the newsroom on January 7, 2015 and is one of the rare survivors... He was shot twice in the hands or arms and especially one bullet in the face which tore off part of his face (jaw, lower lip...). Lançon wrote this book 3 years later, reconstructing his life from his memory, memories of his loved ones, emails, messages, everything that happened since the day before the attack.
 
 ![image](images/1.jpeg#layoutTextWidth)
 

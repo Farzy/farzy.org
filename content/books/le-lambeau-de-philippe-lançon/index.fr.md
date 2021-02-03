@@ -13,7 +13,7 @@ images:
 
 ---
 
-Voici un livre autobiographique, dans un style très différent de ce que je lis habituellement, plus sombre mais d’une écriture remarquable. Une fois que je l’ai commencé je ne l’ai quasiment plus lâché. C’est « **Le lambeau** » de Philippe Lançon. Lançon est journaliste à Libération et chroniqueur à Charlie Hebdo, il était dans la salle de rédaction le 7 janvier 2015 et c’est l’un des rares survivants… Il a reçu 2 balles dans les mains ou bras et surtout une balle dans le visage qui lui a arraché une partie du visage (mâchoire, lèvre inférieure…). Lançon a écrit ce livre 3 ans après, en reconstituant sa vie à partir de sa mémoire, des souvenirs de ses proches, des mails, des messages, tout ce qui s’est passé depuis la veille de l’attentat.
+Voici un livre autobiographique, dans un style très différent de ce que je lis habituellement, plus sombre mais d’une écriture remarquable. Une fois que je l’ai commencé je ne l’ai quasiment plus lâché. C’est « **Le Lambeau** » de Philippe Lançon. Lançon est journaliste à Libération et chroniqueur à Charlie Hebdo, il était dans la salle de rédaction le 7 janvier 2015 et c’est l’un des rares survivants… Il a reçu 2 balles dans les mains ou bras et surtout une balle dans le visage qui lui a arraché une partie du visage (mâchoire, lèvre inférieure…). Lançon a écrit ce livre 3 ans après, en reconstituant sa vie à partir de sa mémoire, des souvenirs de ses proches, des mails, des messages, tout ce qui s’est passé depuis la veille de l’attentat.
 
 
 
