@@ -13,9 +13,9 @@ tags:
 - Science Fiction
 - Bookworm
 
-featured_image: "/en/books/métal-hurlant-collection-complète/images/Métal%20Hurlant.jpeg"
+featured_image: "/en/books/métal-hurlant-collection-complète/images/Métal-Hurlant.jpeg"
 images:
-- /en/books/métal-hurlant-collection-complète/images/Métal%20Hurlant.jpeg
+- /en/books/métal-hurlant-collection-complète/images/Métal-Hurlant.jpeg
 ---
 
 I have finally realized a teenager's dream, whose origin goes back to the release of the Canadian film "Heavy Metal", produced by Ivan Reitman and released in 1981 😍. This animated film, which had strongly marked me at the time, made me discover the French magazine **Métal Hurlant**. I already talked a bit about this magazine in [another article]({{<ref "/books/métal-hurlant">}}).
