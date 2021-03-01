@@ -7,31 +7,30 @@ description: "Qui suis-je ? Pourquoi ce site ? Quelle publications ?"
 draft: false
 ---
 
-# About me :man:
+# Sur moi :man:
 
-My name is Farzad, I'm a seasoned DevOps and SRE Manager, Head of Platform
-at [Kapten](https://kapten.com). I'm an avid reader and bookworm :books: (fiction, comics, science-fiction, essays… and computer books of course :smile:).
+Je m'appelle Farzad, je suis un praticien expérimenté de la philosophie DevOps et SRE Manager, Head of SRE à [Qonto](https://qonto.com), ex-Head of Platform
+à [Kapten](https://kapten.com). Je suis aussi un grand lecteur :books: (fiction, bandes dessinées, science-fiction, essais... et livres d'informatique bien sûr :smile:).
 
-# About books :books:
+# Sur les livres :books:
 
-At work, we started sharing our readings and reviews on an internal Slack channel.
-I liked this idea so much that I cut & pasted my posts to a [Medium](https://medium.com/les-lectures-de-farzad) site
-and continued posting new content there.
+Chez Kapten, nous avons commencé à partager nos lectures et fiches de lecture sur un canal Slack interne.
+J'ai tellement aimé cette idée que j'ai copié et collé mes messages sur un site [Medium](https://medium.com/les-lectures-de-farzad)
+et ai continué à y poster de nouveaux contenus.
 
-# About this site :factory:
+# Sur ce site :factory:
 
-If Medium and Slack work fine, then why create yet another personal blog?
-Well, I'm not a *blogger* and will never pretend to be one…
- 
-But I'm a **geek**! I'm also an
-expert in creating and maintaining very large IT infrastructures. As such, I wanted to practice
-on my own all the tools and techniques that I learned at work to build this site using State-of-the-art knowledge.
+Si Medium et Slack fonctionnent bien, alors pourquoi créer encore un autre blog personnel ?
+Eh bien, je ne suis pas un *blogger* et ne prétendrai jamais en être un…
 
-The server and the whole surrounding (network, load balancer, DNS, security, TLS certificate…) are
-fully built using [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code).
-Everything is described using machine-readable definition files, store in a Git repository, can
-be reviewed, and is deployed using only a few commands.
+Mais je suis un **geek** ! Je suis aussi un
+expert dans la création et la maintenance de très grandes infrastructures informatiques. À ce titre, je voulais pratiquer par moi-même tous les outils et techniques que j'ai appris au travail pour construire ce site en utilisant l'état de l'art.
 
-Everything needed to build this site from A to Z is on GitHub:
-* [The Ansible / Terraform code for Google Cloud Platform](https://github.com/Farzy/self-config)
-* [The content, written using Hugo](https://github.com/Farzy/farzy.org)
+Le serveur et tout son environnement (réseau, load balancer, DNS, sécurité, certificat TLS...) sont
+entièrement construit en utilisant de l'[Infrastructure as Code] (https://en.wikipedia.org/wiki/Infrastructure_as_code).
+Tout est décrit à l'aide de fichiers de configuration, stockés dans un dépôt Git
+et est déployé en utilisant seulement quelques commandes.
+
+Tout ce qui est nécessaire pour construire ce site de A à Z se trouve sur GitHub :
+* [Le code Ansible / Terraform pour Google Cloud Platform](https://github.com/Farzy/self-config)
+* [Le contenu, écrit avec le moteur de blog Hugo](https://github.com/Farzy/farzy.org)

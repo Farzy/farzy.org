@@ -9,12 +9,12 @@ draft: false
 
 # About me :man:
 
-My name is Farzad, I'm a seasoned DevOps and SRE Manager, Head of Platform
-at [Kapten](https://kapten.com). I'm an avid reader and bookworm :books: (fiction, comics, science-fiction, essays… and computer books of course :smile:).
+My name is Farzad, I'm a seasoned DevOps and SRE Manager, Head of SRE at [Qonto](https://qonto.com), ex-Head of Platform
+at [Kapten](https://kapten.com). I'm also an avid reader and bookworm :books: (fiction, comics, science-fiction, essays… and computer books of course :smile:).
 
 # About books :books:
 
-At work, we started sharing our readings and reviews on an internal Slack channel.
+At Kapten, we started sharing our readings and reviews on an internal Slack channel.
 I liked this idea so much that I cut & pasted my posts to a [Medium](https://medium.com/les-lectures-de-farzad) site
 and continued posting new content there.
 
