@@ -18,7 +18,7 @@ images:
 
 ---
 
-Simonac ! Tu veux-tu améliorer ton vocabulaire québécois tout en lisant une histoire émouvantes ? Alors lis donc «[Paul à Québec](https://www.lapasteque.com/paul-a-quebec)».
+Simonac ! Tu veux-tu améliorer ton vocabulaire québécois tout en lisant une histoire émouvante ? Alors lis donc « [Paul à Québec](https://www.lapasteque.com/paul-a-quebec) ».
 
 ![image](images/Paul-à-Québec.jpeg#layoutFillWidth)
 
@@ -27,13 +27,13 @@ C'est d'ailleurs une amie québécoise qui me l'a offert. Une autre amie québé
 avoir lu toute la série !
 
 Le récit commence pour moi comme un manuel gentillet pour apprendre à parler québécois
-(je me retrouve même  à prendre l'accent québécois dans ma tête en lisant les expressions parfois
+(je me retrouve même à prendre l'accent québécois dans ma tête en lisant les expressions parfois
 incompréhensibles :slightly_smiling_face:), tout en découvrant la belle-famille du héros, sans
 vraiment d'histoire : la première partie est assez contemplative. 
 
 Puis, l'histoire bascule avec un évènement dramatique et devient très touchante jusqu'à la fin. 
 C'est un récit intimiste, au cœur d'une famille de la ville de Québec, on est d'abord dans le
-présent, une grand fête familiale, chez le beau-père du narrateur, dont on découvre petit à
+présent, une grande fête familiale, chez le beau-père du narrateur, dont on découvre petit à
 petit que c'est lui la figure centrale de l'histoire, qui était d'abord centrée sur le
 narrateur. Le narrateur lui-même, Paul, illustrateur, est inspiré de la vie de l'auteur de la
 série de BD. Ensuite, l'histoire se centre sur le beau-père et on plonge notamment dans son enfance,

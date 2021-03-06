@@ -18,11 +18,11 @@ images:
 
 ---
 
-:fr: Simonac ! Tu veux-tu améliorer ton vocabulaire québécois tout en lisant une histoire émouvantes ? Alors lis donc «[Paul à Québec](https://www.lapasteque.com/paul-a-quebec)».
+:fr: Simonac ! Tu veux-tu améliorer ton vocabulaire québécois tout en lisant une histoire émouvante ? Alors lis donc « [Paul à Québec](https://www.lapasteque.com/paul-a-quebec) ».
 
 ![image](images/Paul-à-Québec.jpeg#layoutFillWidth)
 
-**Note**: *I really don't know if this comics has been translated to English or even if it'd be as fun
+**Note**: *I really don't know if this comic book has been translated to English or even if it'd be as fun
 to read, because it's full of typically French Canadian expressions and slang.*
 
 This comic book is part of a series written by an award-winning author from the Québec province of Canada.
@@ -40,12 +40,12 @@ Now, a great family celebration, at the home of the narrator's father-in-law,
 who we discover little by little that he is the central figure of the story, 
 which was initially centered on the
 narrator. The narrator himself, Paul, an illustrator, is inspired by the life of the author of the
-comic book series. Then the story focuses on the father-in-law and we dive into his childhood,
+comic book series. Then the story focuses on the father-in-law, and we dive into his childhood,
 his emancipation, his active life, his personal and professional achievements.
 
-I won't say any more about the dramatic turning point in the story so as not to spoil anything, just know that
+I won't say any more about the dramatic turning point in the story so as not to spoil anything, just know
 that I couldn't let go of the comic once I got there and had to finish everything before I could
-to go to bed, satisfied but my throat a little tied up...
+to go to bed, satisfied, but my throat a little tied up...
 
-I am super happy that my friend from Quebec gave me this book and I think I will read all the others.
+I am super happy that my friend from Quebec gave me this book, and I think I will read all the others.
 I even discovered in passing that this comic book has given birth to a movie!
