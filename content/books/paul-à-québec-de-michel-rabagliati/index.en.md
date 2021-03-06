@@ -14,7 +14,7 @@ tags:
 
 featured_image: "en/books/paul-à-québec-de-michel-rabagliati/images/Paul-à-Québec bandeau.jpeg"
 images:
- - en/books/paul-à-québec-de-michel-rabagliati/images/Paul-à-Québec.jpeg
+ - en/books/paul-à-québec-de-michel-rabagliati/images/Paul-à-Québec bandeau.jpeg
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "«Paul à Québec» de Michel Rabagliati"
+title: "« Paul à Québec » de Michel Rabagliati"
 date: 2021-03-06T12:13:09+01:00
 lastmod: 2021-03-06T12:13:09+01:00
 author: "Farzad FARID"
@@ -14,7 +14,7 @@ tags:
 
 featured_image: "fr/books/paul-à-québec-de-michel-rabagliati/images/Paul-à-Québec bandeau.jpeg"
 images:
- - fr/books/paul-à-québec-de-michel-rabagliati/images/Paul-à-Québec.jpeg
+ - fr/books/paul-à-québec-de-michel-rabagliati/images/Paul-à-Québec bandeau.jpeg
 
 ---
 
