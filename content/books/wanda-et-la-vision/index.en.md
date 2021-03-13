@@ -33,8 +33,8 @@ it has a modern line, a smooth colorization, but the three following
 stories, but the three following
 from the 70's are as bad as possible: ugly drawing, dialogues with no sense
 (the rough French translation must make it worse), garish and slobbery colors, 
-naive
-psychology, non-existent settings, incoherence within a story (not to mention the global incoherence of the global incoherence of the universe)...
+naive psychology, non-existent settings, incoherence within a story (not to mention
+the global incoherence of the universe)...
 
 Moreover, as they are isolated episodes and not complete stories, there are a lot of 
 asterisks that refer to other comics that you have to have read in order to understand 
