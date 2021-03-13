@@ -31,7 +31,7 @@ Disappointing! So yes I laughed a lot, but in the second degree.
 Wanda and The Vision is very bad overall. It's okay for the first of the four stories, 
 it has a modern line, a smooth colorization, but the three following
 stories, but the three following
-from the 70's are as bad as possible: ugly drawing, dialogues with no sense (the
+from the 70's are as bad as possible: ugly drawing, dialogues with no sense
 (the rough French translation must make it worse), garish and slobbery colors, 
 naive
 psychology, non-existent settings, incoherence within a story (not to mention the global incoherence of the global incoherence of the universe)...
