@@ -1,9 +1,9 @@
 ---
-title: "Wanda and The Vision"
+title: "Wanda and The Vision: 4 stories edited by Panini in French"
 date: 2021-03-13T11:25:14+01:00
 lastmod: 2021-03-13T11:25:14+01:00
 author: "Farzad FARID"
-draft: flase
+draft: false
 
 description: "How do Americans read such lousy stories?"
 tags:

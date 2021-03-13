@@ -1,9 +1,9 @@
 ---
-title: "Wanda Et La Vision"
+title: "Wanda Et La Vision: 4 histoires courtes chez Panini"
 date: 2021-03-13T11:25:14+01:00
 lastmod: 2021-03-13T11:25:14+01:00
 author: "Farzad FARID"
-draft: flase
+draft: false
 
 description: "Mais comment les Américains font pour lire des histoires aussi nulles ?"
 tags:
