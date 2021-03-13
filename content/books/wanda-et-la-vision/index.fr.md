@@ -5,7 +5,7 @@ lastmod: 2021-03-13T11:25:14+01:00
 author: "Farzad FARID"
 draft: false
 
-description: "Mais comment les Américains font pour lire des histoires aussi nulles ?"
+description: "Mais comment les Américains font-ils pour lire des histoires aussi nulles ?"
 tags:
 - Bande Dessinée
 - Critique
