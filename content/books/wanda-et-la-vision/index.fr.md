@@ -17,6 +17,9 @@ tags:
 featured_image: "fr/books/wanda-et-la-vision/images/Wanda - La Vision bandeau.jpeg"
 images:
  - fr/books/wanda-et-la-vision/images/Wanda - La Vision.jpeg
+ - fr/books/wanda-et-la-vision/images/Wanda - La Vision 1.jpeg
+ - fr/books/wanda-et-la-vision/images/Wanda - La Vision 2.jpeg
+ - fr/books/wanda-et-la-vision/images/Wanda - La Vision 3.jpeg
 ---
 
 
@@ -30,11 +33,21 @@ Je me suis dit naïvement que ça me permettrait de mieux découvrir ce couple �
 Déception ! Alors oui j'ai bien rigolé, mais au second degré.
 
 Wanda et La Vision est très mauvais dans l'ensemble. Passe encore pour la première des quatre
-histoires, elle a un trait moderne, une colorisation sans bavure, mais les trois suivantes 
+histoires, elle a un trait moderne, une colorisation sans bavure…
+
+![image](images/Wanda%20-%20La%20Vision%201.jpeg#layoutFillWidth)
+
+
+… mais les trois suivantes 
 des années 70 sont mauvaises au possible : dessin moche, dialogues dans queue ni tête (la
 traduction approximative doit aggraver ça), couleurs criardes et baveuses, psychologie de
 comptoir, décors inexistants, incohérence au sein même d'une histoire (sans parler de
 l'incohérence globale de l'univers)…
+
+Les personnages connus sont tellement laids (Thor, Iron Man, Vision…) que j'ai du mal à
+reconnaître les super-héros du MCU que j'ai appréciés.
+
+![image](images/Wanda%20-%20La%20Vision%202.jpeg#layoutFillWidth)
 
 De plus, comme ils s'agit d'épisodes isolés et non d'histoires complètes, 
 il y a plein d'astérisques qui renvoient vers d'autres comics qu'il faut avoir lu 
@@ -42,6 +55,8 @@ pour espérer comprendre ce qui ce passe : "*Voir GSA 2*", "*Voir GSA 3*",
 "*Voir Dr Strange 7*", "*Voir Avenger 127*", "*Voir Defenders 1*"… Ça m'a toujours 
 donné l'impression qu'il faut avoir commencé la lecture dans les années 50 pour arriver
 à suivre 😂
+
+![image](images/Wanda%20-%20La%20Vision%203.jpeg#layoutFillWidth)
 
 J'ai souri en lisant les histoires mais c'est plus de dérision que par l'effet d'un 
 quelconque trait d'humour volontaire. Tout est écrit au premier degré, ou alors au 
