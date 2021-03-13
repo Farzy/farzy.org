@@ -12,6 +12,8 @@ tags:
  - Critique
  - Book Review
  - Bookworm
+ - Comics
+ - DC Comics
 
 featured_image: "/en/books/batman-un-long-halloween/images/1.jpeg" 
 images:

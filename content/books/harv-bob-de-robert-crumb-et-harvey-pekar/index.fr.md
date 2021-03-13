@@ -10,6 +10,13 @@ featured_image: "/fr/books/harv-bob-de-robert-crumb-et-harvey-pekar/images/1.jpe
 images:
  - "/fr/books/harv-bob-de-robert-crumb-et-harvey-pekar/images/1.jpeg"
 
+tags:
+- Bande Dessinée
+- Critique
+- Book Review
+- Bookworm
+- Comics
+
 
 ---
 

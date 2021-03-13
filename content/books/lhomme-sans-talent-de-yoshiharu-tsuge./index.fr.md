@@ -11,6 +11,7 @@ tags:
  - Critique
  - Book Review
  - Bookworm
+ - Manga
 
 featured_image: "/fr/books/lhomme-sans-talent-de-yoshiharu-tsuge./images/1.jpeg" 
 images:

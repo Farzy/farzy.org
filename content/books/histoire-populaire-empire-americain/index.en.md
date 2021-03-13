@@ -13,6 +13,7 @@ tags:
  - Critique
  - Book Review
  - Bookworm
+ - Comics
 
 featured_image: "/en/books/histoire-populaire-empire-americain/images/1.jpeg" 
 images:

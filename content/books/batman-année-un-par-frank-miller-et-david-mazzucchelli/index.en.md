@@ -12,6 +12,8 @@ tags:
  - Critique
  - Bookworm
  - Book Review
+ - Comics
+ - DC Comics
 
 featured_image: "/en/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/1.jpeg" 
 images:

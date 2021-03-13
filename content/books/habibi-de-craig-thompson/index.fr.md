@@ -11,6 +11,13 @@ images:
  - "/fr/books/habibi-de-craig-thompson/images/1.jpeg"
  - "/fr/books/habibi-de-craig-thompson/images/2.jpeg"
 
+tags:
+- Bande Dessinée
+- Critique
+- Book Review
+- Bookworm
+- Comics
+
 
 ---
 

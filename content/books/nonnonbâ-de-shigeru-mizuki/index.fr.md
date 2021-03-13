@@ -11,6 +11,12 @@ images:
  - "/fr/books/nonnonbâ-de-shigeru-mizuki/images/1.jpeg"
  - "/fr/books/nonnonbâ-de-shigeru-mizuki/images/2.jpeg"
 
+tags:
+- Bande Dessinée
+- Critique
+- Book Review
+- Bookworm
+- Manga
 
 ---
 

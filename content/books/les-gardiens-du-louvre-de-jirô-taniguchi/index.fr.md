@@ -11,6 +11,7 @@ tags:
  - Critique
  - Book Review
  - Bookworm
+ - Manga
 
 featured_image: "/fr/books/les-gardiens-du-louvre-de-jirô-taniguchi/images/1.jpeg" 
 images:
