@@ -13,9 +13,9 @@ tags:
 - Book Review
 
 
-featured_image: "fr/books/la-tour-uwe-tellkamp/images/La Tour - Uwe Tellkamp - bandeau.jpeg"
+featured_image: "fr/books/la-tour-uwe-tellkamp/images/Der Turm - Uwe Tellkamp - bandeau.jpeg"
 images:
-- fr/books/la-tour-uwe-tellkamp/images/La Tour - Uwe Tellkamp.jpeg
+- fr/books/la-tour-uwe-tellkamp/images/Der Turm - Uwe Tellkamp.jpeg
 ---
 
 Voici une lecture idéale en période de confinement ou de couvre-feu, un roman-fleuve de **960 pages** !
@@ -23,7 +23,7 @@ Mais en même temps qui a envie de se lancer spontanément dans la lecture d'un 
 auteur allemand, Uwe Tellkamp, chirurgien né en ex-RDA, qui raconte de façon romancée son enfance et la
 fin de la RDA ? A priori pas moi !
 
-![image](images/La%20Tour%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
+![image](images/Der%20Turm%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
 
 Les circonstances sont cependant particulières, c'est une amie et ex-collègue, allemande née à Dresde, 
 lieu où se déroule quasiment toute l'action du livre, qui me l'a offert :smiley: J'ai attendu
@@ -74,3 +74,5 @@ dernières années.
 C'est un très bon roman, je l'ai bien aimé même s'il est parfois difficile à lire, et je le
 recommande à ceux qui veulent découvrir un peu la vie dans l'ex-RDA. Il y a un [bon article du Monde](https://www.lemonde.fr/livres/article/2012/02/09/la-tour-d-uwe-tellkamp_1640783_3260.html) de 2012 qui décrit bien le 
 roman, pour ceux qui hésitent avant de se lancer dans la lecture de 960 pages.
+
+![image](images/La%20Tour%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
