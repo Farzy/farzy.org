@@ -2,7 +2,7 @@
 title: "Batman: A Long Halloween"
 date: 2020-11-09T23:17:03+01:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "How can it get any darker?"
 

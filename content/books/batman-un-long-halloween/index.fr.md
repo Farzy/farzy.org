@@ -2,7 +2,7 @@
 title: "Batman: Un Long Halloween"
 date: 2020-11-09T23:17:03+01:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "Peut-on faire encore plus sombre ?"
 
@@ -33,9 +33,6 @@ Un long Halloween est un livre très épais, 400 pages pour l'édition français
 
 L'intrigue est très dense, il y a beaucoup de surprises, et de nombreux méchants, les ennemis récurrents de Batman, apparaissent dans l'histoire, y compris les célèbres Catwoman et Joker. L'histoire raconte la lutte d'un trio (Batman le super-héros, James Gordon le flic honnête et Harvey Dent le procureur tenace) pour se débarrasser des 2 familles qui contrôlent Gotham City (la mafia de Maroni et Falcone) tout en résolvant une série de crimes mystérieux, tous commis des jours de fête (Halloween, Noël, la Saint-Valentin...).
 
-La recherche du criminel, nommé Holiday, sera très longue, pleine de meurtres, de rebondissements, de super-méchants et de déséspoir. 
+La recherche du criminel, nommé Holiday, sera très longue, pleine de meurtres, de rebondissements, de super-méchants et de désespoir. 
 
-Je n'entrerai pas dans les détails (et faites attention car les liens Wikipedia que j'ai partagés ci-dessus contiennent des spoilers !) mais j'ai vraiment aimé ce livre et je le recommande ! 
-
-*Traduit avec www.DeepL.com/Translator (version gratuite)*
- 
+Je n'entrerai pas dans les détails (et faites attention car les liens Wikipédia que j'ai partagés ci-dessus contiennent des spoilers !) mais j'ai vraiment aimé ce livre et je le recommande ! 
