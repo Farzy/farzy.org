@@ -48,7 +48,8 @@ I won't go into detail (and please be careful as the Wikipedia links I shared ab
 
 ![image](images/Batman%20-%20Amère%20victoire.jpeg#layoutTextWidth)
 
-Five months after this comic, I read its sequel in April 2021, “Dark Victory”. It is as dark and
+Five months after this comic, I read its sequel in April 2021, 
+“[Dark Victory](https://en.wikipedia.org/wiki/Batman:_Dark_Victory)”. It is as dark and
 breathtaking as the first one!
 
 Of course, the mechanics of the scenario is the same and this is the only reproach I would make to

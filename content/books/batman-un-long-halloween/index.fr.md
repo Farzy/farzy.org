@@ -47,8 +47,9 @@ Je n'entrerai pas dans les détails (et faites attention car les liens Wikipédi
 
 ![image](images/Batman%20-%20Amère%20victoire.jpeg#layoutTextWidth)
 
-Cinq mois après ce Comics, j'ai lu sa suite en avril 2021, “Amère Victoire”. Il est aussi sombre et
-haletant que le premier ! 
+Cinq mois après ce Comics, j'ai lu sa suite en avril 2021, 
+“[Amère Victoire](https://fr.wikipedia.org/wiki/Am%C3%A8re_Victoire_(Batman))”. 
+Il est aussi sombre et haletant que le premier ! 
 
 Alors certes, la mécanique du scénario est la même et c'est le seul
 reproche que je ferais à cette suite : le scénario nous cache certaines informations clés en ne
