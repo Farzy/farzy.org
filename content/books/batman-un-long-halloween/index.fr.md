@@ -1,6 +1,7 @@
 ---
-title: "Batman: Un Long Halloween"
+title: "Batman: “Un Long Halloween” et “Amère Victoire”"
 date: 2020-11-09T23:17:03+01:00
+lastmod: 2021-04-04T15:50:00+01:00
 author: "Farzad FARID"
 draft: false
 
@@ -18,8 +19,13 @@ tags:
 featured_image: "/fr/books/batman-un-long-halloween/images/1.jpeg" 
 images:
  - "/fr/books/batman-un-long-halloween/images/1.jpeg"
+ - "/fr/books/batman-un-long-halloween/images/Batman - Amère victoire.jpeg"
 
 ---
+
+*Mise à jour en avril 2021 avec “Amère Victoire”.*
+
+# Un Long Halloween
 
 ![image](images/1.jpeg#layoutTextWidth)
 
@@ -36,3 +42,25 @@ L'intrigue est très dense, il y a beaucoup de surprises, et de nombreux méchan
 La recherche du criminel, nommé Holiday, sera très longue, pleine de meurtres, de rebondissements, de super-méchants et de désespoir. 
 
 Je n'entrerai pas dans les détails (et faites attention car les liens Wikipédia que j'ai partagés ci-dessus contiennent des spoilers !) mais j'ai vraiment aimé ce livre et je le recommande ! 
+
+# Amère Victoire
+
+![image](images/Batman%20-%20Amère%20victoire.jpeg#layoutTextWidth)
+
+Cinq mois après ce Comics, j'ai lu sa suite en avril 2021, “Amère Victoire”. Il est aussi sombre et
+haletant que le premier ! 
+
+Alors certes, la mécanique du scénario est la même et c'est le seul
+reproche que je ferais à cette suite : le scénario nous cache certaines informations clés en ne
+dévoilant que des silhouettes ou des voix non identifiables de personnages qui restent dans l'ombre.
+Et ce n'est qu'à la fin du Comics que l'on se dit "ah oui je comprends maintenant !".
+
+À part cette répétition scénaristique, ce volume est excellent et le personnage de Batman
+toujours aussi ambigu. Comme le dit le titre, la victoire du "Bien" reste toujours amère.
+
+C'est dans ce volume que les auteurs font apparaître le premier **Robin**, alias Dick Grayson.
+Comme dans tous les DC Comics récents, je trouve que la réinvention est toujours très bonne,
+la genèse de ces personnages est moins caricaturale que dans les Comics historiques.
+
+Je recommande aussi chaudement ce deuxième volume, mais ne le lisez pas si vous êtes
+d'humeur sombre !

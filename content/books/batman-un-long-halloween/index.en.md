@@ -1,6 +1,7 @@
 ---
-title: "Batman: A Long Halloween"
+title: "Batman: “A Long Halloween” & “Dark Victory”"
 date: 2020-11-09T23:17:03+01:00
+lastmod: 2021-04-04T15:50:00+01:00
 author: "Farzad FARID"
 draft: false
 
@@ -18,8 +19,13 @@ tags:
 featured_image: "/en/books/batman-un-long-halloween/images/1.jpeg" 
 images:
  - "/en/books/batman-un-long-halloween/images/1.jpeg"
+ - "/en/books/batman-un-long-halloween/images/Batman - Amère victoire.jpeg"
 
 ---
+
+*Updated in April 2021 with “Dark Victory”.*
+
+# A Long Halloween
 
 ![image](images/1.jpeg#layoutTextWidth)
 
@@ -33,6 +39,28 @@ A long Halloween is a very thick book, 400 pages for the French edition! I was f
 
 The plot is very dense, there are many surprises, and many villains, Batman's recurring enemies, appear in the story, including the well known Catwoman and Joker. The story is about a trio's struggle (Batman the super-hero, James Gordon the honest cop and Harvey Dent the tough District Attorney) to get rid of the 2 families who control Gotham City (Maroni and Falcone's mafia) all the while solving a series of mysterious crimes, all committed on celebration days (Halloween, Christmas, Valentine's Day…).
 
-The search for the criminal, named Holiday, will be very long, full of murders, plot twists, villains and darkness. 
+The search for the criminal, named Holiday, will be very long, full of murders, plot twists,
+villains and darkness. 
 
-I won't go into detail (and please be careful as the Wikipedia links I shared above contain spoilers!) but I really loved this book and recommend it! 
+I won't go into detail (and please be careful as the Wikipedia links I shared above contain spoilers!), but I really loved this book and recommend it! 
+
+# Dark Victory
+
+![image](images/Batman%20-%20Amère%20victoire.jpeg#layoutTextWidth)
+
+Five months after this comic, I read its sequel in April 2021, “Dark Victory”. It is as dark and
+breathtaking as the first one!
+
+Of course, the mechanics of the scenario is the same and this is the only reproach I would make to
+this sequel: the scenario hides us some key information by revealing only silhouettes or
+unidentifiable voices of characters who remain in the shadow. And it's only at the end of the
+comic book that we say to ourselves "oh yes, I understand now!".
+
+Apart from this repetition, this volume is excellent, and the character of Batman is as ambiguous
+as ever. As the title says, the victory of “Good” is always bitter.
+
+It is in this volume that the authors introduce the first **Robin**, aka Dick Grayson. As in all
+the recent DC Comics, I find that the reinvention is always very good, the genesis of these
+characters is less caricatured than in the historical comics.
+
+I also warmly recommend this second volume, but don't read it if you are in a dark mood!
