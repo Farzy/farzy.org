@@ -3,7 +3,7 @@ title: "October 2021 Comic Book Reading"
 date: 2021-10-16T17:52:29+02:00
 lastmod: 2021-10-16T17:52:29+02:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "Grouped reviews of several comics I recently read"
 tags:
