@@ -3,13 +3,14 @@ title: "About"
 date: 2020-05-21T17:05:20+02:00
 tags: []
 featured_image: "/images/taira-nami-teapot.jpg"
-description: "Qui suis-je ? Pourquoi ce site ? Quelle publications ?"
+description: "Qui suis-je ? Pourquoi ce site ? Quelles publications ?"
 draft: false
 ---
 
 # Sur moi :man:
 
-Je m'appelle Farzad, je suis un praticien expérimenté de la philosophie DevOps et SRE Manager, Head of SRE à [Qonto](https://qonto.com), ex-Head of Platform
+Je m'appelle Farzad, je suis un praticien expérimenté de la philosophie DevOps et SRE Manager, Head of SRE chez 
+[Gitguardian](https://gitguardian.com), ex-Head of SRE chez [Qonto](https://qonto.com) et ex-Head of Platform
 à [Kapten](https://kapten.com). Je suis aussi un grand lecteur :books: (fiction, bandes dessinées, science-fiction, essais... et livres d'informatique bien sûr :smile:).
 
 # Sur les livres :books:

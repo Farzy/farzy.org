@@ -9,7 +9,8 @@ draft: false
 
 # About me :man:
 
-My name is Farzad, I'm a seasoned DevOps and SRE Manager, Head of SRE at [Qonto](https://qonto.com), ex-Head of Platform
+My name is Farzad, I'm a seasoned DevOps and SRE Manager, Head of SRE at
+[Gitguardian](https://gitguardian.com), ex-Head of SRE at [Qonto](https://qonto.com), ex-Head of Platform
 at [Kapten](https://kapten.com). I'm also an avid reader and bookworm :books: (fiction, comics, science-fiction, essays… and computer books of course :smile:).
 
 # About books :books:
