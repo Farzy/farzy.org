@@ -1,10 +1,16 @@
 ---
 title: "Quelques revues en vrac (Zadig, Métal Hurlant, Jeux et Stratégie)"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:18:46+02:00
 lastmod: 2020-05-21T00:18:46+02:00
-draft: true
+draft: false
 description: "J’ai encore craqué, cette fois j’ai acheté l’intégralité des 30 premiers numéros de Jeux et Stratégie 😏"
+tags:
+- Bande Dessinée
+- Revue
+- Critique
+- Book Review
+- Bookworm
 
 featured_image: "/fr/books/quelques-revues-en-vrac-zadig-métal-hurlant-jeux-et-stratégie/images/1.jpeg" 
 images:
@@ -35,7 +41,7 @@ C’était le meilleur (et seul ?) magazine de jeux des années 80, il parlait v
 
 ![image](images/2.jpeg#layoutTextWidth)
 
-Dans le genre plus sérieux j’ai fini le numéro 3 de **Zadig**, le trimestriel édité par Le 1 hebdo qui raconte la France. Numéro intéressant consacré au travail. Il y a des reportages, des histoires, un reportage en photos, des portraits, Le tome 2 consacré à la nature était intéressant aussi, mais j’ai trouvé le tome 1 plus ambigu car il a été écrit à l’époque où les Gilets Jaunes n’étaient pas un ramassis de fachos et d’anarchistes violents, la revue en faisait un portrait élogieux 😠
+Dans le genre plus sérieux j’ai fini le numéro 3 de **Zadig**, le trimestriel édité par Le 1 hebdo qui raconte la France. Numéro intéressant consacré au travail. Il y a des reportages, des histoires, un reportage en photos, des portraits, Le tome 2 consacré à la nature était intéressant aussi, mais j’ai trouvé le tome 1 plus ambigu, car il a été écrit à l’époque où les Gilets Jaunes n’étaient pas un ramassis de fachos et d’anarchistes violents, la revue en faisait un portrait élogieux 😠
 
 
 
@@ -44,7 +50,7 @@ Dans le genre plus sérieux j’ai fini le numéro 3 de **Zadig**, le trimestrie
 
 
 
-Dans la forme c’est donc très proche de la Revue XXI, et j’aime bien.Et enfin j’ai lu le numéro 1 de la revue Métal Hurlant 😍
+Dans la forme, c'est donc très proche de la Revue XXI, et j’aime bien. Et enfin j’ai lu le numéro 1 de la revue Métal Hurlant 😍
 
 
 
@@ -53,7 +59,7 @@ Dans la forme c’est donc très proche de la Revue XXI, et j’aime bien.Et enf
 
 
 
-C’est émouvant pour moi mais en même temps c’est amusant de lire ça aussi longtemps après 1975, car la maquette est moche, la couleur absente, les pubs surannées… 😃
+C’est émouvant pour moi, mais en même temps, c'est amusant de lire ça aussi longtemps après 1975, car la maquette est moche, la couleur absente, les pubs surannées… 😃
 
 
 
@@ -62,6 +68,6 @@ C’est émouvant pour moi mais en même temps c’est amusant de lire ça aussi
 
 
 
-Beaucoup d’histoires de Mœbius dedans, et c’est bien. Que de la SF, c’est très «adulte» et parfois sexuel… Une autre époque.Il y a dedans le premier éditorial de Jean-Pierre Dionnet. 
+Beaucoup d’histoires de Mœbius dedans, et c’est bien. Que de la SF, c’est très « adulte » et parfois sexuel… Une autre époque. Il y a dedans le premier éditorial de Jean-Pierre Dionnet. 
 
-Et par une coïncidence incroyable c’était lui l’invité d’Eva Bester sur France Inter à 10h le jour où je l’ai lu ! [https://www.franceinter.fr/emissions/remede-a-la-melancolie/remede-a-la-melancolie-03-novembre-2019](https://www.franceinter.fr/emissions/remede-a-la-melancolie/remede-a-la-melancolie-03-novembre-2019) . J’invite les amateurs de littérature, de BD et de Rock à écouter l’émission en Podcast.
+Et par une coïncidence incroyable, c'était lui l’invité d’Eva Bester sur France Inter à 10 h le jour où je l’ai lu ! [https://www.franceinter.fr/emissions/remede-a-la-melancolie/remede-a-la-melancolie-03-novembre-2019](https://www.franceinter.fr/emissions/remede-a-la-melancolie/remede-a-la-melancolie-03-novembre-2019). J’invite les amateurs de littérature, de BD et de Rock à écouter l’émission en Podcast.
