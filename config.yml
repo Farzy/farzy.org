@@ -37,12 +37,13 @@ params:
   featured_image: "/images/taira-nami-teapot.jpg"
   images:
     - "/images/taira-nami-teapot.jpg"
-  recent_posts_number: 5
+  recent_posts_number: 10
   show_reading_time: true
   # Explicitly list blog sections to display in main page
   mainSections:
     - books
     - misc
+    - it
 
 DefaultContentLanguage: "fr"
 defaultContentLanguageInSubdir: true
