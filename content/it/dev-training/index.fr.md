@@ -3,7 +3,7 @@ title: "Comment je me forme à la programmation et autres sujets amusants"
 date: 2021-10-31T22:23:17+00:00
 lastmod: 2021-10-31T22:23:17+00:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "Voici les sites Web que j'ai utilisés pour m'entraîner pendant le confinement de 2020."
 tags:

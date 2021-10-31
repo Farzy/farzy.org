@@ -3,7 +3,7 @@ title: "How I train myself into programming and other fun topics"
 date: 2021-10-31T22:23:17+00:00
 lastmod: 2021-10-31T22:23:17+00:00
 author: "Farzad FARID"
-draft: true
+draft: false
 
 description: "These are the websites that I used for training during the 2020 lockdown"
 tags:

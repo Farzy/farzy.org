@@ -1,7 +1,7 @@
 ---
 title: "“The Tower” by Uwe Tellkamp"
 date: 2021-03-20T10:24:34+01:00
-lastmod: 2021-03-20T10:24:34+01:00
+lastmod: 2021-11-03T00:18:35+00:00
 author: "Farzad FARID"
 draft: false
 
@@ -13,14 +13,17 @@ tags:
 - Book Review
 
 
-featured_image: "fr/books/la-tour-uwe-tellkamp/images/Der Turm - Uwe Tellkamp - bandeau.jpeg"
+featured_image: "fr/books/la-tour-uwe-tellkamp/images/La Tour - Uwe Tellkamp - bandeau.jpeg"
 images:
-- fr/books/la-tour-uwe-tellkamp/images/Der Turm - Uwe Tellkamp.jpeg
+- "fr/books/la-tour-uwe-tellkamp/images/La Tour - Uwe Tellkamp.jpeg"
+- "fr/books/la-tour-uwe-tellkamp/images/La Tour - Uwe Tellkamp - bandeau.jpeg"
+- "fr/books/la-tour-uwe-tellkamp/images/Der Turm - Uwe Tellkamp.jpeg"
+- "fr/books/la-tour-uwe-tellkamp/images/Der Turm - Uwe Tellkamp - bandeau.jpeg"
 ---
 
 Here is an ideal book in times of confinement or curfew, a novel of **960 pages**! But at the same time, who wants to spontaneously start reading a book by a German author, Uwe Tellkamp, a surgeon born in the former GDR, who tells the story of his childhood and the end of the GDR? In principle, not me!
 
-![image](images/Der%20Turm%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
+![image](images/La%20Tour%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
 
 But the circumstances are however particular, it's a friend and ex-colleague who offered it to me :smiley:
 She was born in Dresden, the place where almost all the action of the book takes place. I waited to have some free time to read it, before starting a new job, and I didn't let it go any more because it was so fascinating!
@@ -46,4 +49,4 @@ The whole novel is offbeat, sometimes absurd, with poetic pauses that allow one 
 
 It is a very good novel, I liked it even if it is sometimes difficult to read, and I recommend it to those who want to discover a little about life in the former GDR. There is a [good French article in Le Monde](https://www.lemonde.fr/livres/article/2012/02/09/la-tour-d-uwe-tellkamp_1640783_3260.html) from 2012 that describes the novel well, and a [nice summary in English on Amazon](https://www.amazon.fr/Tower-Novel-Uwe-Tellkamp/dp/0241004578), for those who hesitate before embarking on reading 960 pages.
 
-![image](images/La%20Tour%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
+![image](images/Der%20Turm%20-%20Uwe%20Tellkamp.jpeg#layoutFillWidth)
