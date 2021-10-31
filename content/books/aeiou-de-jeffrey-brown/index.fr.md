@@ -1,7 +1,7 @@
 ---
 title: "« AEIOU » de Jeffrey Brown"
 author: "Farzad FARID"
-date: 2020-05-21T00:17:42+02:00
+date: 2021-10-31T14:03:36+00:00
 lastmod: 2021-10-31T14:03:36+00:00
 draft: false
 description: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé… "
