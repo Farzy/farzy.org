@@ -1,7 +1,7 @@
 ---
 title: "Mes lectures BD de fin Octobre 2021"
-date: 2021-10-30T15:40:32+02:00
-lastmod: 2021-10-30T15:40:32+02:00
+date: 2021-11-01T15:40:32+02:00
+lastmod: 2021-11-01T15:40:32+02:00
 author: "Farzad FARID"
 draft: true
 
