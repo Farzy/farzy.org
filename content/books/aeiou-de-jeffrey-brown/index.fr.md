@@ -1,10 +1,10 @@
 ---
-title: "“AEIOU” de Jeffrey Brown"
+title: "« AEIOU » de Jeffrey Brown"
 author: "Farzad FARID"
-date: 
-lastmod: 2020-05-21T00:17:42+02:00
-draft: true
-description: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques «Ego comme X» liquidé…"
+date: 2020-05-21T00:17:42+02:00
+lastmod: 2021-10-31T14:03:36+00:00
+draft: false
+description: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé… "
 
 featured_image: "/fr/books/aeiou-de-jeffrey-brown/images/1.jpeg" 
 images:
@@ -14,7 +14,7 @@ images:
 
 ---
 
-J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques «Ego comme X» liquidé hélas il y a quelques années. 
+J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé hélas il y a quelques années. 
 
 
 
@@ -32,6 +32,6 @@ J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’édit
 
 
 
-C’est assez touchant à lire, et un peu troublant car c’est la vie de l’auteur que l’on a sous les yeux, avec ses moments de gêne, ses imperfections… et l’on peut parfois y retrouver un peu de soi-même.
+C’est assez touchant à lire, et un peu troublant, car c’est la vie de l’auteur que l’on a sous les yeux, avec ses moments de gêne, ses imperfections… et l’on peut parfois y retrouver un peu de soi-même.
 
 Un petit roman graphique simple et que j’ai aimé.
