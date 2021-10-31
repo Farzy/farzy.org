@@ -14,6 +14,8 @@ images:
 
 ---
 
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
 Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : «**Faire semblant c’est mentir**» de Dominique Goblet. 
 
 

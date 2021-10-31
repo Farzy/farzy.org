@@ -14,6 +14,8 @@ images:
 
 ---
 
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
 J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé hélas il y a quelques années. 
 
 
