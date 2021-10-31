@@ -4,7 +4,7 @@ date: 2020-12-21T14:37:13+00:00
 author: "Farzad FARID"
 draft: false
 
-description: "La déchéance d'une très belle revue dans l'idéologie et le « gauchisme » primaire"
+description: "La déchéance d'une très belle revue dans l'idéologie et le « gauchisme » primaire"
 tags:
 - Bande Dessinée
 - Critique

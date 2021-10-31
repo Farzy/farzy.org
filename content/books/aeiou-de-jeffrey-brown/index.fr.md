@@ -4,7 +4,7 @@ author: "Farzad FARID"
 date: 2021-10-31T14:03:36+00:00
 lastmod: 2021-10-31T14:03:36+00:00
 draft: false
-description: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé… "
+description: "J’ai lu “AEIOU” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé… "
 
 featured_image: "/fr/books/aeiou-de-jeffrey-brown/images/1.jpeg" 
 images:
@@ -16,7 +16,7 @@ images:
 
 **Note** : Article de 2019 que je n'avais pas mis en ligne.
 
-J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé hélas il y a quelques années. 
+J’ai lu “**AEIOU**” de Jeffrey Brown, petite BD intimiste de feu l’éditeur de romans graphiques et autobiographiques « Ego comme X » liquidé hélas il y a quelques années. 
 
 
 

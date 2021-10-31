@@ -1,10 +1,10 @@
 ---
-title: "« Faire semblant c’est mentir » de Dominique Goblet"
+title: "« Faire semblant c’est mentir » de Dominique Goblet"
 author: "Farzad FARID"
 date: 2021-10-31T14:03:36+00:00
 lastmod: 2021-10-31T14:03:36+00:00
 draft: false
-description: "Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : « Faire semblant c’est mentir » de Dominique Goblet."
+description: "Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : « Faire semblant c’est mentir » de Dominique Goblet."
 
 featured_image: "/fr/books/faire-semblant-cest-mentir-de-dominique-goblet/images/1.jpeg" 
 images:
@@ -16,7 +16,7 @@ images:
 
 **Note** : Article de 2019 que je n'avais pas mis en ligne.
 
-Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : «**Faire semblant c’est mentir**» de Dominique Goblet. 
+Voici une bande dessinée que j’ai lue il y a un an et que j’ai bien aimée : « **Faire semblant c’est mentir** » de Dominique Goblet. 
 
 
 

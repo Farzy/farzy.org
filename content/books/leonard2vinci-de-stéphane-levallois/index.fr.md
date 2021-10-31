@@ -1,11 +1,11 @@
 ---
-title: "«Leonard2Vinci» de Stéphane Levallois"
+title: "« Leonard2Vinci » de Stéphane Levallois"
 author: "Farzad FARID"
 date: 2020-03-08T22:55:15.419Z
 lastmod: 2020-05-21T00:16:51+02:00
 draft: false
 
-description: "Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD2VINCI» de Stéphane Levallois."
+description: "Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : « LEONARD2VINCI » de Stéphane Levallois."
 tags:
  - Bande Dessinée
  - Critique
@@ -27,7 +27,7 @@ images:
  - "/fr/books/leonard2vinci-de-stéphane-levallois/images/11.jpeg"
 ---
 
-Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : «LEONARD**2**VINCI» de Stéphane Levallois.
+Ma lecture de ce week-end est encore une étrange bande dessinée assez contemplative : « LEONARD**2**VINCI » de Stéphane Levallois.
 
 
 
@@ -36,7 +36,7 @@ Ma lecture de ce week-end est encore une étrange bande dessinée assez contempl
 
 
 
-Ce n’est plus tellement surprenant une fois que l’on a vu que c’est un livre co-édité par le Louvre. Il s’agit d’une œuvre de commande du musée, tout comme ce livre de Jiro Tanigushi, [«Les gardiens du Louvre» dont j’ai récemment parlé](https://medium.com/les-lectures-de-farzad/les-gardiens-du-louvre-de-jir%C3%B4-taniguchi-3362fb8a2fc).
+Ce n’est plus tellement surprenant une fois que l’on a vu que c’est un livre co-édité par le Louvre. Il s’agit d’une œuvre de commande du musée, tout comme ce livre de Jiro Tanigushi, [« Les gardiens du Louvre » dont j’ai récemment parlé](https://medium.com/les-lectures-de-farzad/les-gardiens-du-louvre-de-jir%C3%B4-taniguchi-3362fb8a2fc).
 
 Dans les deux cas il s’agit de bandes dessinées qui ont été produites avant tout pour faire la promotion du Musée du Louvre et de ses œuvres, l’état contemplatif du spectateur n’en est que plus normal 😏 Mais je trouve que cela n’enlève pas d’intérêt à la lecture pour autant.
 
@@ -106,7 +106,7 @@ On reconnait la Cène magistrale (je suis désolé du cadrage, il y avait trop d
 
 
 
-Plus loin, ce «robot» a les traits d’un croquis d’habit militaire :
+Plus loin, ce « robot » a les traits d’un croquis d’habit militaire :
 
 
 

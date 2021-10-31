@@ -1,5 +1,5 @@
 ---
-title: "«Le Lambeau» by Philippe Lançon"
+title: "« Le Lambeau » by Philippe Lançon"
 author: "Farzad FARID"
 date: 2020-05-21T00:18:23+02:00
 lastmod: 2021-02-01T19:00:12+01:00

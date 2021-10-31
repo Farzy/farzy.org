@@ -5,7 +5,7 @@ date: 2020-03-07T17:03:28.744Z
 lastmod: 2020-05-21T00:16:49+02:00
 draft: false
 
-description: "J’ai lu «Le danger sociologique» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu…"
+description: "J’ai lu « Le danger sociologique » de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu…"
 tags:
  - Livre
  - Critique
@@ -18,7 +18,7 @@ images:
  - "/fr/books/le-danger-sociologique-de-gérald-bronner-et-étienne-géhin/images/1.jpeg"
 ---
 
-J’ai lu «**Le danger sociologique**» de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu et réputé, il écrit régulièrement des articles de très bonne qualité, notamment dans Sciences &amp; Pseudo-sciences, ou plus récemment dans Marianne.
+J’ai lu « **Le danger sociologique** » de Gérald Bronner et Étienne Géhin. Les deux auteurs sont sociologues, Bronner notamment est assez connu et réputé, il écrit régulièrement des articles de très bonne qualité, notamment dans Sciences &amp; Pseudo-sciences, ou plus récemment dans Marianne.
 
 
 
@@ -27,7 +27,7 @@ J’ai lu «**Le danger sociologique**» de Gérald Bronner et Étienne Géhin. 
 
 
 
-Pour résumer, l’ouvrage est une critique d’une certaine forme de sociologie dite «_holistique_» qui fait la part belle au déterminisme sociale et ignore les composantes psychologiques des faits sociaux ou les apports des neurosciences, versus la sociologie «_analytique_» qui les intègre dans son champs. La sociologie de Bourdieu (déterminisme social) est plutôt menée à mal dans cet ouvrage, ainsi que celle d’Edgar Morin (qui croit à la magie et à la noosphère… 😠).
+Pour résumer, l’ouvrage est une critique d’une certaine forme de sociologie dite « _holistique_ » qui fait la part belle au déterminisme sociale et ignore les composantes psychologiques des faits sociaux ou les apports des neurosciences, versus la sociologie « _analytique_ » qui les intègre dans son champs. La sociologie de Bourdieu (déterminisme social) est plutôt menée à mal dans cet ouvrage, ainsi que celle d’Edgar Morin (qui croit à la magie et à la noosphère… 😠).
 
 Le livre est bien étayé, de nombreuses références et des exemples concrets qui permettent de découvrir la sociologie, mais il reste assez difficile à lire même s’il est passionnant.
 

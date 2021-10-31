@@ -1,7 +1,7 @@
 ---
-title: "«NonNonBâ» de Shigeru Mizuki"
+title: "« NonNonBâ » de Shigeru Mizuki"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:18:31+02:00
 draft: true
 description: "Hello, voici ma lecture BD de la semaine de vacances, NonNonBâ de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et…"
@@ -20,6 +20,8 @@ tags:
 
 ---
 
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
 Hello, voici ma lecture BD de la semaine de vacances, **NonNonBâ** de Shigeru Mizuki aux Éditions Cornélius. C’est un gros volume, noir et blanc, sens de lecture japonais. L’histoire est grandement autobiographique, je le classerais presque en roman graphique, il raconte l’histoire d’un garçon dans une petite ville japonaise paumée, au bord de la mer, dans les années 30, garçon qui se prénomme Shigeru comme l’auteur. 
 
 
@@ -33,7 +35,7 @@ C’est un garçon avec une imagination débordante et qui dessine déjà des ma
 
 L’histoire étant vraiment ancrée dans le Japon de l’époque, ses nombreuses références culturelles et les jeux de mots, elle serait incompréhensible sans les nombreuses notes qui expliquent le contexte, l’histoire, la culture et ses fameux jeux de mots. 
 
-Ces longues notes en fin de livre rendent la lecture un peu moins fluide mais j’ai néanmoins beaucoup aimé ce livre que je recommande chaudement, bien plus que «**L’homme sans talent**» que j’avais trouvé un peu dérangeant [comme je l’avais dit précédemment](https://medium.com/les-lectures-de-farzad/lhomme-sans-talent-de-yoshiharu-tsuge-8931b5f87f02).
+Ces longues notes en fin de livre rendent la lecture un peu moins fluide mais j’ai néanmoins beaucoup aimé ce livre que je recommande chaudement, bien plus que « **L’homme sans talent** » que j’avais trouvé un peu dérangeant [comme je l’avais dit précédemment](https://medium.com/les-lectures-de-farzad/lhomme-sans-talent-de-yoshiharu-tsuge-8931b5f87f02).
 
 Côté dessin, les personnages sont aussi schématiques et caricaturaux que les paysages sont splendides, drôle de mélange ! J’en mets un exemple ici :
 

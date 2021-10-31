@@ -1,7 +1,7 @@
 ---
-title: "«Rork» et «Capricorne» d’Andreas"
+title: "« Rork » et « Capricorne » d’Andreas"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:18:35+02:00
 draft: true
 description: "J’ai relu l’intégralité de Rork d’Andreas (en dehors du Tome 0 qui est sorti plus tard et que je ne connaissais pas) …"
@@ -13,6 +13,8 @@ images:
 
 
 ---
+
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
 
 J’ai relu l’intégralité de **Rork** d’Andreas (en dehors du Tome 0 qui est sorti plus tard et que je ne connaissais pas) : [https://fr.wikipedia.org/wiki/Rork.](https://fr.wikipedia.org/wiki/Rork.) 
 

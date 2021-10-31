@@ -1,5 +1,5 @@
 ---
-title: "«Il faut flinguer Ramirez» de Nicolas Petrimaux"
+title: "« Il faut flinguer Ramirez » de Nicolas Petrimaux"
 author: "Farzad FARID"
 date: 2020-02-17T22:13:19.183Z
 lastmod: 2020-05-21T00:16:01+02:00

@@ -1,5 +1,5 @@
 ---
-title: "«Tu mourras moins bête» de Marion Montaigne"
+title: "« Tu mourras moins bête » de Marion Montaigne"
 author: "Farzad FARID"
 date: 2019-11-19T20:42:20.508Z
 lastmod: 2020-05-21T00:15:08+02:00
@@ -65,7 +65,7 @@ Ou encore que, au grand dam des extrémiste de tout bord, l’homosexualité exi
 
 ![image](images/5.jpeg#layoutOutsetCenter)
 
-Mes jumeaux de 10 ans aussi adore ces BD ainsi que la série de dessins animés qui en a été tirée : «Parce que c’est drôle et que ça fait apprendre des trucs.»
+Mes jumeaux de 10 ans aussi adore ces BD ainsi que la série de dessins animés qui en a été tirée : « Parce que c’est drôle et que ça fait apprendre des trucs. »
 
 France Inter en a aussi parlé, sûrement mieux que moi, en 2017 : [https://www.franceinter.fr/emissions/capture-d-ecrans/capture-d-ecrans-14-septembre-2017](https://www.franceinter.fr/emissions/capture-d-ecrans/capture-d-ecrans-14-septembre-2017)
 

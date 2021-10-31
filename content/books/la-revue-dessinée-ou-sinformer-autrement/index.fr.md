@@ -53,7 +53,7 @@ Ce numéro d’automne 2017 par exemple, avec Macron et Uber en couverture, fait
 
 C’est aussi ceci qui fait la qualité de cette revue : des articles, enquêtes, témoignages, photos, biographies intemporelles.
 
-La Revue Dessinée 19, toujours aussi agréable à lire, a des dossiers intéressants sur la dictature de Erdogan, la «chemise déchirée» du DRH d’Air France, les conditions de travail dans un abattoir à bétail, etc.
+La Revue Dessinée 19, toujours aussi agréable à lire, a des dossiers intéressants sur la dictature de Erdogan, la « chemise déchirée » du DRH d’Air France, les conditions de travail dans un abattoir à bétail, etc.
 
 
 

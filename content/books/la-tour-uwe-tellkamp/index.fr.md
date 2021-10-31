@@ -1,5 +1,5 @@
 ---
-title: "« La Tour » d'Uwe Tellkamp"
+title: "« La Tour » d'Uwe Tellkamp"
 date: 2021-03-20T10:24:34+01:00
 lastmod: 2021-03-20T10:24:34+01:00
 author: "Farzad FARID"
@@ -30,18 +30,18 @@ lieu où se déroule quasiment toute l'action du livre, qui me l'a offert :smile
 d'avoir un peu de temps libre pour le lire, avant de commencer un nouveau travail, et je ne l'ai
 plus lâché tellement c'était passionnant !
 
-L'histoire se déroule dans un quartier bourgeois de Dresde appelé « La Tour ». La ville elle-même, assez
+L'histoire se déroule dans un quartier bourgeois de Dresde appelé « La Tour ». La ville elle-même, assez
 bourgeoise, paraît anachronique dans cette Allemagne de l'Est qui essaie de gommer les différences
 sociales et de richesse en nivelant par le bas. Le héros principal, Christian Hoffmann est lycéen, fils
 d'un chirurgien réputé, médecin-chef d'un hôpital de la ville. Il a une famille nombreuse, elle-même
 entourée de nombreux voisins et d'amis dont nous suivons les péripéties. Il y a tellement de
 personnages que j'ai même fait une liste dans une note afin de pouvoir m'y retrouver.
 
-La ville en elle-même est un personnage de l'histoire, ainsi que les nombreuses « maisons
-collectives », imposées dans le régime communiste, dans lesquelles vivent les protagonistes.
-Ces maisons portent des noms poétiques : « La Caravelle », « La maison des mille yeux », 
-« La maison italienne », « La maison Wolfsstein », « La maison de l'étoile du soir »,
-« La maison de la toile d'araignée », « La maison des dauphins »…
+La ville en elle-même est un personnage de l'histoire, ainsi que les nombreuses « maisons
+collectives », imposées dans le régime communiste, dans lesquelles vivent les protagonistes.
+Ces maisons portent des noms poétiques : « La Caravelle », « La maison des mille yeux », 
+« La maison italienne », « La maison Wolfsstein », « La maison de l'étoile du soir »,
+« La maison de la toile d'araignée », « La maison des dauphins »…
 
 Le roman est trois choses à la fois :
 - un récit d'initiation de ce jeune garçon qui grandit et s'adapte, en contournant les règles comme

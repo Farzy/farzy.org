@@ -1,7 +1,7 @@
 ---
-title: "«Bolchoï Arena» de Boulet et Aseyn"
+title: "« Bolchoï Arena » de Boulet et Aseyn"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:17:57+02:00
 draft: true
 description: "J‘ai lu récemment une BD, Bolchoï Arena de Boulet et Aseyn. Cette fois c’est un peu particulier parce que c’était mon cadeau de Secret…"
@@ -12,6 +12,8 @@ images:
 
 
 ---
+
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
 
 J‘ai lu récemment une BD, **Bolchoï Arena** de Boulet et Aseyn. Cette fois c’est un peu particulier parce que c’était mon cadeau de Secret Santa de la part de mon collègue Arthur 😍
 
@@ -24,7 +26,7 @@ Et bien Arthur, tu as bien choisi, c’est une excellente BD.
 
 
 
-L’histoire se déroule dans un Paris du futur proche, vers 2050 je dirais, où un univers de réalité virtuel, le Bolchoï Arena, a supplanté Internet. Dans ce premier tome on ne sait pas qui a créé cet univers ni les motivations, mais on sait que cette simulation reproduit de façon ultra-réaliste l’univers, des planètes et lunes du système solaire, des stations spatiales et vaisseaux, et des «joueurs» prennent possession de terrains sur les lunes de Saturne et gagnent apparemment de l’argent en exploitant les mines… Les avatars des joueurs, même s’ils peuvent être physiquement très différents des personnes, reproduisent les mouvements, la parole, la douleur parfois.
+L’histoire se déroule dans un Paris du futur proche, vers 2050 je dirais, où un univers de réalité virtuel, le Bolchoï Arena, a supplanté Internet. Dans ce premier tome on ne sait pas qui a créé cet univers ni les motivations, mais on sait que cette simulation reproduit de façon ultra-réaliste l’univers, des planètes et lunes du système solaire, des stations spatiales et vaisseaux, et des « joueurs » prennent possession de terrains sur les lunes de Saturne et gagnent apparemment de l’argent en exploitant les mines… Les avatars des joueurs, même s’ils peuvent être physiquement très différents des personnes, reproduisent les mouvements, la parole, la douleur parfois.
 
 L’héroïne, Marje, une noob du jeu au tout début, est une étudiante en exploration spatiale. Petit à petit elle devient accro à cette réalité virtuelle, jusqu’à négliger parfois ses études ou son petit ami. À la grande surprise de sa copine, de mercenaires et d’une méga corporation, elle se révèle très vite douée pour le combat… Le tome 1 est assez descriptif, on a l’impression qu’il n’y a pas vraiment d’intrigue à part les joyeuses aventures de deux copines, mais il se finit brutalement et dramatiquement sur un cliffhanger !
 

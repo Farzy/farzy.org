@@ -1,7 +1,7 @@
 ---
-title: "«Aya de Yopougon» de Marguerite Abouet et Clément Oubrerie"
+title: "« Aya de Yopougon » de Marguerite Abouet et Clément Oubrerie"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:17:47+02:00
 draft: true
 description: "Avec cette série de BD nous allons faire un tour en Côté d’Ivoire dont nous découvrons la culture"
@@ -15,6 +15,8 @@ images:
 
 
 ---
+
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
 
 Avec cette série de BD nous allons faire un tour en Côté d’Ivoire dont nous découvrons la culture, la vie quotidienne et les habitants, jeunes et moins jeunes, à travers les aventures d’une jeune étudiante, Aya, qui habite Yopougon, un quartier populaire d’Abidjan.
 
@@ -88,6 +90,6 @@ Cette série semble plutôt destinée aux enfants, le premier tome est composé 
 
 Le problème est qu’aucune des historiettes ne m’a fait rire, même pas sourire !
 
-Cerise sur le gâteau : l’éditeur a trouvé de bon goût de coller une étiquette «Angoulème 2011, sélection jeunesse» en plein milieu de la couverture. Eh bien en 2020 l’étiquette ne peut pas être enlevée sans arracher un peu de la couverture 😠
+Cerise sur le gâteau : l’éditeur a trouvé de bon goût de coller une étiquette « Angoulème 2011, sélection jeunesse » en plein milieu de la couverture. Eh bien en 2020 l’étiquette ne peut pas être enlevée sans arracher un peu de la couverture 😠
 
 Je n’ai pas suggéré à mes enfants de lire cette BD, je ne sais pas pas si elle leur aurait plus à eux. Quant à moi je ne la recommande pas.

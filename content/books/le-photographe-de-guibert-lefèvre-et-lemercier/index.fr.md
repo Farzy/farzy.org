@@ -1,7 +1,7 @@
 ---
-title: "«Le photographe» de Guibert, Lefèvre et Lemercier"
+title: "« Le photographe » de Guibert, Lefèvre et Lemercier"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:18:24+02:00
 draft: true
 description: "J’ai fini le tome 3 du Photographe, l’histoire du photographe Didier Lefèvre qui a accompagné une équipe de MSF en Afghanistan au début des…"
@@ -13,8 +13,9 @@ images:
 
 ---
 
-J’
-ai fini le tome 3 du **Photographe**, l’histoire du photographe Didier Lefèvre qui a accompagné une équipe de MSF en Afghanistan au début des années 80, pendant l’invasion de l’Afghanistan par l’URSS, venue installer un hôpital dans une région de guerre.
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
+J’ ai fini le tome 3 du **Photographe**, l’histoire du photographe Didier Lefèvre qui a accompagné une équipe de MSF en Afghanistan au début des années 80, pendant l’invasion de l’Afghanistan par l’URSS, venue installer un hôpital dans une région de guerre.
 
 
 

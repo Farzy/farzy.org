@@ -1,5 +1,5 @@
 ---
-title: "«Batman, année un» par Frank Miller et David Mazzucchelli"
+title: "« Batman, année un » par Frank Miller et David Mazzucchelli"
 author: "Farzad FARID"
 date: 2020-03-11T17:16:57.612Z
 lastmod: 2020-05-21T00:17:16+02:00
@@ -23,7 +23,7 @@ images:
  - "/fr/books/batman-année-un-par-frank-miller-et-david-mazzucchelli/images/5.jpeg"
 ---
 
-Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très très peu, mais comme il y a quelques mois notre libraire BD de proximité ([**BD Geek à Antony**](https://www.facebook.com/librairieBDGEEK/), je le recommande chaudement) fêtait les 80 ans de Batman en offrant une BD pour l’achat de 2 BD Batman, j’y suis allé avec ma fille et nous avons chacun choisi un livre. Mon choix s’est porté sur ce «reboot» de la genèse de Batman par Frank Miller.
+Je ne suis pas un grand lecteur de Comics américain, j’en ai vraiment très très peu, mais comme il y a quelques mois notre libraire BD de proximité ([**BD Geek à Antony**](https://www.facebook.com/librairieBDGEEK/), je le recommande chaudement) fêtait les 80 ans de Batman en offrant une BD pour l’achat de 2 BD Batman, j’y suis allé avec ma fille et nous avons chacun choisi un livre. Mon choix s’est porté sur ce « reboot » de la genèse de Batman par Frank Miller.
 
 
 

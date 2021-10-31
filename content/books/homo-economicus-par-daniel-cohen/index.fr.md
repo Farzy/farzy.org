@@ -1,11 +1,11 @@
 ---
-title: "«Homo Economicus» par Daniel Cohen"
+title: "« Homo Economicus » par Daniel Cohen"
 author: "Farzad FARID"
 date: 2020-02-15T13:47:41.719Z
 lastmod: 2020-05-21T00:15:52+02:00
 draft: false
 
-description: "Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de…"
+description: "Le titre complet est « Homo Economicus, prophète (égaré) des temps nouveaux », où l’on devine que le contenu ne sera pas une apologie de…"
 tags:
  - Livre
  - Critique
@@ -19,7 +19,7 @@ images:
  - "/fr/books/homo-economicus-par-daniel-cohen/images/3.jpeg"
 ---
 
-Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux», où l’on devine que le contenu ne sera pas une apologie de l’économie et de l’humain rationnel…
+Le titre complet est « Homo Economicus, prophète (égaré) des temps nouveaux », où l’on devine que le contenu ne sera pas une apologie de l’économie et de l’humain rationnel…
 
 
 
@@ -28,7 +28,7 @@ Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux»
 
 
 
-[J’ai déjà lu et commenté](https://medium.com/les-lectures-de-farzad/la-prosp%C3%A9rit%C3%A9-du-vice-de-daniel-cohen-5b34a616d918) un autre excellent livre de vulgarisation économique de Daniel Cohen, «La prospérité du vice». Celui-ci est plus récent, il se pose la question des rapport entre l’«homo economicus» théorique, rationnel et la recherche du bonheur, la liberté, l’efficacité.
+[J’ai déjà lu et commenté](https://medium.com/les-lectures-de-farzad/la-prosp%C3%A9rit%C3%A9-du-vice-de-daniel-cohen-5b34a616d918) un autre excellent livre de vulgarisation économique de Daniel Cohen, « La prospérité du vice ». Celui-ci est plus récent, il se pose la question des rapport entre l’« homo economicus » théorique, rationnel et la recherche du bonheur, la liberté, l’efficacité.
 
 
 
@@ -39,9 +39,9 @@ Le titre complet est «Homo Economicus, prophète (égaré) des temps nouveaux»
 
 C’est une réflexion plus inquiète, qui pointe les travers de notre monde et de l’économie, en sortant du seul domaine économique pour aller puiser des faits, des preuves, du côté de la biologie, de la sociologie, des biais cognitifs…
 
-Il y a aussi quelques références à la psychanalyse et à Freud et je trouve ça dommage bien évidemment, car faire référence à un tel tissu de conneries nuit un peu à la crédibilité de l’auteur. Heureusement Daniel Cohen en parle peu ! D’ailleurs, en aparté sur la psychanalyse, je conseille vivement la lecture de l’ouvrage collectif «**Le livre noir de la psychanalyse**» ou le visionnage des documentaires de Sophie Robert, dont «**Le mur**».
+Il y a aussi quelques références à la psychanalyse et à Freud et je trouve ça dommage bien évidemment, car faire référence à un tel tissu de conneries nuit un peu à la crédibilité de l’auteur. Heureusement Daniel Cohen en parle peu ! D’ailleurs, en aparté sur la psychanalyse, je conseille vivement la lecture de l’ouvrage collectif « **Le livre noir de la psychanalyse** » ou le visionnage des documentaires de Sophie Robert, dont « **Le mur** ».
 
-Le livre comment par le bonheur, le fameux indicateur de **Bonheur Intérieur Brut** du Bhoutan, où l’on voit que la réalité est plus complexe, qu’il se suffit pas de décréter le bonheur pour l’avoir… L’introduction de la télévision au Bhoutan et de tout son flot d’images violentes, de luxure, d’idéaux inaccessibles, a mis à mal le «bonheur» du Bhoutan…
+Le livre comment par le bonheur, le fameux indicateur de **Bonheur Intérieur Brut** du Bhoutan, où l’on voit que la réalité est plus complexe, qu’il se suffit pas de décréter le bonheur pour l’avoir… L’introduction de la télévision au Bhoutan et de tout son flot d’images violentes, de luxure, d’idéaux inaccessibles, a mis à mal le « bonheur » du Bhoutan…
 
 Car rien n’est simple, contrairement à ce que voudrait nous faire croire certains économistes, l’humain n’est **pas** rationnel, ce n’est pas un agent économique dénué d’émotions, fiable, robotisé.
 

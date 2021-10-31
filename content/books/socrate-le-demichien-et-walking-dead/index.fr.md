@@ -1,7 +1,7 @@
 ---
-title: "«Socrate le demi-chien» et «Walking dead»"
+title: "« Socrate le demi-chien » et « Walking dead »"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:18:37+02:00
 draft: true
 description: "J’ai enfin lu le 3ème tome de Socrate le demi-chien de Joann Sfar et Christophe Blain …"
@@ -14,8 +14,9 @@ images:
 
 ---
 
-J’
-ai enfin lu le 3ème tome de **Socrate le demi-chien** de Joann Sfar et Christophe Blain : [https://www.bedetheque.com/serie-1994-BD-Socrate-le-demi-chien.html](https://www.bedetheque.com/serie-1994-BD-Socrate-le-demi-chien.html) . 
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
+J’ai enfin lu le 3ème tome de **Socrate le demi-chien** de Joann Sfar et Christophe Blain : [https://www.bedetheque.com/serie-1994-BD-Socrate-le-demi-chien.html](https://www.bedetheque.com/serie-1994-BD-Socrate-le-demi-chien.html) . 
 
 
 
@@ -26,7 +27,7 @@ ai enfin lu le 3ème tome de **Socrate le demi-chien** de Joann Sfar et Christop
 
 Toujours aussi drôle et philosophique, mais c’est dommage que ça se finisse abruptement avec un mot signalant la suite au tome 4… qui ne viendra sans doute jamais ! 
 
-Ce n’est pas la première fois que Sfar commence une série qu’il abandonne (Cf «La vallée des merveilles»).
+Ce n’est pas la première fois que Sfar commence une série qu’il abandonne (Cf « La vallée des merveilles »).
 Et
  je dois être un peu fou, j’ai commencé **Walking Dead**… [https://www.bedetheque.com/serie-11312-BD-Walking-Dead.html](https://www.bedetheque.com/serie-11312-BD-Walking-Dead.html)C’est sympa mais très gore, vraiment gore…
 

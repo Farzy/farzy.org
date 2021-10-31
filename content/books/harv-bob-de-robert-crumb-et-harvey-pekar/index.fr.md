@@ -1,5 +1,5 @@
 ---
-title: "«Harv & Bob» de Robert Crumb et Harvey Pekar"
+title: "« Harv & Bob » de Robert Crumb et Harvey Pekar"
 author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:19+02:00
@@ -19,6 +19,8 @@ tags:
 
 
 ---
+
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
 
 Harvey Pekar est un individu lambda, petit employé d’un centre hospitalier je crois, qui a vécu toute sa vie à Cleveland et raconte, avec le trait de Crumb, ses tranches de vie. Ce sont des histoires courtes, parfois très anecdotiques et sans intérêt apparent, parfois très drôles, décalées. On y voit même la genèse de l’amitié de Crumb et Pekar, tous deux amateurs de jazz, qui a amené le dessinateur underground et l’employé lambda devenu scénariste de BD à écrire ensemble American Splendor (je ne l’ai pas lu), ce très amusant Harv &amp; Bob et d’autres BD alternatives.
 

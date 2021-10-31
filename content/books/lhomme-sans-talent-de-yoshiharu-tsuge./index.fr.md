@@ -1,5 +1,5 @@
 ---
-title: "«L’homme sans talent» de Yoshiharu Tsuge."
+title: "« L’homme sans talent » de Yoshiharu Tsuge."
 author: "Farzad FARID"
 date: 2020-02-09T17:57:49.778Z
 lastmod: 2020-05-21T00:15:49+02:00
@@ -21,7 +21,7 @@ images:
 L’
 auteur japonais Yoshiharu Tsuge a reçu cette année un [Fauve d’honneur au Festival d’Angoulême pour l’ensemble de sa carrière](https://www.franceculture.fr/emissions/le-rayon-bd/yoshiharu-tsuge-la-revolution-du-manga) !
 
-C’est l’occasion pour vous de lire ou relire «L’homme sans talent», seul manga que j’ai lu de lui mais qui m’a marqué.
+C’est l’occasion pour vous de lire ou relire « L’homme sans talent », seul manga que j’ai lu de lui mais qui m’a marqué.
 
 
 

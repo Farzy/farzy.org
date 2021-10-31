@@ -68,6 +68,6 @@ C’est émouvant pour moi, mais en même temps, c'est amusant de lire ça aussi
 
 
 
-Beaucoup d’histoires de Mœbius dedans, et c’est bien. Que de la SF, c’est très « adulte » et parfois sexuel… Une autre époque. Il y a dedans le premier éditorial de Jean-Pierre Dionnet. 
+Beaucoup d’histoires de Mœbius dedans, et c’est bien. Que de la SF, c’est très « adulte » et parfois sexuel… Une autre époque. Il y a dedans le premier éditorial de Jean-Pierre Dionnet. 
 
 Et par une coïncidence incroyable, c'était lui l’invité d’Eva Bester sur France Inter à 10 h le jour où je l’ai lu ! [https://www.franceinter.fr/emissions/remede-a-la-melancolie/remede-a-la-melancolie-03-novembre-2019](https://www.franceinter.fr/emissions/remede-a-la-melancolie/remede-a-la-melancolie-03-novembre-2019). J’invite les amateurs de littérature, de BD et de Rock à écouter l’émission en Podcast.

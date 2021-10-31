@@ -1,5 +1,5 @@
 ---
-title: "«Les gardiens du Louvre» de Jirô Taniguchi"
+title: "« Les gardiens du Louvre » de Jirô Taniguchi"
 author: "Farzad FARID"
 date: 2020-03-01T18:25:12.533Z
 lastmod: 2020-05-21T00:16:32+02:00
@@ -55,7 +55,7 @@ Les dessins sont très beaux, presque photographiques, l’intérieur du Louvre,
 
 
 
-On y voit la foule, Taniguchi se moque même des touristes qui se prennent en photo, le doigt «posé» sur le sommet de la pyramide de verre.
+On y voit la foule, Taniguchi se moque même des touristes qui se prennent en photo, le doigt « posé » sur le sommet de la pyramide de verre.
 
 Pour ce qui est de l’histoire, elle est étrange : notre visiteur japonais est repris de poussées de fièvres et recommence à délirer dans le Louvre. Mais cette fois il est transposé dans un Louvre onirique, issue de son esprit, où il se trouve tout seul, uniquement entouré de choses qui semblent être l’esprit des œuvres du musée, dont une lui parle régulièrement. Les dessins sont splendides certes, mais cette partie de la BD commençait à me faire penser qu’il ne s’agit que d’une œuvre de commande dont le but est de faire la promotion du Louvre, page après page.
 

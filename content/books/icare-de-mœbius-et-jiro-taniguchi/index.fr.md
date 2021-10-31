@@ -1,11 +1,11 @@
 ---
-title: "«Icare» de Mœbius et Jiro Taniguchi"
+title: "« Icare » de Mœbius et Jiro Taniguchi"
 author: "Farzad FARID"
 date: 2020-03-21T14:41:44.282Z
 lastmod: 2020-05-21T00:17:27+02:00
 draft: false
 
-description: "Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi."
+description: "Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : « Icare » de Mœbius et Jiro Taniguchi."
 
 subtitle: "Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens…"
 tags:
@@ -26,7 +26,7 @@ images:
  - "/fr/books/icare-de-mœbius-et-jiro-taniguchi/images/8.jpeg"
 ---
 
-Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : «Icare» de Mœbius et Jiro Taniguchi.
+Pour les trois premiers jours de confinement suite à l’épidémie de COVID-19 j’ai choisi la BD idéale pour s’évader et s’envoler au sens premier : « Icare » de Mœbius et Jiro Taniguchi.
 
 
 
@@ -39,7 +39,7 @@ C’est l’histoire d’un garçon étrange qui est né avec la capacité de vo
 
 L’histoire a d’abord été écrite par Mœbius, mise de côté, reprise… Il l’a ensuite développée, avec un autre scénariste, jusqu’à en fait un très long scénario pouvant se développer en plusieurs volumes de BD, avec le thème de la sexualité omniprésent : sadomasochisme, scatologie… 😱 J’imagine que si la BD avait été fait telle que Mœbius l’imaginait, elle aurait été très trash !
 
-Finalement le scénario a été proposé à un éditeur japonais et c’est Taniguchi qui a été sélectionné. Au vue de la BD finale, le scénario a perdu en sexualité (mais pas totalement) et en longueur, mais gagne un dessin superbe, des traits fin et dynamiques. L’action y est abondamment représentée, on est loin des dessins contemplatifs de Taniguchi comme j’en ai parlé pour «[Les gardiens du Louvre](https://link.medium.com/3UWiqsYn24)», tout en gardant le même niveau de détail dans les décors paysages.
+Finalement le scénario a été proposé à un éditeur japonais et c’est Taniguchi qui a été sélectionné. Au vue de la BD finale, le scénario a perdu en sexualité (mais pas totalement) et en longueur, mais gagne un dessin superbe, des traits fin et dynamiques. L’action y est abondamment représentée, on est loin des dessins contemplatifs de Taniguchi comme j’en ai parlé pour « [Les gardiens du Louvre](https://link.medium.com/3UWiqsYn24) », tout en gardant le même niveau de détail dans les décors paysages.
 
 
 

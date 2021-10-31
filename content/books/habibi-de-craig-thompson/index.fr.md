@@ -1,5 +1,5 @@
 ---
-title: "«Habibi» de Craig Thompson"
+title: "« Habibi » de Craig Thompson"
 author: "Farzad FARID"
 date: 
 lastmod: 2020-05-21T00:18:16+02:00
@@ -20,6 +20,8 @@ tags:
 
 
 ---
+
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
 
 Hello, ma critique BD de la semaine est **Habibi** de Craig Thompson, que j’ai lu en anglais. 
 

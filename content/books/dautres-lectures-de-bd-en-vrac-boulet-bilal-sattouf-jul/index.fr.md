@@ -18,6 +18,8 @@ images:
 
 ---
 
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
 Encore quelques lectures récentes en vrac 😃 :D’abord **Notes 11** de Boulet. 
 
 
@@ -52,7 +54,7 @@ J’ai enfin acheté et lu les 2 derniers tomes du **Sommeil du monstre** d’En
 
 
 
-Le tome 2 est sorti récemment.Mes jumeaux lisent **Les cahiers d’Esther** de Riad Sattouf, déjà 4 tomes, alors je m’y suis mis aussi ! Fait amusant : Riad Sattouf était l’invité de l’émission culturelle «Le grand atelier» de Vincent Josse sur France Inter peu après que j’ai fini la lecture ([https://www.franceinter.fr/emissions/le-grand-atelier/le-grand-atelier-03-novembre-2019](https://www.franceinter.fr/emissions/le-grand-atelier/le-grand-atelier-03-novembre-2019)). L’auteur a basé les mini-histoires sur les anecdotes que lui raconte Esther (un pseudonyme). Riad Sattouf a modifié les histoires, ce n’est donc sans doute pas très proche de la réalité. En effet «Esther» lui à déjà dit qu’on lui a offert ce livre sans savoir que c’était elle qui en était à l’origine 😃
+Le tome 2 est sorti récemment.Mes jumeaux lisent **Les cahiers d’Esther** de Riad Sattouf, déjà 4 tomes, alors je m’y suis mis aussi ! Fait amusant : Riad Sattouf était l’invité de l’émission culturelle « Le grand atelier » de Vincent Josse sur France Inter peu après que j’ai fini la lecture ([https://www.franceinter.fr/emissions/le-grand-atelier/le-grand-atelier-03-novembre-2019](https://www.franceinter.fr/emissions/le-grand-atelier/le-grand-atelier-03-novembre-2019)). L’auteur a basé les mini-histoires sur les anecdotes que lui raconte Esther (un pseudonyme). Riad Sattouf a modifié les histoires, ce n’est donc sans doute pas très proche de la réalité. En effet « Esther » lui à déjà dit qu’on lui a offert ce livre sans savoir que c’était elle qui en était à l’origine 😃
 
 
 

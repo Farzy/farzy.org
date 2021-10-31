@@ -1,10 +1,10 @@
 ---
-title: "«Le journal d’un ingénu» d’Émile Bravo"
+title: "« Le journal d’un ingénu » d’Émile Bravo"
 author: "Farzad FARID"
-date: 
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2020-05-21T00:18:24+02:00
 draft: true
-description: "Lecture plus sombre avec Le journal d’un ingénu d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de «reboots» de…"
+description: "Lecture plus sombre avec Le journal d’un ingénu d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de « reboots » de…"
 
 featured_image: "/fr/books/le-journal-dun-ingénu-démile-bravo/images/1.jpeg" 
 images:
@@ -13,7 +13,9 @@ images:
 
 ---
 
-Lecture plus sombre avec **Le journal d’un ingénu** d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de «reboots» de Spirou par des auteurs contemporains.
+**Note** : Article de 2019 que je n'avais pas mis en ligne.
+
+Lecture un peu sombre avec **Le journal d’un ingénu** d’Émile Bravo. Ce volume, le premier d’une série par Bravo, fait partie de « reboots » de Spirou par des auteurs contemporains.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "« Paul à Québec » de Michel Rabagliati"
+title: "« Paul à Québec » de Michel Rabagliati"
 date: 2021-03-06T12:13:09+01:00
 lastmod: 2021-03-06T12:13:09+01:00
 author: "Farzad FARID"
@@ -18,7 +18,7 @@ images:
 
 ---
 
-Simonac ! Tu veux-tu améliorer ton vocabulaire québécois tout en lisant une histoire émouvante ? Alors lis donc « [Paul à Québec](https://www.lapasteque.com/paul-a-quebec) ».
+Simonac ! Tu veux-tu améliorer ton vocabulaire québécois tout en lisant une histoire émouvante ? Alors lis donc « [Paul à Québec](https://www.lapasteque.com/paul-a-quebec) ».
 
 ![image](images/Paul-à-Québec.jpeg#layoutFillWidth)
 

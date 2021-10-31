@@ -1,5 +1,5 @@
 ---
-title: "«La conjuration des imbéciles» de John Kennedy Toole"
+title: "« La conjuration des imbéciles » de John Kennedy Toole"
 author: "Farzad FARID"
 date: 2019-11-18T22:05:18.359Z
 lastmod: 2020-05-21T00:15:02+02:00
@@ -36,7 +36,7 @@ Déjà, c’est un livre qui appartient à ma femme, qui l’a acheté il y a lo
 
 Il aurait pu rester sagement rangé dans la bibliothèque encore quelques années, si le hasard ne me l’avait pas fait découvrir, d’abord à la radio…
 
-Il se trouve que Guillaume Gallienne en a fait une lecture il y a quelques années dans l’émission «**Ça peut pas faire de mal**» sur France Inter à l’époque où je l’écoutais. D’habitude j’écoute sa récitation des textes d’une oreille distraite, mais cette fois ci l’action était tellement bizarre et les dialogues tellement décalés, que j’ai écouté plus attentivement… Rien que le titre, «La conjuration des imbéciles», a attiré ma curiosité. Et finalement Guillaume Gallienne m’a vraiment donné envie de le lire !
+Il se trouve que Guillaume Gallienne en a fait une lecture il y a quelques années dans l’émission « **Ça peut pas faire de mal** » sur France Inter à l’époque où je l’écoutais. D’habitude j’écoute sa récitation des textes d’une oreille distraite, mais cette fois ci l’action était tellement bizarre et les dialogues tellement décalés, que j’ai écouté plus attentivement… Rien que le titre, « La conjuration des imbéciles », a attiré ma curiosité. Et finalement Guillaume Gallienne m’a vraiment donné envie de le lire !
 
 Et c’est donc en aménageant la bibliothèque que je découvre que nous avons ce livre. Gros livre, histoire étonnante en dos de couverture, une bonne lecture pour les vacances d’été me suis-je dit.
 

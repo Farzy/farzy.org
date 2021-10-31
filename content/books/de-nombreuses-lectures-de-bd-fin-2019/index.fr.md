@@ -35,7 +35,7 @@ Je trouve le dessin un peu statique et naïf, mais l’histoire est prenante, je
 
 Je ne sais pas ce qu’en pensent les amateurs de BD de SF mais je trouve des similitudes avec le **Cycle de Cyann** ([https://www.bedetheque.com/serie-37-BD-Cycle-de-Cyann.html](https://www.bedetheque.com/serie-37-BD-Cycle-de-Cyann.html)) dans les thèmes (relations humaines, sexualité dans un univers SF) et le dessin… et vous ?
 J’
-ai justement relu tout le **Cycle de Cyann** de Bourgeon et Lacroix (les 2 premiers font dans les 100 pages !) pour pouvoir lire le 5ème tome, **«Les couloirs de l’entretemps»**. En effet j’avais un peu oublié l’histoire tellement c’est dense…
+ai justement relu tout le **Cycle de Cyann** de Bourgeon et Lacroix (les 2 premiers font dans les 100 pages !) pour pouvoir lire le 5ème tome, **« Les couloirs de l’entretemps »**. En effet j’avais un peu oublié l’histoire tellement c’est dense…
 
 
 
@@ -44,10 +44,10 @@ ai justement relu tout le **Cycle de Cyann** de Bourgeon et Lacroix (les 2 premi
 
 
 
-J’ai beaucoup aimé le tome 5 alors que j’avais un peu moins aimé les 3 et 4. La qualité du scénario remonte, sans égaler les 1 «La sOurce et la sOnde» et 2 «6 saisons sur ilÔ», mais suffisamment pour me donner envie de lire la suite.
+J’ai beaucoup aimé le tome 5 alors que j’avais un peu moins aimé les 3 et 4. La qualité du scénario remonte, sans égaler les 1 « La sOurce et la sOnde » et 2 « 6 saisons sur ilÔ », mais suffisamment pour me donner envie de lire la suite.
 
 Je recommande aussi pour les amateurs de SF et de beaux dessins (ici aussi les mouvements sont mal rendus…).
-**Quai d’Orsay**, de Lanzac et Blain. J’ai lu le tome 2, il est aussi drôle que le premier. C’est une parodie de Dominique de Villepin, alors ministre des affaires étrangères. Le scénariste a été conseiller, «spécialiste des langages», sous Villepin.
+**Quai d’Orsay**, de Lanzac et Blain. J’ai lu le tome 2, il est aussi drôle que le premier. C’est une parodie de Dominique de Villepin, alors ministre des affaires étrangères. Le scénariste a été conseiller, « spécialiste des langages », sous Villepin.
 
 
 

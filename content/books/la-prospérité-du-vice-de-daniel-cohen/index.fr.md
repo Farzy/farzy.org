@@ -1,5 +1,5 @@
 ---
-title: "«La prospérité du vice» de Daniel Cohen"
+title: "« La prospérité du vice » de Daniel Cohen"
 author: "Farzad FARID"
 date: 2019-11-23T12:34:00.043Z
 lastmod: 2020-05-21T00:15:23+02:00
@@ -36,4 +36,4 @@ Mais nous somme tout sauf (uniquement) rationnels ! Nous avons des émotions, de
 
 Très bonne lecture que je recommande vivement entre 2 bandes dessinées !
 
-Je recommande aussi vivement la lecture de l’«**Antimanuel d’économie**» en 2 tomes du regretté Bernard Maris, qui est quant à lui très drôle et irrespectueux avec les dogmes économiques.
+Je recommande aussi vivement la lecture de l’« **Antimanuel d’économie** » en 2 tomes du regretté Bernard Maris, qui est quant à lui très drôle et irrespectueux avec les dogmes économiques.

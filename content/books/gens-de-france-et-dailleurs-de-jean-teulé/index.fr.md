@@ -1,11 +1,11 @@
 ---
-title: "« Gens de France et d’ailleurs » de Jean Teulé"
+title: "« Gens de France et d’ailleurs » de Jean Teulé"
 author: "Farzad FARID"
 date: 2020-05-21T00:18:08+02:00
 lastmod: 2021-10-27T20:14:50+00:00
 draft: false
 
-description: "Une lecture mes lectures BD récente est un livre inclassable, «Gens de France et d’ailleurs» de Jean Teulé. C’est la réédition de…"
+description: "Une lecture mes lectures BD récente est un livre inclassable, « Gens de France et d’ailleurs » de Jean Teulé. C’est la réédition de…"
 tags:
 - Bande Dessinée
 - Critique
@@ -21,7 +21,7 @@ images:
 
 ---
 
-Une lecture mes lectures BD récente est un livre inclassable, « Gens de France et d’ailleurs » de Jean Teulé. C’est la réédition de minireportages qu’il a réalisés dans les années 80 et édité chez Casterman, sur des paumés, des gens très étranges, des meurtres, des fous… C’est foutraque et très drôle à la fois, même la forme est étrange : mélange de photos, de textes, de dessins, de collages, à l’image de l’auteur qui est à la fois auteur de BD, écrivain, chroniqueur télé (L’assiette anglaise, années 80), réalisateur, acteur… 
+Une lecture mes lectures BD récente est un livre inclassable, « Gens de France et d’ailleurs » de Jean Teulé. C’est la réédition de minireportages qu’il a réalisés dans les années 80 et édité chez Casterman, sur des paumés, des gens très étranges, des meurtres, des fous… C’est foutraque et très drôle à la fois, même la forme est étrange : mélange de photos, de textes, de dessins, de collages, à l’image de l’auteur qui est à la fois auteur de BD, écrivain, chroniqueur télé (L’assiette anglaise, années 80), réalisateur, acteur… 
 
 
 

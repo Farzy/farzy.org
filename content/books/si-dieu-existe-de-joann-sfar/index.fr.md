@@ -5,7 +5,7 @@ date: 2020-03-09T20:28:27.129Z
 lastmod: 2020-05-21T00:17:15+02:00
 draft: false
 
-description: "Après le joyeux «Greffier» de Joann Sfar, j’ai lu le plus sombre «Si dieu existe», carnet écrit cette fois après plusieurs événements…"
+description: "Après le joyeux « Greffier » de Joann Sfar, j’ai lu le plus sombre « Si dieu existe », carnet écrit cette fois après plusieurs événements…"
 tags:
  - Bande Dessinée
  - Critique
@@ -17,7 +17,7 @@ images:
  - "/fr/books/si-dieu-existe-de-joann-sfar/images/1.jpeg"
 ---
 
-Après le joyeux «**Greffier**» de Joann Sfar, j’ai lu le plus sombre «**Si dieu existe**», carnet écrit cette fois après plusieurs événements marquants pour l’auteur : Attentat de Charlie Hebdo et de l’hyper casher, mort de son père, séparation avec sa femme…
+Après le joyeux « **Greffier** » de Joann Sfar, j’ai lu le plus sombre « **Si dieu existe** », carnet écrit cette fois après plusieurs événements marquants pour l’auteur : Attentat de Charlie Hebdo et de l’hyper casher, mort de son père, séparation avec sa femme…
 
 
 

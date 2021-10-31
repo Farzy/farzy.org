@@ -1,5 +1,5 @@
 ---
-title: "«Imbattable» de Pascal Jousselin"
+title: "« Imbattable » de Pascal Jousselin"
 date: 2021-04-04T16:17:00+02:00
 author: "Farzad FARID"
 draft: false

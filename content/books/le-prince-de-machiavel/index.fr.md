@@ -1,5 +1,5 @@
 ---
-title: "«Le Prince» de Machiavel"
+title: "« Le Prince » de Machiavel"
 author: "Farzad FARID"
 date: 2019-11-14T20:05:59.193Z
 lastmod: 2020-05-21T00:14:48+02:00
@@ -31,4 +31,4 @@ C’est une lecture difficile mais vraiment intéressante dont on peu tirer des 
 
 En complément de ces deux lectures je recommande aussi vivement d’écouter l’excellente série de chroniques que Patrick Boucheron, professeur au Collège de France, a réalisée sur France Inter en été 2016 : [**Un été avec Machiavel**](https://www.franceinter.fr/emissions/un-ete-avec-machiavel).
 
-Patrick Boucheron nous apprend entre autre à distinguer le péjoratif «**machiavélique**» du plus neutre «**machiaviélien**», néologisme de son cru pour désigner la pensée de l’auteur.
+Patrick Boucheron nous apprend entre autre à distinguer le péjoratif « **machiavélique** » du plus neutre « **machiaviélien** », néologisme de son cru pour désigner la pensée de l’auteur.
