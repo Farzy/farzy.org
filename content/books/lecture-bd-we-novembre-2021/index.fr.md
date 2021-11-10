@@ -35,7 +35,7 @@ J’ai commencé cette série bien après qu’elle soit finie. Je suis un grand
 
 ![Lapinot](images/lapinot-2.jpeg)
 
-L’exception à l’humour est l’avant dernier tome, **La vie comme elle vient**, qui est assez tragique et se finit par la mort d’un des personnages principaux. Il m’a même un peu chamboulé. Le dernier tome, **L’accélérateur atomique**, une fantaisie dans l’univers des années 50 de Spirou et Fantasio, fait totalement abstraction de cette mort, est conclut la série de façon totalement décalée et burlesque.
+L’exception à l’humour est l’avant dernier tome, **La vie comme elle vient**, qui est assez tragique et se finit par la mort d’un des personnages principaux. Il m’a même un peu chamboulé. Le dernier tome, **L’accélérateur atomique**, une fantaisie dans l’univers des années 50 de Spirou et Fantasio, fait totalement abstraction de cette mort, et conclut la série de façon totalement décalée et burlesque.
 
 # Capricorne T12 d’Andreas
 
