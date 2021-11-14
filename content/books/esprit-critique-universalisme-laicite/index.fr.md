@@ -65,6 +65,8 @@ Voici un passage du livre que j'ai particulièrement aimé :
 
 ![Apocalypse cognitive](images/apocalypse-cognitive-4.jpeg)
 
+En seulement six pages, Gérald Bronner déboulonne les fanboys de Jean-Jacques Rousseau, les décroissants, les marxistes, les woke pour qui tout est construction sociale, les utopistes naïfs…
+
 Je trouve en effet qu'on vénère trop Jean-Jacques Rousseau en France, vu les bêtises qu'il dit sur "_l'homme bon par nature perverti par la civilisation_". Ses propos faisaient peut-être sens avec le niveau de connaissance scientifique limité de son temps mais, à notre époque, c'est absurde ! J'ai gardé un mauvais souvenir de mes cours de philosophie dans lesquels on nous répétait « *Rousseau… l'homme sauvage bon… blah blah…* » jusqu'à la nausée.
 
 **Note** : J'ai lu tout à l'heure cet article de Yascha Mounk, [« Facebook et la panique morale »](https://www.lexpress.fr/actualite/idees-et-debats/facebook-et-la-panique-morale-par-yascha-mounk_2162204.html). Il dit qu'il ne faut pas imputer aux seuls réseaux sociaux l'hystérisation des débats. Il a raison de dire que Facebook n'est pas le seul fautif, mais les *Metaverses* de Facebook sont un amplificateur des travers cognitifs que Gérald Bronner décrit.
