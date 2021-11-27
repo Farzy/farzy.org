@@ -14,6 +14,7 @@ tags:
 
 featured_image: "/fr/books/lectures-achats-bd-fin-novembre-2021/images/bandeau.jpeg"
 images:
+- "/fr/books/lectures-achats-bd-fin-novembre-2021/images/bandeau.jpeg"
 - "/fr/books/lectures-achats-bd-fin-novembre-2021/images/Corben%20-%20Couleur.jpeg"
 - "/fr/books/lectures-achats-bd-fin-novembre-2021/images/Corben%20-%20Couverture.jpeg"
 - "/fr/books/lectures-achats-bd-fin-novembre-2021/images/Corben%20-%20Creepy.jpeg"
@@ -28,7 +29,6 @@ images:
 - "/fr/books/lectures-achats-bd-fin-novembre-2021/images/Les%205%20Terres%20-%20intérieur.jpeg"
 - "/fr/books/lectures-achats-bd-fin-novembre-2021/images/Locke%20&%20Key%20T4-5,%20short%20stories.jpeg"
 - "/fr/books/lectures-achats-bd-fin-novembre-2021/images/Meadowlark.jpeg"
-- "/fr/books/lectures-achats-bd-fin-novembre-2021/images/bandeau.jpeg"
 ---
 
 J'ai encore fait quelques folies ce mois-ci en terme d'achats de bandes dessinées :scream:
