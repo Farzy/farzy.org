@@ -1,7 +1,7 @@
 ---
 title: "« Le journal d’un ingénu » d’Émile Bravo"
 author: "Farzad FARID"
-date: 2021-11-28T13:57:35+00:00
+date: 2020-05-21T00:17:47+02:00
 lastmod: 2021-11-28T13:57:35+00:00
 draft: false
 
