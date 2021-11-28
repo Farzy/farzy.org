@@ -5,7 +5,7 @@ date: 2021-11-28T13:57:35+00:00
 lastmod: 2021-11-28T13:57:35+00:00
 draft: false
 
-description: "Reading a little dark with "Le journal d’un ingénu" by Emile Bravo. This volume, the first of a series by Bravo, is part of "reboots" of Spirou by contemporary authors"
+description: Reading a little dark with "Le journal d’un ingénu" by Emile Bravo. This volume, the first of a series by Bravo, is part of "reboots" of Spirou by contemporary authors
 tags:
 - Bande Dessinée
 - Critique

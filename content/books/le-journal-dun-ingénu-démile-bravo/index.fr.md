@@ -15,7 +15,7 @@ tags:
 featured_image: "/fr/books/le-journal-dun-ingénu-démile-bravo/images/1.jpeg" 
 images:
  - "/fr/books/le-journal-dun-ingénu-démile-bravo/images/1.jpeg"
- ---
+---
 
 **Note** : Article de 2019 que je n'avais pas mis en ligne.
 
