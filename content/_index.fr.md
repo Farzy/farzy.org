@@ -1,6 +1,7 @@
 ---
 title: "Bienvenue !"
 date: 2020-05-20T23:33:39+02:00
+featured_image: "/images/taira-nami-teapot.jpg"
 draft: false
 ---
 
