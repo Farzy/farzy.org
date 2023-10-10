@@ -1,15 +1,8 @@
 baseURL: "https://farzy.org/"
-#languageCode: "fr"
-#languageName: "Français"
 title: "Farzad FARID"
 
-#module:
-#  imports:
-#    - path: github.com/theNewDynamic/gohugo-theme-ananke
-#      disable: false
-
 theme:
-  - ananke
+  - "github.com/theNewDynamic/gohugo-theme-ananke"
 
 enableEmoji: true
 enableRobotsTXT: true
@@ -45,14 +38,17 @@ params:
     - misc
     - it
 
-DefaultContentLanguage: "fr"
+defaultContentLanguage: "fr"
 defaultContentLanguageInSubdir: true
 languages:
   en:
+    languageCode: en
     languageName: English
     weight: 2
   fr:
+    languageCode: fr-FR
     languageName: Français
     weight: 1
     title: "Site de Farzad"
-    description: "Des livres, des bandes dessinées, de l'infrastructure, du Kubernetes…"
+    params:
+      description: "Des livres, des bandes dessinées, de l'infrastructure, du Kubernetes…"
