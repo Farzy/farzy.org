@@ -63,7 +63,7 @@ Pierre Bourdieu sont décortiqués et leur propos fallacieux démontés de la m�
 
 Le livre fait également un détour par l'analyse de la pensée conspirationniste, car
 c'est un thème qui n'est en effet pas très éloigné de celui de la mythologie des
-transclasses : diviser le monde en "gentils pauvres" et "méchantes riches / dominants", et affirmer que cette seconde catégorie maintient volontairement la
+transclasses : diviser le monde en "gentils pauvres" et "méchants riches / dominants", et affirmer que cette seconde catégorie maintient volontairement la
 première dans la servitude, comme le font certains transclasses ou les soutiens 
 misérabilistes des transclasses, est une théorie conspirationniste infondée.
 
