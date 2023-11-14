@@ -1,7 +1,7 @@
 ---
 title: "Frankenstein en Bande Dessinée"
 date: 2023-10-29T15:47:59+01:00
-lastmod: 2023-10-29T15:47:59+01:00
+lastmod: 2023-11-14T19:08:00+01:00
 author: "Farzad FARID"
 draft: false
 
@@ -14,9 +14,9 @@ tags:
 
 featured_image: "fr/books/2023-10-29-frankenstein-en-bd/images/bandeau.jpeg"
 images:
-  - "fr/books/2023-10-29-frankenstein-en-bd/images/bess.jpg"
-  - "fr/books/2023-10-29-frankenstein-en-bd/images/hernandez.jpg"
-  - "fr/books/2023-10-29-frankenstein-en-bd/images/ito.jpg"
+  - "fr/books/2023-10-29-frankenstein-en-bd/images/bess.jpeg"
+  - "fr/books/2023-10-29-frankenstein-en-bd/images/hernandez.jpeg"
+  - "fr/books/2023-10-29-frankenstein-en-bd/images/ito.jpeg"
 ---
 
 Lecture consécutives de 3 adaptations BD de **Frankenstein** que ma grande fille, fan de romans gothiques du 19ème siècle, a achetées. Les trois sont très bien !
